@@ -1,0 +1,11 @@
+Comments: ''
+Direction: ''
+Lex: pe
+Regex: \bpe\b
+Type: PE
+---
+Comments: '\b(embolism|emboli|embolus)\b'
+Direction: ''
+Lex: pulmonary artery embolism
+Regex: \b(pulmonary|septic)?(\s{0,10})?(artery)?(\s{0,10})?(embolism|emboli|embolus)\b
+Type: PE

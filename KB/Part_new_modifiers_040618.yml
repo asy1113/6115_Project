@@ -1,0 +1,300 @@
+Comments: ''
+Direction: bidirectional
+Lex: ?
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: admission for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: are identified
+Regex: ''
+Type: CONFIRM
+---
+Comments: ''
+Direction: forward
+Lex: assess for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: concern for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: concern was for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: concerning for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: did not show
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: do not suggest
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: eval for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: bidirectional
+Lex: EVAL
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: evaluate for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: exclude the possibility
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: found to have
+Regex: ''
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: high risk ratio for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: less likely
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: limited
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: low likelyhood
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: low suspicion for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: neg for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: Negative examination for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: negative for obvious
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: negative for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no acute
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no central
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no evidence of
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no filling defect
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: none 
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: out of concern
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: past
+Regex: ''
+Type: HISTORICAL
+---
+Comments: ''
+Direction: backward
+Lex: also possible
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: cannot be excluded
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: could not be excluded
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: on admission
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: protocol
+Regex: ''
+Type: PROTOCAL
+---
+Comments: ''
+Direction: backward
+Lex: was considered
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex: but no evidence
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: possible
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: bidirectional
+Lex: question 
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: question for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: r/o
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: backward
+Lex:  confirmed
+Regex: ''
+Type: CONFIRM
+---
+Comments: ''
+Direction: forward
+Lex: reason for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: suspicion for
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: test
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: tiny
+Regex: ''
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: to suggest
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: treat pe
+Regex: ''
+Type: TREAT
+---
+Comments: ''
+Direction: forward
+Lex: unclear if
+Regex: ''
+Type: CONCERN
+---
+Comments: ''
+Direction: forward
+Lex: without definite
+Regex: ''
+Type: CONCERN
+---

@@ -1,0 +1,1928 @@
+pt_id,doc_id,start,end,snippet,negation
+97670,97670_308.txt,153.0,155.0,pe,pe_doc
+97670,97670_308.txt,400.0,402.0,pe,pe_doc
+97670,97670_308.txt,664.0,681.0,pulmonary embolus,pe_doc
+97670,97670_308.txt,783.0,800.0,pulmonary embolus,pe_doc
+97670,97670_308.txt,1297.0,1299.0,pe,pe_doc
+97670,97670_308.txt,1460.0,1476.0,pulmonary emboli,pe_doc
+49188,49188_129.txt,3267.0,3285.0,pulmonary embolism,no_pe
+68882,68882_275.txt,118.0,120.0,pe,no_pe
+68882,68882_275.txt,421.0,423.0,pe,no_pe
+68882,68882_275.txt,497.0,506.0, embolism,no_pe
+68882,68882_275.txt,996.0,1014.0,pulmonary embolism,no_pe
+68882,68882_275.txt,1298.0,1300.0,pe,no_pe
+27416,27416_263.txt,118.0,120.0,pe,no_pe
+27416,27416_263.txt,307.0,309.0,pe,no_pe
+27416,27416_263.txt,356.0,358.0,pe,no_pe
+27416,27416_263.txt,509.0,527.0,pulmonary embolism,no_pe
+27416,27416_263.txt,757.0,775.0,pulmonary embolism,no_pe
+68251,68251_124.txt,224.0,242.0,pulmonary embolism,pe_doc
+68251,68251_124.txt,2221.0,2245.0,pulmonary artery embolus,pe_doc
+68251,68251_124.txt,2281.0,2283.0,pe,pe_doc
+68251,68251_124.txt,2638.0,2655.0,pulmonary embolus,pe_doc
+68251,68251_124.txt,2938.0,2955.0,pulmonary embolus,pe_doc
+15247,15247_97.txt,63.0,81.0,pulmonary embolism,no_pe
+50190,50190_324.txt,119.0,121.0,pe,no_pe
+50190,50190_324.txt,349.0,351.0,pe,no_pe
+50190,50190_324.txt,434.0,436.0,pe,no_pe
+50190,50190_324.txt,547.0,565.0,pulmonary embolism,no_pe
+50190,50190_324.txt,744.0,746.0,pe,no_pe
+6061,6061_44.txt,235.0,237.0,pe,pe_doc
+6061,6061_44.txt,482.0,484.0,pe,pe_doc
+6061,6061_44.txt,721.0,723.0,pe,pe_doc
+6061,6061_44.txt,552.0,570.0,pulmonary embolism,pe_doc
+6061,6061_44.txt,1059.0,1068.0, embolism,pe_doc
+6061,6061_44.txt,1424.0,1426.0,pe,pe_doc
+6061,6061_44.txt,1842.0,1844.0,pe,pe_doc
+6061,6061_44.txt,1954.0,1972.0,pulmonary embolism,pe_doc
+41308,41308_142.txt,17.0,35.0,pulmonary embolism,pe_doc
+41308,41308_142.txt,446.0,462.0,pulmonary emboli,pe_doc
+41308,41308_142.txt,509.0,518.0, embolism,pe_doc
+72116,72116_95.txt,27.0,45.0,pulmonary embolism,pe_doc
+72116,72116_95.txt,244.0,246.0,pe,pe_doc
+72116,72116_95.txt,526.0,528.0,pe,pe_doc
+72116,72116_95.txt,1211.0,1213.0,pe,pe_doc
+72116,72116_95.txt,1450.0,1452.0,pe,pe_doc
+72116,72116_95.txt,2278.0,2280.0,pe,pe_doc
+72116,72116_95.txt,2307.0,2325.0,pulmonary embolism,pe_doc
+72116,72116_95.txt,2482.0,2500.0,pulmonary embolism,pe_doc
+53081,53081_303.txt,126.0,128.0,pe,pe_doc
+53081,53081_303.txt,354.0,356.0,pe,pe_doc
+53081,53081_303.txt,534.0,536.0,pe,pe_doc
+53081,53081_303.txt,961.0,978.0,pulmonary embolus,pe_doc
+53081,53081_303.txt,1605.0,1607.0,pe,pe_doc
+53081,53081_303.txt,2451.0,2453.0,pe,pe_doc
+25860,25860_294.txt,125.0,127.0,pe,no_pe
+25860,25860_294.txt,386.0,388.0,pe,no_pe
+25860,25860_294.txt,551.0,569.0,pulmonary embolism,no_pe
+25860,25860_294.txt,587.0,589.0,pe,no_pe
+25860,25860_294.txt,1046.0,1048.0,pe,no_pe
+25860,25860_294.txt,1212.0,1230.0,pulmonary embolism,no_pe
+32605,32605_297.txt,125.0,127.0,pe,no_pe
+32605,32605_297.txt,398.0,400.0,pe,no_pe
+32605,32605_297.txt,424.0,426.0,pe,no_pe
+32605,32605_297.txt,508.0,526.0,pulmonary embolism,no_pe
+32605,32605_297.txt,840.0,858.0,pulmonary embolism,no_pe
+32605,32605_297.txt,949.0,958.0, embolism,no_pe
+32605,32605_297.txt,1260.0,1262.0,pe,no_pe
+32605,32605_297.txt,1446.0,1464.0,pulmonary embolism,no_pe
+32605,32605_297.txt,1536.0,1554.0,pulmonary embolism,no_pe
+56179,56179_280.txt,116.0,118.0,pe,no_pe
+56179,56179_280.txt,334.0,336.0,pe,no_pe
+56179,56179_280.txt,500.0,502.0,pe,no_pe
+56179,56179_280.txt,622.0,624.0,pe,no_pe
+56179,56179_280.txt,845.0,847.0,pe,no_pe
+56179,56179_280.txt,988.0,1006.0,pulmonary embolism,no_pe
+56179,56179_280.txt,1256.0,1258.0,pe,no_pe
+56179,56179_280.txt,1340.0,1358.0,pulmonary embolism,no_pe
+91150,91150_104.txt,39.0,56.0,pulmonary embolus,pe_doc
+91150,91150_104.txt,198.0,215.0,pulmonary embolus,pe_doc
+91150,91150_104.txt,679.0,681.0,pe,pe_doc
+91150,91150_104.txt,937.0,939.0,pe,pe_doc
+91150,91150_104.txt,993.0,1009.0,pulmonary emboli,pe_doc
+91150,91150_104.txt,1023.0,1031.0, embolus,pe_doc
+91150,91150_104.txt,1404.0,1420.0,pulmonary emboli,pe_doc
+91150,91150_104.txt,1542.0,1544.0,pe,pe_doc
+91150,91150_104.txt,1508.0,1524.0,pulmonary emboli,pe_doc
+91150,91150_104.txt,1891.0,1907.0,pulmonary emboli,pe_doc
+91150,91150_104.txt,2063.0,2081.0,pulmonary embolism,pe_doc
+7752,7752_191.txt,133.0,135.0,pe,no_pe
+7752,7752_191.txt,387.0,389.0,pe,no_pe
+7752,7752_191.txt,550.0,552.0,pe,no_pe
+7752,7752_191.txt,773.0,791.0,pulmonary embolism,no_pe
+7752,7752_191.txt,837.0,855.0,pulmonary embolism,no_pe
+7752,7752_191.txt,884.0,902.0,pulmonary embolism,no_pe
+58515,58515_153.txt,438.0,440.0,pe,pe_doc
+58515,58515_153.txt,386.0,404.0,pulmonary embolism,pe_doc
+59318,59318_316.txt,364.0,366.0,pe,no_pe
+59318,59318_316.txt,491.0,509.0,pulmonary embolism,no_pe
+59318,59318_316.txt,839.0,857.0,pulmonary embolism,no_pe
+58515,58515_118.txt,562.0,564.0,pe,pe_doc
+58515,58515_118.txt,636.0,638.0,pe,pe_doc
+58515,58515_118.txt,931.0,949.0,pulmonary embolism,pe_doc
+58515,58515_118.txt,2291.0,2293.0,pe,pe_doc
+90552,90552_59.txt,82.0,84.0,pe,pe_doc
+90552,90552_59.txt,1182.0,1184.0,pe,pe_doc
+90552,90552_59.txt,1904.0,1922.0,pulmonary embolism,pe_doc
+85050,85050_7.txt,105.0,107.0,pe,no_pe
+85050,85050_7.txt,265.0,283.0,pulmonary embolism,no_pe
+85050,85050_7.txt,470.0,472.0,pe,no_pe
+30399,30399_248.txt,116.0,118.0,pe,no_pe
+30399,30399_248.txt,467.0,469.0,pe,no_pe
+30399,30399_248.txt,516.0,518.0,pe,no_pe
+30399,30399_248.txt,896.0,898.0,pe,no_pe
+30399,30399_248.txt,535.0,553.0,pulmonary embolism,no_pe
+64983,64983_21.txt,593.0,611.0,pulmonary embolism,no_pe
+64983,64983_21.txt,885.0,901.0,pulmonary emboli,no_pe
+64983,64983_21.txt,1120.0,1122.0,pe,no_pe
+16492,16492_286.txt,116.0,118.0,pe,no_pe
+16492,16492_286.txt,369.0,371.0,pe,no_pe
+16492,16492_286.txt,766.0,768.0,pe,no_pe
+16492,16492_286.txt,1032.0,1050.0,pulmonary embolism,no_pe
+16492,16492_286.txt,1206.0,1208.0,pe,no_pe
+16492,16492_286.txt,1508.0,1510.0,pe,no_pe
+81846,81846_301.txt,150.0,152.0,pe,no_pe
+81846,81846_301.txt,471.0,473.0,pe,no_pe
+81846,81846_301.txt,1202.0,1204.0,pe,no_pe
+81846,81846_301.txt,954.0,971.0,pulmonary embolus,no_pe
+81846,81846_301.txt,1582.0,1584.0,pe,no_pe
+82393,82393_133.txt,480.0,482.0,pe,pe_doc
+82393,82393_133.txt,1040.0,1058.0,pulmonary embolism,pe_doc
+82326,82326_146.txt,606.0,622.0,pulmonary emboli,no_pe
+15853,15853_34.txt,0.0,2.0,pe,pe_doc
+15853,15853_34.txt,296.0,314.0,pulmonary embolism,pe_doc
+15853,15853_34.txt,492.0,499.0, emboli,pe_doc
+15853,15853_34.txt,522.0,540.0,pulmonary embolism,pe_doc
+15853,15853_34.txt,750.0,768.0,pulmonary embolism,pe_doc
+15853,15853_34.txt,889.0,907.0,pulmonary embolism,pe_doc
+15853,15853_34.txt,1059.0,1075.0,pulmonary emboli,pe_doc
+15853,15853_34.txt,1667.0,1683.0,pulmonary emboli,pe_doc
+58515,58515_151.txt,241.0,243.0,pe,pe_doc
+58515,58515_151.txt,1002.0,1004.0,pe,pe_doc
+58515,58515_151.txt,950.0,968.0,pulmonary embolism,pe_doc
+10820,10820_233.txt,382.0,384.0,pe,no_pe
+10820,10820_233.txt,443.0,445.0,pe,no_pe
+10820,10820_233.txt,764.0,782.0,pulmonary embolism,no_pe
+10820,10820_233.txt,814.0,832.0,pulmonary embolism,no_pe
+87284,87284_270.txt,141.0,143.0,pe,no_pe
+87284,87284_270.txt,431.0,433.0,pe,no_pe
+87284,87284_270.txt,527.0,545.0,pulmonary embolism,no_pe
+87284,87284_270.txt,671.0,689.0,pulmonary embolism,no_pe
+87284,87284_270.txt,1542.0,1544.0,pe,no_pe
+58264,58264_323.txt,127.0,129.0,pe,no_pe
+58264,58264_323.txt,357.0,359.0,pe,no_pe
+58264,58264_323.txt,525.0,543.0,pulmonary embolism,no_pe
+58264,58264_323.txt,659.0,677.0,pulmonary embolism,no_pe
+58264,58264_323.txt,851.0,853.0,pe,no_pe
+58264,58264_323.txt,697.0,715.0,pulmonary embolism,no_pe
+46904,46904_45.txt,219.0,235.0,pulmonary emboli,no_pe
+46904,46904_45.txt,999.0,1015.0,pulmonary emboli,no_pe
+46904,46904_45.txt,1669.0,1671.0,pe,no_pe
+46904,46904_45.txt,1182.0,1198.0,pulmonary emboli,no_pe
+46904,46904_45.txt,1755.0,1772.0,pulmonary embolus,no_pe
+49188,49188_164.txt,2975.0,2993.0,pulmonary embolism,no_pe
+49853,49853_70.txt,112.0,128.0,pulmonary emboli,pe_doc
+49853,49853_70.txt,580.0,596.0,pulmonary emboli,pe_doc
+49853,49853_70.txt,748.0,750.0,pe,pe_doc
+49853,49853_70.txt,817.0,819.0,pe,pe_doc
+49853,49853_70.txt,984.0,986.0,pe,pe_doc
+49853,49853_70.txt,1186.0,1203.0,pulmonary embolus,pe_doc
+97830,97830_62.txt,528.0,546.0,pulmonary embolism,no_pe
+97830,97830_62.txt,643.0,661.0,pulmonary embolism,no_pe
+97830,97830_62.txt,892.0,910.0,pulmonary embolism,no_pe
+97830,97830_62.txt,1186.0,1188.0,pe,no_pe
+97830,97830_62.txt,1330.0,1332.0,pe,no_pe
+97830,97830_62.txt,1480.0,1498.0,pulmonary embolism,no_pe
+22119,22119_35.txt,50.0,52.0,pe,no_pe
+22119,22119_35.txt,111.0,113.0,pe,no_pe
+22119,22119_35.txt,233.0,251.0,pulmonary embolism,no_pe
+22119,22119_35.txt,298.0,316.0,pulmonary embolism,no_pe
+22119,22119_35.txt,347.0,365.0,pulmonary embolism,no_pe
+22119,22119_35.txt,549.0,551.0,pe,no_pe
+78842,78842_103.txt,933.0,935.0,pe,no_pe
+78842,78842_103.txt,1829.0,1831.0,pe,no_pe
+78842,78842_103.txt,1998.0,2000.0,pe,no_pe
+78842,78842_103.txt,1944.0,1960.0,pulmonary emboli,no_pe
+78842,78842_103.txt,2064.0,2071.0, emboli,no_pe
+78842,78842_103.txt,2328.0,2346.0,pulmonary embolism,no_pe
+30579,30579_54.txt,15.0,33.0,pulmonary embolism,pe_doc
+9555,9555_11.txt,48.0,64.0,pulmonary emboli,pe_doc
+9555,9555_11.txt,213.0,229.0,pulmonary emboli,pe_doc
+9555,9555_11.txt,237.0,239.0,pe,pe_doc
+9555,9555_11.txt,720.0,735.0,septic embolism,pe_doc
+9555,9555_11.txt,857.0,875.0,pulmonary embolism,pe_doc
+9555,9555_11.txt,1189.0,1202.0,septic emboli,pe_doc
+9555,9555_11.txt,1633.0,1646.0,septic emboli,pe_doc
+9555,9555_11.txt,1982.0,1998.0,pulmonary emboli,pe_doc
+9555,9555_11.txt,2331.0,2347.0,pulmonary emboli,pe_doc
+49188,49188_163.txt,3223.0,3241.0,pulmonary embolism,no_pe
+95000,95000_25.txt,32.0,34.0,pe,no_pe
+95000,95000_25.txt,569.0,587.0,pulmonary embolism,no_pe
+24573,24573_246.txt,123.0,125.0,pe,no_pe
+24573,24573_246.txt,347.0,349.0,pe,no_pe
+24573,24573_246.txt,534.0,536.0,pe,no_pe
+24573,24573_246.txt,897.0,915.0,pulmonary embolism,no_pe
+24573,24573_246.txt,1002.0,1020.0,pulmonary embolism,no_pe
+90609,90609_60.txt,74.0,76.0,pe,no_pe
+90609,90609_60.txt,41.0,59.0,pulmonary embolism,no_pe
+90609,90609_60.txt,222.0,224.0,pe,no_pe
+81270,81270_75.txt,39.0,57.0,pulmonary embolism,no_pe
+86919,86919_114.txt,93.0,109.0,pulmonary emboli,pe_doc
+86919,86919_114.txt,2933.0,2949.0,pulmonary emboli,pe_doc
+86919,86919_114.txt,3307.0,3323.0,pulmonary emboli,pe_doc
+86919,86919_114.txt,3344.0,3362.0,pulmonary embolism,pe_doc
+86919,86919_114.txt,3384.0,3402.0,pulmonary embolism,pe_doc
+86919,86919_114.txt,3586.0,3604.0,pulmonary embolism,pe_doc
+86919,86919_114.txt,3954.0,3972.0,pulmonary embolism,pe_doc
+86919,86919_114.txt,4368.0,4386.0,pulmonary embolism,pe_doc
+69758,69758_295.txt,122.0,124.0,pe,pe_doc
+69758,69758_295.txt,415.0,417.0,pe,pe_doc
+69758,69758_295.txt,739.0,746.0, emboli,pe_doc
+69758,69758_295.txt,1175.0,1182.0, emboli,pe_doc
+69758,69758_295.txt,1636.0,1638.0,pe,pe_doc
+90446,90446_291.txt,123.0,125.0,pe,pe_doc
+90446,90446_291.txt,374.0,376.0,pe,pe_doc
+90446,90446_291.txt,816.0,834.0,pulmonary embolism,pe_doc
+90446,90446_291.txt,1204.0,1206.0,pe,pe_doc
+90446,90446_291.txt,1218.0,1234.0,pulmonary emboli,pe_doc
+90446,90446_291.txt,1631.0,1633.0,pe,pe_doc
+90446,90446_291.txt,1777.0,1793.0,pulmonary emboli,pe_doc
+32113,32113_139.txt,204.0,222.0,pulmonary embolism,pe_doc
+32113,32113_139.txt,1247.0,1265.0,pulmonary embolism,pe_doc
+32113,32113_139.txt,1289.0,1306.0,pulmonary embolus,pe_doc
+71194,71194_328.txt,123.0,125.0,pe,no_pe
+71194,71194_328.txt,339.0,341.0,pe,no_pe
+71194,71194_328.txt,396.0,414.0,pulmonary embolism,no_pe
+71194,71194_328.txt,558.0,576.0,pulmonary embolism,no_pe
+71194,71194_328.txt,612.0,630.0,pulmonary embolism,no_pe
+71194,71194_328.txt,1226.0,1228.0,pe,no_pe
+71194,71194_328.txt,1258.0,1276.0,pulmonary embolism,no_pe
+20552,20552_183.txt,50.0,68.0,pulmonary embolism,no_pe
+20552,20552_183.txt,223.0,239.0,pulmonary emboli,no_pe
+20552,20552_183.txt,664.0,682.0,pulmonary embolism,no_pe
+77586,77586_82.txt,9.0,25.0,pulmonary emboli,no_pe
+77586,77586_82.txt,226.0,242.0,pulmonary emboli,no_pe
+77586,77586_82.txt,605.0,621.0,pulmonary emboli,no_pe
+77586,77586_82.txt,824.0,826.0,pe,no_pe
+77586,77586_82.txt,1232.0,1234.0,pe,no_pe
+77586,77586_82.txt,1529.0,1545.0,pulmonary emboli,no_pe
+10569,10569_208.txt,139.0,141.0,pe,no_pe
+10569,10569_208.txt,398.0,400.0,pe,no_pe
+10569,10569_208.txt,554.0,556.0,pe,no_pe
+10569,10569_208.txt,580.0,598.0,pulmonary embolism,no_pe
+10569,10569_208.txt,749.0,767.0,pulmonary embolism,no_pe
+10569,10569_208.txt,1023.0,1041.0,pulmonary embolism,no_pe
+10569,10569_208.txt,1287.0,1289.0,pe,no_pe
+32061,32061_259.txt,128.0,130.0,pe,no_pe
+32061,32061_259.txt,417.0,419.0,pe,no_pe
+32061,32061_259.txt,466.0,484.0,pulmonary embolism,no_pe
+32061,32061_259.txt,561.0,579.0,pulmonary embolism,no_pe
+32061,32061_259.txt,984.0,986.0,pe,no_pe
+82326,82326_147.txt,111.0,113.0,pe,no_pe
+82326,82326_147.txt,228.0,241.0,septic emboli,no_pe
+31462,31462_48.txt,554.0,570.0,pulmonary emboli,pe_doc
+31462,31462_48.txt,786.0,788.0,pe,pe_doc
+31462,31462_48.txt,1167.0,1169.0,pe,pe_doc
+31462,31462_48.txt,1130.0,1146.0,pulmonary emboli,pe_doc
+31462,31462_48.txt,1326.0,1339.0,septic emboli,pe_doc
+31462,31462_48.txt,1504.0,1522.0,pulmonary embolism,pe_doc
+55273,55273_162.txt,257.0,259.0,pe,pe_doc
+55273,55273_162.txt,3087.0,3089.0,pe,pe_doc
+55273,55273_162.txt,3067.0,3085.0,pulmonary embolism,pe_doc
+55273,55273_162.txt,3264.0,3282.0,pulmonary embolism,pe_doc
+55273,55273_162.txt,3464.0,3466.0,pe,pe_doc
+55273,55273_162.txt,3651.0,3669.0,pulmonary embolism,pe_doc
+7299,7299_193.txt,139.0,141.0,pe,no_pe
+7299,7299_193.txt,401.0,403.0,pe,no_pe
+7299,7299_193.txt,565.0,567.0,pe,no_pe
+7299,7299_193.txt,610.0,628.0,pulmonary embolism,no_pe
+7299,7299_193.txt,1164.0,1182.0,pulmonary embolism,no_pe
+7299,7299_193.txt,1586.0,1588.0,pe,no_pe
+49106,49106_57.txt,18.0,36.0,pulmonary embolism,no_pe
+32090,32090_79.txt,207.0,209.0,pe,pe_doc
+32090,32090_79.txt,525.0,527.0,pe,pe_doc
+32090,32090_79.txt,796.0,812.0,pulmonary emboli,pe_doc
+58515,58515_115.txt,2921.0,2923.0,pe,pe_doc
+58515,58515_115.txt,2901.0,2919.0,pulmonary embolism,pe_doc
+58515,58515_115.txt,3471.0,3473.0,pe,pe_doc
+58515,58515_115.txt,3545.0,3547.0,pe,pe_doc
+58515,58515_115.txt,3758.0,3760.0,pe,pe_doc
+58515,58515_115.txt,3776.0,3794.0,pulmonary embolism,pe_doc
+58515,58515_154.txt,40.0,42.0,pe,pe_doc
+58515,58515_154.txt,20.0,38.0,pulmonary embolism,pe_doc
+12274,12274_257.txt,357.0,359.0,pe,no_pe
+12274,12274_257.txt,542.0,560.0,pulmonary embolism,no_pe
+12274,12274_257.txt,613.0,631.0,pulmonary embolism,no_pe
+12274,12274_257.txt,1434.0,1452.0,pulmonary embolism,no_pe
+66213,66213_83.txt,151.0,166.0, artery embolus,pe_doc
+66213,66213_83.txt,384.0,392.0, embolus,pe_doc
+66213,66213_83.txt,424.0,432.0, embolus,pe_doc
+66213,66213_83.txt,584.0,586.0,pe,pe_doc
+66213,66213_83.txt,611.0,613.0,pe,pe_doc
+66213,66213_83.txt,590.0,608.0,pulmonary embolism,pe_doc
+66213,66213_83.txt,781.0,783.0,pe,pe_doc
+66213,66213_83.txt,1062.0,1080.0,pulmonary embolism,pe_doc
+71377,71377_18.txt,18.0,36.0,pulmonary embolism,no_pe
+7676,7676_238.txt,164.0,166.0,pe,no_pe
+7676,7676_238.txt,401.0,403.0,pe,no_pe
+7676,7676_238.txt,610.0,628.0,pulmonary embolism,no_pe
+7676,7676_238.txt,2079.0,2081.0,pe,no_pe
+7676,7676_238.txt,2154.0,2172.0,pulmonary embolism,no_pe
+9594,9594_26.txt,162.0,180.0,pulmonary embolism,no_pe
+9594,9594_26.txt,291.0,309.0,pulmonary embolism,no_pe
+1257,1257_267.txt,130.0,146.0,pulmonary emboli,no_pe
+1257,1257_267.txt,446.0,462.0,pulmonary emboli,no_pe
+1257,1257_267.txt,530.0,546.0,pulmonary emboli,no_pe
+1257,1257_267.txt,840.0,858.0,pulmonary embolism,no_pe
+1257,1257_267.txt,981.0,999.0,pulmonary embolism,no_pe
+1257,1257_267.txt,1159.0,1175.0,pulmonary emboli,no_pe
+6417,6417_24.txt,27.0,45.0,pulmonary embolism,no_pe
+31462,31462_252.txt,172.0,174.0,pe,no_pe
+31462,31462_252.txt,404.0,406.0,pe,no_pe
+31462,31462_252.txt,485.0,501.0,pulmonary emboli,no_pe
+31462,31462_252.txt,832.0,834.0,pe,no_pe
+31462,31462_252.txt,854.0,856.0,pe,no_pe
+30336,30336_47.txt,170.0,172.0,pe,no_pe
+30336,30336_47.txt,196.0,198.0,pe,no_pe
+30336,30336_47.txt,649.0,651.0,pe,no_pe
+30336,30336_47.txt,720.0,722.0,pe,no_pe
+30336,30336_47.txt,781.0,783.0,pe,no_pe
+30336,30336_47.txt,1024.0,1042.0,pulmonary embolism,no_pe
+30336,30336_47.txt,1064.0,1082.0,pulmonary embolism,no_pe
+30336,30336_47.txt,1149.0,1167.0,pulmonary embolism,no_pe
+30336,30336_47.txt,1221.0,1237.0,pulmonary emboli,no_pe
+30336,30336_47.txt,1301.0,1317.0,pulmonary emboli,no_pe
+58515,58515_117.txt,562.0,564.0,pe,pe_doc
+58515,58515_117.txt,636.0,638.0,pe,pe_doc
+58515,58515_117.txt,931.0,949.0,pulmonary embolism,pe_doc
+43501,43501_81.txt,7.0,9.0,pe,pe_doc
+43501,43501_81.txt,442.0,444.0,pe,pe_doc
+43501,43501_81.txt,785.0,794.0, embolism,pe_doc
+43501,43501_81.txt,1398.0,1400.0,pe,pe_doc
+43501,43501_81.txt,1542.0,1544.0,pe,pe_doc
+43501,43501_81.txt,1618.0,1636.0,pulmonary embolism,pe_doc
+27089,27089_260.txt,118.0,120.0,pe,no_pe
+27089,27089_260.txt,306.0,308.0,pe,no_pe
+27089,27089_260.txt,406.0,408.0,pe,no_pe
+27089,27089_260.txt,587.0,605.0,pulmonary embolism,no_pe
+27089,27089_260.txt,637.0,655.0,pulmonary embolism,no_pe
+27089,27089_260.txt,847.0,849.0,pe,no_pe
+5772,5772_92.txt,45.0,62.0,pulmonary embolus,pe_doc
+5772,5772_92.txt,337.0,353.0,pulmonary emboli,pe_doc
+5772,5772_92.txt,445.0,453.0, embolus,pe_doc
+5772,5772_92.txt,489.0,497.0, embolus,pe_doc
+5772,5772_92.txt,817.0,833.0,pulmonary emboli,pe_doc
+5772,5772_92.txt,838.0,854.0,pulmonary emboli,pe_doc
+5772,5772_92.txt,888.0,896.0, embolus,pe_doc
+5772,5772_92.txt,1185.0,1201.0,pulmonary emboli,pe_doc
+5772,5772_92.txt,1376.0,1394.0,pulmonary embolism,pe_doc
+14419,14419_36.txt,523.0,541.0,pulmonary embolism,no_pe
+14419,14419_36.txt,976.0,978.0,pe,no_pe
+14419,14419_36.txt,1264.0,1266.0,pe,no_pe
+20858,20858_91.txt,261.0,263.0,pe,no_pe
+20858,20858_91.txt,556.0,574.0,pulmonary embolism,no_pe
+20858,20858_91.txt,772.0,790.0,pulmonary embolism,no_pe
+82326,82326_144.txt,606.0,622.0,pulmonary emboli,no_pe
+22043,22043_231.txt,122.0,124.0,pe,no_pe
+22043,22043_231.txt,310.0,312.0,pe,no_pe
+22043,22043_231.txt,477.0,479.0,pe,no_pe
+22043,22043_231.txt,750.0,768.0,pulmonary embolism,no_pe
+22043,22043_231.txt,809.0,825.0,pulmonary emboli,no_pe
+22043,22043_231.txt,1194.0,1196.0,pe,no_pe
+22043,22043_231.txt,1385.0,1403.0,pulmonary embolism,no_pe
+82393,82393_169.txt,217.0,219.0,pe,pe_doc
+82393,82393_169.txt,778.0,796.0,pulmonary embolism,pe_doc
+32113,32113_140.txt,204.0,222.0,pulmonary embolism,pe_doc
+32113,32113_140.txt,1084.0,1102.0,pulmonary embolism,pe_doc
+32113,32113_140.txt,1126.0,1143.0,pulmonary embolus,pe_doc
+91583,91583_315.txt,452.0,454.0,pe,no_pe
+91583,91583_315.txt,620.0,638.0,pulmonary embolism,no_pe
+91583,91583_315.txt,897.0,899.0,pe,no_pe
+91583,91583_315.txt,1018.0,1036.0,pulmonary embolism,no_pe
+91583,91583_315.txt,1378.0,1396.0,pulmonary embolism,no_pe
+91583,91583_315.txt,1544.0,1562.0,pulmonary embolism,no_pe
+10355,10355_226.txt,115.0,117.0,pe,pe_doc
+10355,10355_226.txt,354.0,356.0,pe,pe_doc
+10355,10355_226.txt,482.0,489.0, emboli,pe_doc
+10355,10355_226.txt,780.0,796.0,pulmonary emboli,pe_doc
+10355,10355_226.txt,1600.0,1602.0,pe,pe_doc
+11762,11762_236.txt,12.0,14.0,pe,pe_doc
+11762,11762_236.txt,44.0,46.0,pe,pe_doc
+11762,11762_236.txt,325.0,343.0,pulmonary embolism,pe_doc
+11762,11762_236.txt,356.0,358.0,pe,pe_doc
+11762,11762_236.txt,485.0,503.0,pulmonary embolism,pe_doc
+11762,11762_236.txt,1018.0,1034.0,pulmonary emboli,pe_doc
+21830,21830_3.txt,168.0,186.0,pulmonary embolism,no_pe
+21830,21830_3.txt,318.0,334.0,pulmonary emboli,no_pe
+21830,21830_3.txt,789.0,807.0,pulmonary embolism,no_pe
+21830,21830_3.txt,1217.0,1235.0,pulmonary embolism,no_pe
+48928,48928_272.txt,123.0,125.0,pe,no_pe
+48928,48928_272.txt,391.0,393.0,pe,no_pe
+48928,48928_272.txt,556.0,558.0,pe,no_pe
+48928,48928_272.txt,579.0,597.0,pulmonary embolism,no_pe
+48928,48928_272.txt,1492.0,1510.0,pulmonary embolism,no_pe
+48928,48928_272.txt,1729.0,1731.0,pe,no_pe
+54703,54703_322.txt,123.0,125.0,pe,no_pe
+54703,54703_322.txt,333.0,335.0,pe,no_pe
+54703,54703_322.txt,605.0,623.0,pulmonary embolism,no_pe
+54703,54703_322.txt,638.0,656.0,pulmonary embolism,no_pe
+54703,54703_322.txt,682.0,700.0,pulmonary embolism,no_pe
+54703,54703_322.txt,1087.0,1089.0,pe,no_pe
+54703,54703_322.txt,937.0,955.0,pulmonary embolism,no_pe
+58515,58515_152.txt,241.0,243.0,pe,pe_doc
+58515,58515_152.txt,1002.0,1004.0,pe,pe_doc
+58515,58515_152.txt,950.0,968.0,pulmonary embolism,pe_doc
+64673,64673_289.txt,15.0,17.0,pe,no_pe
+64673,64673_289.txt,263.0,265.0,pe,no_pe
+64673,64673_289.txt,318.0,336.0,pulmonary embolism,no_pe
+64673,64673_289.txt,413.0,431.0,pulmonary embolism,no_pe
+64673,64673_289.txt,506.0,508.0,pe,no_pe
+64673,64673_289.txt,671.0,689.0,pulmonary embolism,no_pe
+80490,80490_319.txt,137.0,139.0,pe,no_pe
+80490,80490_319.txt,348.0,350.0,pe,no_pe
+80490,80490_319.txt,542.0,544.0,pe,no_pe
+80490,80490_319.txt,571.0,589.0,pulmonary embolism,no_pe
+80490,80490_319.txt,857.0,859.0,pe,no_pe
+80490,80490_319.txt,693.0,711.0,pulmonary embolism,no_pe
+80490,80490_319.txt,1161.0,1163.0,pe,no_pe
+80490,80490_319.txt,1453.0,1471.0,pulmonary embolism,no_pe
+80490,80490_319.txt,1629.0,1631.0,pe,no_pe
+80490,80490_319.txt,1779.0,1797.0,pulmonary embolism,no_pe
+13903,13903_204.txt,135.0,137.0,pe,pe_doc
+13903,13903_204.txt,337.0,339.0,pe,pe_doc
+13903,13903_204.txt,640.0,642.0,pe,pe_doc
+13903,13903_204.txt,478.0,496.0,pulmonary embolism,pe_doc
+13903,13903_204.txt,820.0,838.0,pulmonary embolism,pe_doc
+6805,6805_216.txt,138.0,140.0,pe,no_pe
+6805,6805_216.txt,397.0,399.0,pe,no_pe
+6805,6805_216.txt,561.0,563.0,pe,no_pe
+6805,6805_216.txt,714.0,732.0,pulmonary embolism,no_pe
+6805,6805_216.txt,780.0,798.0,pulmonary embolism,no_pe
+6805,6805_216.txt,1220.0,1238.0,pulmonary embolism,no_pe
+20308,20308_202.txt,402.0,404.0,pe,pe_doc
+20308,20308_202.txt,170.0,188.0,pulmonary embolism,pe_doc
+20308,20308_202.txt,775.0,777.0,pe,pe_doc
+20308,20308_202.txt,871.0,888.0,pulmonary embolus,pe_doc
+20308,20308_202.txt,922.0,939.0,pulmonary embolus,pe_doc
+20308,20308_202.txt,1350.0,1368.0,pulmonary embolism,pe_doc
+60645,60645_58.txt,10.0,26.0,pulmonary emboli,pe_doc
+60645,60645_58.txt,573.0,575.0,pe,pe_doc
+60645,60645_58.txt,1061.0,1063.0,pe,pe_doc
+60645,60645_58.txt,1114.0,1116.0,pe,pe_doc
+60645,60645_58.txt,1226.0,1228.0,pe,pe_doc
+60645,60645_58.txt,1293.0,1295.0,pe,pe_doc
+60645,60645_58.txt,1374.0,1390.0,pulmonary emboli,pe_doc
+60645,60645_58.txt,1679.0,1681.0,pe,pe_doc
+60645,60645_58.txt,1695.0,1713.0,pulmonary embolism,pe_doc
+60645,60645_58.txt,1837.0,1853.0,pulmonary emboli,pe_doc
+82393,82393_167.txt,100.0,102.0,pe,pe_doc
+82393,82393_167.txt,139.0,146.0, emboli,pe_doc
+82393,82393_167.txt,736.0,738.0,pe,pe_doc
+82393,82393_167.txt,1296.0,1314.0,pulmonary embolism,pe_doc
+17581,17581_196.txt,139.0,141.0,pe,no_pe
+17581,17581_196.txt,461.0,463.0,pe,no_pe
+17581,17581_196.txt,765.0,783.0,pulmonary embolism,no_pe
+17581,17581_196.txt,1081.0,1099.0,pulmonary embolism,no_pe
+17581,17581_196.txt,1422.0,1424.0,pe,no_pe
+17581,17581_196.txt,1771.0,1789.0,pulmonary embolism,no_pe
+69251,69251_288.txt,126.0,128.0,pe,no_pe
+69251,69251_288.txt,441.0,443.0,pe,no_pe
+69251,69251_288.txt,484.0,502.0,pulmonary embolism,no_pe
+69251,69251_288.txt,681.0,699.0,pulmonary embolism,no_pe
+69251,69251_288.txt,972.0,974.0,pe,no_pe
+69251,69251_288.txt,1123.0,1139.0,pulmonary emboli,no_pe
+69251,69251_288.txt,1586.0,1588.0,pe,no_pe
+69251,69251_288.txt,1883.0,1885.0,pe,no_pe
+28375,28375_249.txt,161.0,179.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,613.0,631.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,956.0,974.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,1097.0,1115.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,1310.0,1328.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,1732.0,1750.0,pulmonary embolism,pe_doc
+28375,28375_249.txt,1842.0,1860.0,pulmonary embolism,pe_doc
+20230,20230_210.txt,151.0,153.0,pe,no_pe
+20230,20230_210.txt,450.0,452.0,pe,no_pe
+20230,20230_210.txt,1005.0,1023.0,pulmonary embolism,no_pe
+20230,20230_210.txt,1469.0,1471.0,pe,no_pe
+20230,20230_210.txt,1291.0,1309.0,pulmonary embolism,no_pe
+75156,75156_41.txt,196.0,198.0,pe,no_pe
+75156,75156_41.txt,885.0,903.0,pulmonary embolism,no_pe
+75156,75156_41.txt,1240.0,1242.0,pe,no_pe
+75156,75156_41.txt,1152.0,1170.0,pulmonary embolism,no_pe
+13327,13327_15.txt,3.0,21.0,pulmonary embolism,pe_doc
+13327,13327_15.txt,98.0,116.0,pulmonary embolism,pe_doc
+13327,13327_15.txt,151.0,169.0,pulmonary embolism,pe_doc
+60645,60645_126.txt,33.0,51.0,pulmonary embolism,pe_doc
+60645,60645_126.txt,634.0,636.0,pe,pe_doc
+60645,60645_126.txt,1194.0,1196.0,pe,pe_doc
+60645,60645_126.txt,1346.0,1348.0,pe,pe_doc
+60645,60645_126.txt,1472.0,1479.0, emboli,pe_doc
+60645,60645_126.txt,1869.0,1871.0,pe,pe_doc
+60645,60645_126.txt,2626.0,2628.0,pe,pe_doc
+60645,60645_126.txt,1849.0,1867.0,pulmonary embolism,pe_doc
+60645,60645_126.txt,2002.0,2020.0,pulmonary embolism,pe_doc
+72488,72488_290.txt,126.0,128.0,pe,no_pe
+72488,72488_290.txt,445.0,447.0,pe,no_pe
+72488,72488_290.txt,800.0,802.0,pe,no_pe
+72488,72488_290.txt,936.0,954.0,pulmonary embolism,no_pe
+72488,72488_290.txt,1461.0,1479.0,pulmonary embolism,no_pe
+72488,72488_290.txt,1823.0,1825.0,pe,no_pe
+50207,50207_87.txt,18.0,36.0,pulmonary embolism,no_pe
+50207,50207_87.txt,109.0,111.0,pe,no_pe
+50207,50207_87.txt,316.0,332.0,pulmonary emboli,no_pe
+50207,50207_87.txt,426.0,442.0,pulmonary emboli,no_pe
+32113,32113_108.txt,98.0,116.0,pulmonary embolism,pe_doc
+32113,32113_108.txt,328.0,330.0,pe,pe_doc
+32113,32113_108.txt,443.0,460.0,pulmonary embolus,pe_doc
+32113,32113_108.txt,1006.0,1024.0,pulmonary embolism,pe_doc
+32113,32113_108.txt,2049.0,2067.0,pulmonary embolism,pe_doc
+32113,32113_108.txt,2091.0,2108.0,pulmonary embolus,pe_doc
+18626,18626_181.txt,180.0,182.0,pe,no_pe
+18626,18626_181.txt,488.0,490.0,pe,no_pe
+18626,18626_181.txt,839.0,857.0,pulmonary embolism,no_pe
+18626,18626_181.txt,1357.0,1375.0,pulmonary embolism,no_pe
+13214,13214_314.txt,9.0,11.0,pe,pe_doc
+13214,13214_314.txt,224.0,242.0,pulmonary embolism,pe_doc
+13214,13214_314.txt,381.0,399.0,pulmonary embolism,pe_doc
+26012,26012_243.txt,416.0,418.0,pe,no_pe
+26012,26012_243.txt,747.0,765.0,pulmonary embolism,no_pe
+26012,26012_243.txt,770.0,788.0,pulmonary embolism,no_pe
+26012,26012_243.txt,969.0,987.0,pulmonary embolism,no_pe
+21021,21021_39.txt,100.0,102.0,pe,no_pe
+21021,21021_39.txt,380.0,382.0,pe,no_pe
+21021,21021_39.txt,404.0,406.0,pe,no_pe
+21021,21021_39.txt,702.0,720.0,pulmonary embolism,no_pe
+21021,21021_39.txt,1057.0,1059.0,pe,no_pe
+21021,21021_39.txt,1795.0,1802.0, emboli,no_pe
+21021,21021_39.txt,2382.0,2384.0,pe,no_pe
+79931,79931_9.txt,85.0,103.0,pulmonary embolism,no_pe
+79931,79931_9.txt,318.0,320.0,pe,no_pe
+79931,79931_9.txt,402.0,404.0,pe,no_pe
+79931,79931_9.txt,610.0,612.0,pe,no_pe
+79931,79931_9.txt,1196.0,1198.0,pe,no_pe
+79931,79931_9.txt,1377.0,1379.0,pe,no_pe
+79931,79931_9.txt,1489.0,1491.0,pe,no_pe
+13327,13327_207.txt,131.0,148.0,pulmonary embolus,pe_doc
+13327,13327_207.txt,462.0,479.0,pulmonary embolus,pe_doc
+13327,13327_207.txt,672.0,689.0,pulmonary embolus,pe_doc
+13327,13327_207.txt,896.0,913.0,pulmonary embolus,pe_doc
+13327,13327_207.txt,1567.0,1585.0,pulmonary embolism,pe_doc
+13327,13327_207.txt,1742.0,1759.0,pulmonary embolus,pe_doc
+68251,68251_5.txt,360.0,378.0,pulmonary embolism,pe_doc
+68251,68251_5.txt,617.0,634.0,pulmonary embolus,pe_doc
+68251,68251_5.txt,763.0,781.0,pulmonary embolism,pe_doc
+68251,68251_5.txt,1474.0,1476.0,pe,pe_doc
+68251,68251_5.txt,1926.0,1943.0,pulmonary embolus,pe_doc
+68251,68251_5.txt,2240.0,2242.0,pe,pe_doc
+83031,83031_271.txt,129.0,147.0,pulmonary embolism,no_pe
+83031,83031_271.txt,303.0,321.0,pulmonary embolism,no_pe
+83031,83031_271.txt,367.0,385.0,pulmonary embolism,no_pe
+83031,83031_271.txt,812.0,830.0,pulmonary embolism,no_pe
+83031,83031_271.txt,949.0,967.0,pulmonary embolism,no_pe
+82393,82393_134.txt,480.0,482.0,pe,pe_doc
+82393,82393_134.txt,1040.0,1058.0,pulmonary embolism,pe_doc
+22450,22450_13.txt,6.0,24.0,pulmonary embolism,no_pe
+6944,6944_30.txt,141.0,159.0,pulmonary embolism,pe_doc
+6944,6944_30.txt,418.0,436.0,pulmonary embolism,pe_doc
+71677,71677_66.txt,352.0,354.0,pe,no_pe
+71677,71677_66.txt,757.0,759.0,pe,no_pe
+71677,71677_66.txt,883.0,885.0,pe,no_pe
+71677,71677_66.txt,914.0,916.0,pe,no_pe
+71677,71677_66.txt,1315.0,1317.0,pe,no_pe
+71677,71677_66.txt,1451.0,1453.0,pe,no_pe
+71677,71677_66.txt,1670.0,1688.0,pulmonary embolism,no_pe
+30178,30178_10.txt,21.0,39.0,pulmonary embolism,no_pe
+30178,30178_10.txt,131.0,147.0,pulmonary emboli,no_pe
+5592,5592_221.txt,166.0,168.0,pe,no_pe
+5592,5592_221.txt,409.0,411.0,pe,no_pe
+5592,5592_221.txt,500.0,518.0,pulmonary embolism,no_pe
+5592,5592_221.txt,750.0,752.0,pe,no_pe
+8422,8422_177.txt,143.0,145.0,pe,pe_doc
+8422,8422_177.txt,415.0,417.0,pe,pe_doc
+69758,69758_69.txt,21.0,37.0,pulmonary emboli,pe_doc
+69758,69758_69.txt,138.0,145.0, emboli,pe_doc
+69758,69758_69.txt,357.0,359.0,pe,pe_doc
+69758,69758_69.txt,1132.0,1134.0,pe,pe_doc
+69758,69758_69.txt,1345.0,1347.0,pe,pe_doc
+69758,69758_69.txt,2385.0,2387.0,pe,pe_doc
+69758,69758_69.txt,2598.0,2614.0,pulmonary emboli,pe_doc
+82326,82326_112.txt,111.0,113.0,pe,no_pe
+82326,82326_112.txt,228.0,241.0,septic emboli,no_pe
+55273,55273_122.txt,606.0,608.0,pe,pe_doc
+55273,55273_122.txt,789.0,791.0,pe,pe_doc
+55273,55273_122.txt,831.0,838.0, emboli,pe_doc
+71677,71677_318.txt,98.0,100.0,pe,no_pe
+71677,71677_318.txt,446.0,448.0,pe,no_pe
+71677,71677_318.txt,725.0,743.0,pulmonary embolism,no_pe
+71677,71677_318.txt,1048.0,1050.0,pe,no_pe
+71677,71677_318.txt,1113.0,1131.0,pulmonary embolism,no_pe
+11851,11851_42.txt,45.0,61.0,pulmonary emboli,pe_doc
+11851,11851_42.txt,1155.0,1171.0,pulmonary emboli,pe_doc
+11851,11851_42.txt,1523.0,1530.0, emboli,pe_doc
+11851,11851_42.txt,1774.0,1790.0,pulmonary emboli,pe_doc
+4199,4199_203.txt,172.0,174.0,pe,no_pe
+4199,4199_203.txt,409.0,411.0,pe,no_pe
+4199,4199_203.txt,581.0,599.0,pulmonary embolism,no_pe
+4199,4199_203.txt,1001.0,1003.0,pe,no_pe
+4199,4199_203.txt,1083.0,1101.0,pulmonary embolism,no_pe
+74932,74932_174.txt,1099.0,1101.0,pe,no_pe
+74932,74932_174.txt,1514.0,1531.0,pulmonary embolus,no_pe
+30575,30575_283.txt,166.0,168.0,pe,no_pe
+30575,30575_283.txt,431.0,433.0,pe,no_pe
+30575,30575_283.txt,599.0,601.0,pe,no_pe
+30575,30575_283.txt,1095.0,1097.0,pe,no_pe
+30575,30575_283.txt,1871.0,1873.0,pe,no_pe
+30575,30575_283.txt,1928.0,1946.0,pulmonary embolism,no_pe
+77729,77729_85.txt,39.0,57.0,pulmonary embolism,pe_doc
+77729,77729_85.txt,778.0,796.0,pulmonary embolism,pe_doc
+747,747_217.txt,159.0,177.0,pulmonary embolism,no_pe
+747,747_217.txt,459.0,477.0,pulmonary embolism,no_pe
+747,747_217.txt,492.0,510.0,pulmonary embolism,no_pe
+747,747_217.txt,578.0,596.0,pulmonary embolism,no_pe
+747,747_217.txt,1089.0,1107.0,pulmonary embolism,no_pe
+747,747_217.txt,1296.0,1314.0,pulmonary embolism,no_pe
+98931,98931_302.txt,38.0,40.0,pe,pe_doc
+98931,98931_302.txt,267.0,283.0,pulmonary emboli,pe_doc
+98931,98931_302.txt,488.0,504.0,pulmonary emboli,pe_doc
+98931,98931_302.txt,564.0,580.0,pulmonary emboli,pe_doc
+43367,43367_213.txt,107.0,109.0,pe,pe_doc
+43367,43367_213.txt,353.0,355.0,pe,pe_doc
+60645,60645_127.txt,33.0,51.0,pulmonary embolism,pe_doc
+60645,60645_127.txt,634.0,636.0,pe,pe_doc
+60645,60645_127.txt,1194.0,1196.0,pe,pe_doc
+60645,60645_127.txt,1346.0,1348.0,pe,pe_doc
+60645,60645_127.txt,1472.0,1479.0, emboli,pe_doc
+60645,60645_127.txt,1869.0,1871.0,pe,pe_doc
+60645,60645_127.txt,2626.0,2628.0,pe,pe_doc
+60645,60645_127.txt,1849.0,1867.0,pulmonary embolism,pe_doc
+60645,60645_127.txt,2002.0,2020.0,pulmonary embolism,pe_doc
+58947,58947_269.txt,123.0,125.0,pe,no_pe
+58947,58947_269.txt,350.0,352.0,pe,no_pe
+58947,58947_269.txt,515.0,517.0,pe,no_pe
+58947,58947_269.txt,705.0,723.0,pulmonary embolism,no_pe
+58947,58947_269.txt,897.0,915.0,pulmonary embolism,no_pe
+6612,6612_218.txt,144.0,146.0,pe,no_pe
+6612,6612_218.txt,442.0,444.0,pe,no_pe
+6612,6612_218.txt,607.0,609.0,pe,no_pe
+6612,6612_218.txt,798.0,816.0,pulmonary embolism,no_pe
+10132,10132_31.txt,23.0,39.0,pulmonary emboli,no_pe
+10132,10132_31.txt,683.0,701.0,pulmonary embolism,no_pe
+10132,10132_31.txt,3112.0,3114.0,pe,no_pe
+10132,10132_31.txt,3274.0,3276.0,pe,no_pe
+10132,10132_31.txt,4287.0,4289.0,pe,no_pe
+10132,10132_31.txt,4373.0,4391.0,pulmonary embolism,no_pe
+63079,63079_171.txt,211.0,213.0,pe,no_pe
+63079,63079_171.txt,168.0,184.0,pulmonary emboli,no_pe
+63079,63079_171.txt,597.0,599.0,pe,no_pe
+63079,63079_171.txt,963.0,965.0,pe,no_pe
+63079,63079_171.txt,1351.0,1353.0,pe,no_pe
+63079,63079_171.txt,1391.0,1393.0,pe,no_pe
+63079,63079_171.txt,1499.0,1501.0,pe,no_pe
+63079,63079_171.txt,1834.0,1850.0,pulmonary emboli,no_pe
+29519,29519_261.txt,440.0,442.0,pe,no_pe
+29519,29519_261.txt,633.0,635.0,pe,no_pe
+29519,29519_261.txt,145.0,163.0,pulmonary embolism,no_pe
+29519,29519_261.txt,662.0,664.0,pe,no_pe
+29519,29519_261.txt,765.0,783.0,pulmonary embolism,no_pe
+29519,29519_261.txt,917.0,919.0,pe,no_pe
+29519,29519_261.txt,1174.0,1192.0,pulmonary embolism,no_pe
+90403,90403_321.txt,117.0,119.0,pe,no_pe
+90403,90403_321.txt,364.0,366.0,pe,no_pe
+90403,90403_321.txt,528.0,530.0,pe,no_pe
+90403,90403_321.txt,718.0,735.0,pulmonary embolus,no_pe
+90403,90403_321.txt,752.0,770.0,pulmonary embolism,no_pe
+46399,46399_304.txt,9.0,11.0,pe,no_pe
+46399,46399_304.txt,22.0,24.0,pe,no_pe
+46399,46399_304.txt,248.0,266.0,pulmonary embolism,no_pe
+46399,46399_304.txt,735.0,753.0,pulmonary embolism,no_pe
+46399,46399_304.txt,764.0,766.0,pe,no_pe
+46399,46399_304.txt,953.0,971.0,pulmonary embolism,no_pe
+30805,30805_251.txt,144.0,146.0,pe,no_pe
+30805,30805_251.txt,475.0,477.0,pe,no_pe
+30805,30805_251.txt,528.0,546.0,pulmonary embolism,no_pe
+30805,30805_251.txt,614.0,632.0,pulmonary embolism,no_pe
+30805,30805_251.txt,668.0,677.0, embolism,no_pe
+30805,30805_251.txt,1013.0,1031.0,pulmonary embolism,no_pe
+2989,2989_209.txt,140.0,142.0,pe,no_pe
+2989,2989_209.txt,407.0,409.0,pe,no_pe
+2989,2989_209.txt,581.0,599.0,pulmonary embolism,no_pe
+2989,2989_209.txt,628.0,646.0,pulmonary embolism,no_pe
+1331,1331_88.txt,126.0,139.0,septic emboli,no_pe
+1331,1331_88.txt,286.0,299.0,septic emboli,no_pe
+1331,1331_88.txt,906.0,908.0,pe,no_pe
+1331,1331_88.txt,929.0,945.0,pulmonary emboli,no_pe
+11711,11711_244.txt,115.0,117.0,pe,no_pe
+11711,11711_244.txt,339.0,341.0,pe,no_pe
+11711,11711_244.txt,391.0,409.0,pulmonary embolism,no_pe
+11711,11711_244.txt,671.0,689.0,pulmonary embolism,no_pe
+74932,74932_135.txt,1099.0,1101.0,pe,no_pe
+74932,74932_135.txt,1514.0,1531.0,pulmonary embolus,no_pe
+67481,67481_173.txt,592.0,608.0,pulmonary emboli,pe_doc
+67481,67481_173.txt,1074.0,1076.0,pe,pe_doc
+67481,67481_173.txt,1373.0,1389.0,pulmonary emboli,pe_doc
+67481,67481_173.txt,1886.0,1904.0,pulmonary embolism,pe_doc
+67481,67481_173.txt,2221.0,2223.0,pe,pe_doc
+67481,67481_173.txt,2339.0,2341.0,pe,pe_doc
+67481,67481_173.txt,2448.0,2464.0,pulmonary emboli,pe_doc
+67481,67481_173.txt,2630.0,2648.0,pulmonary embolism,pe_doc
+19216,19216_149.txt,1726.0,1728.0,pe,pe_doc
+19216,19216_149.txt,1784.0,1786.0,pe,pe_doc
+19216,19216_149.txt,1903.0,1905.0,pe,pe_doc
+19216,19216_149.txt,2082.0,2084.0,pe,pe_doc
+19216,19216_149.txt,2175.0,2177.0,pe,pe_doc
+19216,19216_149.txt,1706.0,1724.0,pulmonary embolism,pe_doc
+19216,19216_149.txt,2273.0,2275.0,pe,pe_doc
+19216,19216_149.txt,2850.0,2868.0,pulmonary embolism,pe_doc
+19216,19216_149.txt,3025.0,3027.0,pe,pe_doc
+27643,27643_245.txt,123.0,125.0,pe,no_pe
+27643,27643_245.txt,456.0,458.0,pe,no_pe
+27643,27643_245.txt,518.0,520.0,pe,no_pe
+27643,27643_245.txt,592.0,610.0,pulmonary embolism,no_pe
+27643,27643_245.txt,969.0,985.0,pulmonary emboli,no_pe
+27643,27643_245.txt,998.0,1005.0, emboli,no_pe
+81384,81384_334.txt,42.0,60.0,pulmonary embolism,pe_doc
+81384,81384_334.txt,282.0,300.0,pulmonary embolism,pe_doc
+81384,81384_334.txt,656.0,674.0,pulmonary embolism,pe_doc
+81384,81384_334.txt,1131.0,1149.0,pulmonary embolism,pe_doc
+13794,13794_262.txt,119.0,121.0,pe,no_pe
+13794,13794_262.txt,309.0,311.0,pe,no_pe
+13794,13794_262.txt,582.0,600.0,pulmonary embolism,no_pe
+13794,13794_262.txt,900.0,918.0,pulmonary embolism,no_pe
+16680,16680_241.txt,186.0,188.0,pe,no_pe
+16680,16680_241.txt,392.0,394.0,pe,no_pe
+16680,16680_241.txt,433.0,435.0,pe,no_pe
+16680,16680_241.txt,582.0,584.0,pe,no_pe
+16680,16680_241.txt,965.0,967.0,pe,no_pe
+16680,16680_241.txt,1150.0,1168.0,pulmonary embolism,no_pe
+98982,98982_296.txt,127.0,129.0,pe,no_pe
+98982,98982_296.txt,420.0,422.0,pe,no_pe
+98982,98982_296.txt,607.0,625.0,pulmonary embolism,no_pe
+98982,98982_296.txt,978.0,996.0,pulmonary embolism,no_pe
+98982,98982_296.txt,1115.0,1133.0,pulmonary embolism,no_pe
+98982,98982_296.txt,2044.0,2046.0,pe,no_pe
+98982,98982_296.txt,2265.0,2283.0,pulmonary embolism,no_pe
+92995,92995_329.txt,119.0,121.0,pe,no_pe
+92995,92995_329.txt,330.0,332.0,pe,no_pe
+92995,92995_329.txt,366.0,368.0,pe,no_pe
+92995,92995_329.txt,621.0,639.0,pulmonary embolism,no_pe
+92995,92995_329.txt,671.0,689.0,pulmonary embolism,no_pe
+58515,58515_156.txt,568.0,570.0,pe,pe_doc
+58515,58515_156.txt,642.0,644.0,pe,pe_doc
+58515,58515_156.txt,974.0,976.0,pe,pe_doc
+58515,58515_156.txt,954.0,972.0,pulmonary embolism,pe_doc
+7107,7107_200.txt,481.0,499.0,pulmonary embolism,no_pe
+7107,7107_200.txt,736.0,753.0,pulmonary embolus,no_pe
+7107,7107_200.txt,785.0,803.0,pulmonary embolism,no_pe
+11961,11961_247.txt,123.0,125.0,pe,no_pe
+11961,11961_247.txt,165.0,167.0,pe,no_pe
+11961,11961_247.txt,300.0,318.0,pulmonary embolism,no_pe
+11961,11961_247.txt,461.0,479.0,pulmonary embolism,no_pe
+11961,11961_247.txt,1220.0,1222.0,pe,no_pe
+11961,11961_247.txt,1242.0,1260.0,pulmonary embolism,no_pe
+124,124_189.txt,133.0,135.0,pe,no_pe
+124,124_189.txt,398.0,400.0,pe,no_pe
+124,124_189.txt,619.0,621.0,pe,no_pe
+124,124_189.txt,966.0,983.0,pulmonary embolus,no_pe
+124,124_189.txt,1312.0,1330.0,pulmonary embolism,no_pe
+7589,7589_258.txt,128.0,130.0,pe,no_pe
+7589,7589_258.txt,378.0,380.0,pe,no_pe
+7589,7589_258.txt,542.0,544.0,pe,no_pe
+7589,7589_258.txt,706.0,708.0,pe,no_pe
+7589,7589_258.txt,751.0,769.0,pulmonary embolism,no_pe
+43943,43943_330.txt,119.0,121.0,pe,no_pe
+43943,43943_330.txt,335.0,337.0,pe,no_pe
+43943,43943_330.txt,547.0,549.0,pe,no_pe
+43943,43943_330.txt,844.0,846.0,pe,no_pe
+43943,43943_330.txt,1186.0,1204.0,pulmonary embolism,no_pe
+50140,50140_77.txt,240.0,253.0,septic emboli,pe_doc
+50140,50140_77.txt,486.0,499.0,septic emboli,pe_doc
+50140,50140_77.txt,978.0,991.0,septic emboli,pe_doc
+50140,50140_77.txt,1273.0,1286.0,septic emboli,pe_doc
+50140,50140_77.txt,1408.0,1421.0,septic emboli,pe_doc
+50140,50140_77.txt,1693.0,1706.0,septic emboli,pe_doc
+50140,50140_77.txt,2776.0,2789.0,septic emboli,pe_doc
+50140,50140_77.txt,2897.0,2904.0, emboli,pe_doc
+50140,50140_77.txt,3602.0,3615.0,septic emboli,pe_doc
+50140,50140_77.txt,4583.0,4596.0,septic emboli,pe_doc
+50140,50140_77.txt,5123.0,5139.0,pulmonary emboli,pe_doc
+50140,50140_77.txt,5156.0,5169.0,septic emboli,pe_doc
+50140,50140_77.txt,5221.0,5237.0,pulmonary emboli,pe_doc
+50140,50140_77.txt,5336.0,5349.0,septic emboli,pe_doc
+76760,76760_300.txt,119.0,121.0,pe,no_pe
+76760,76760_300.txt,385.0,387.0,pe,no_pe
+76760,76760_300.txt,685.0,703.0,pulmonary embolism,no_pe
+76760,76760_300.txt,830.0,848.0,pulmonary embolism,no_pe
+76760,76760_300.txt,1131.0,1133.0,pe,no_pe
+76760,76760_300.txt,1336.0,1354.0,pulmonary embolism,no_pe
+73125,73125_265.txt,124.0,141.0,pulmonary embolus,no_pe
+73125,73125_265.txt,424.0,441.0,pulmonary embolus,no_pe
+73125,73125_265.txt,544.0,562.0,pulmonary embolism,no_pe
+73125,73125_265.txt,824.0,842.0,pulmonary embolism,no_pe
+73125,73125_265.txt,1297.0,1314.0,pulmonary embolus,no_pe
+73125,73125_265.txt,1776.0,1794.0,pulmonary embolism,no_pe
+68870,68870_1.txt,159.0,161.0,pe,no_pe
+68870,68870_1.txt,623.0,641.0,pulmonary embolism,no_pe
+68870,68870_1.txt,955.0,957.0,pe,no_pe
+68870,68870_1.txt,1130.0,1132.0,pe,no_pe
+98266,98266_96.txt,363.0,381.0,pulmonary embolism,no_pe
+98266,98266_96.txt,789.0,807.0,pulmonary embolism,no_pe
+98266,98266_96.txt,883.0,885.0,pe,no_pe
+98266,98266_96.txt,1324.0,1326.0,pe,no_pe
+15841,15841_219.txt,130.0,132.0,pe,no_pe
+15841,15841_219.txt,333.0,335.0,pe,no_pe
+15841,15841_219.txt,568.0,586.0,pulmonary embolism,no_pe
+15841,15841_219.txt,828.0,830.0,pe,no_pe
+15841,15841_219.txt,902.0,920.0,pulmonary embolism,no_pe
+15841,15841_219.txt,1385.0,1403.0,pulmonary embolism,no_pe
+58515,58515_158.txt,2818.0,2820.0,pe,pe_doc
+58515,58515_158.txt,3113.0,3115.0,pe,pe_doc
+58515,58515_158.txt,2798.0,2816.0,pulmonary embolism,pe_doc
+58515,58515_158.txt,3093.0,3111.0,pulmonary embolism,pe_doc
+58515,58515_158.txt,3663.0,3665.0,pe,pe_doc
+58515,58515_158.txt,3737.0,3739.0,pe,pe_doc
+58515,58515_158.txt,3950.0,3952.0,pe,pe_doc
+58515,58515_158.txt,3968.0,3986.0,pulmonary embolism,pe_doc
+58515,58515_158.txt,5280.0,5282.0,pe,pe_doc
+74932,74932_175.txt,1099.0,1101.0,pe,no_pe
+74932,74932_175.txt,1514.0,1531.0,pulmonary embolus,no_pe
+92721,92721_305.txt,113.0,115.0,pe,no_pe
+92721,92721_305.txt,375.0,377.0,pe,no_pe
+92721,92721_305.txt,547.0,549.0,pe,no_pe
+92721,92721_305.txt,692.0,710.0,pulmonary embolism,no_pe
+58515,58515_176.txt,339.0,341.0,pe,pe_doc
+58515,58515_176.txt,287.0,305.0,pulmonary embolism,pe_doc
+86628,86628_74.txt,696.0,698.0,pe,no_pe
+86628,86628_74.txt,1019.0,1021.0,pe,no_pe
+86628,86628_74.txt,1071.0,1073.0,pe,no_pe
+86628,86628_74.txt,1121.0,1138.0,pulmonary embolus,no_pe
+86628,86628_74.txt,1186.0,1194.0, embolus,no_pe
+86628,86628_74.txt,2323.0,2340.0,pulmonary embolus,no_pe
+86628,86628_74.txt,2748.0,2765.0,pulmonary embolus,no_pe
+86628,86628_74.txt,3079.0,3081.0,pe,no_pe
+86628,86628_74.txt,3083.0,3101.0,pulmonary embolism,no_pe
+63218,63218_327.txt,134.0,152.0,pulmonary embolism,no_pe
+63218,63218_327.txt,394.0,412.0,pulmonary embolism,no_pe
+63218,63218_327.txt,593.0,610.0,pulmonary embolus,no_pe
+63218,63218_327.txt,692.0,709.0,pulmonary embolus,no_pe
+63218,63218_327.txt,1221.0,1237.0,pulmonary emboli,no_pe
+63218,63218_327.txt,1718.0,1736.0,pulmonary embolism,no_pe
+58515,58515_116.txt,2595.0,2597.0,pe,pe_doc
+58515,58515_116.txt,2890.0,2892.0,pe,pe_doc
+58515,58515_116.txt,2575.0,2593.0,pulmonary embolism,pe_doc
+58515,58515_116.txt,2870.0,2888.0,pulmonary embolism,pe_doc
+58515,58515_116.txt,3440.0,3442.0,pe,pe_doc
+58515,58515_116.txt,3514.0,3516.0,pe,pe_doc
+58515,58515_116.txt,3727.0,3729.0,pe,pe_doc
+58515,58515_116.txt,3745.0,3763.0,pulmonary embolism,pe_doc
+90198,90198_78.txt,6.0,24.0,pulmonary embolism,no_pe
+90198,90198_78.txt,497.0,499.0,pe,no_pe
+90198,90198_78.txt,761.0,779.0,pulmonary embolism,no_pe
+31545,31545_51.txt,18.0,36.0,pulmonary embolism,no_pe
+28375,28375_46.txt,512.0,529.0,pulmonary embolus,no_pe
+28375,28375_46.txt,1557.0,1575.0,pulmonary embolism,no_pe
+28375,28375_46.txt,1598.0,1616.0,pulmonary embolism,no_pe
+28375,28375_46.txt,1728.0,1746.0,pulmonary embolism,no_pe
+28375,28375_46.txt,2015.0,2033.0,pulmonary embolism,no_pe
+11762,11762_230.txt,127.0,129.0,pe,pe_doc
+11762,11762_230.txt,133.0,135.0,pe,pe_doc
+11762,11762_230.txt,319.0,321.0,pe,pe_doc
+11762,11762_230.txt,373.0,375.0,pe,pe_doc
+11762,11762_230.txt,662.0,664.0,pe,pe_doc
+11762,11762_230.txt,806.0,824.0,pulmonary embolism,pe_doc
+11762,11762_230.txt,854.0,870.0,pulmonary emboli,pe_doc
+11762,11762_230.txt,1280.0,1282.0,pe,pe_doc
+11762,11762_230.txt,1286.0,1288.0,pe,pe_doc
+11762,11762_230.txt,1055.0,1071.0,pulmonary emboli,pe_doc
+4140,4140_98.txt,12.0,14.0,pe,no_pe
+4140,4140_98.txt,89.0,91.0,pe,no_pe
+4140,4140_98.txt,285.0,287.0,pe,no_pe
+4140,4140_98.txt,414.0,416.0,pe,no_pe
+4140,4140_98.txt,523.0,541.0,pulmonary embolism,no_pe
+4140,4140_98.txt,1520.0,1538.0,pulmonary embolism,no_pe
+16492,16492_313.txt,126.0,128.0,pe,no_pe
+16492,16492_313.txt,401.0,403.0,pe,no_pe
+16492,16492_313.txt,454.0,472.0,pulmonary embolism,no_pe
+16492,16492_313.txt,919.0,937.0,pulmonary embolism,no_pe
+16492,16492_313.txt,1576.0,1578.0,pe,no_pe
+16492,16492_313.txt,1783.0,1801.0,pulmonary embolism,no_pe
+75156,75156_287.txt,116.0,118.0,pe,no_pe
+75156,75156_287.txt,333.0,335.0,pe,no_pe
+75156,75156_287.txt,499.0,501.0,pe,no_pe
+75156,75156_287.txt,782.0,800.0,pulmonary embolism,no_pe
+75156,75156_287.txt,1250.0,1268.0,pulmonary embolism,no_pe
+75156,75156_287.txt,1533.0,1535.0,pe,no_pe
+75156,75156_287.txt,1445.0,1463.0,pulmonary embolism,no_pe
+961,961_37.txt,27.0,45.0,pulmonary embolism,pe_doc
+961,961_37.txt,64.0,72.0, embolus,pe_doc
+961,961_37.txt,342.0,344.0,pe,pe_doc
+961,961_37.txt,424.0,426.0,pe,pe_doc
+54494,54494_299.txt,130.0,132.0,pe,no_pe
+54494,54494_299.txt,406.0,408.0,pe,no_pe
+54494,54494_299.txt,700.0,718.0,pulmonary embolism,no_pe
+54494,54494_299.txt,733.0,750.0,pulmonary embolus,no_pe
+54494,54494_299.txt,792.0,794.0,pe,no_pe
+54494,54494_299.txt,1060.0,1078.0,pulmonary embolism,no_pe
+54494,54494_299.txt,1113.0,1130.0,pulmonary embolus,no_pe
+54494,54494_299.txt,1275.0,1284.0, embolism,no_pe
+54494,54494_299.txt,1971.0,1973.0,pe,no_pe
+30084,30084_52.txt,768.0,770.0,pe,no_pe
+30084,30084_52.txt,1172.0,1190.0,pulmonary embolism,no_pe
+30084,30084_52.txt,1318.0,1320.0,pe,no_pe
+30084,30084_52.txt,1551.0,1553.0,pe,no_pe
+30084,30084_52.txt,1565.0,1583.0,pulmonary embolism,no_pe
+56849,56849_325.txt,117.0,119.0,pe,no_pe
+56849,56849_325.txt,412.0,414.0,pe,no_pe
+56849,56849_325.txt,616.0,634.0,pulmonary embolism,no_pe
+56849,56849_325.txt,1259.0,1261.0,pe,no_pe
+56849,56849_325.txt,1530.0,1548.0,pulmonary embolism,no_pe
+66090,66090_89.txt,0.0,2.0,pe,pe_doc
+66090,66090_89.txt,633.0,635.0,pe,pe_doc
+66090,66090_89.txt,737.0,739.0,pe,pe_doc
+66090,66090_89.txt,1062.0,1087.0,pulmonary artery embolism,pe_doc
+66090,66090_89.txt,1106.0,1122.0,pulmonary emboli,pe_doc
+66090,66090_89.txt,1726.0,1751.0,pulmonary artery embolism,pe_doc
+66090,66090_89.txt,1827.0,1834.0, emboli,pe_doc
+66090,66090_89.txt,2232.0,2250.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,2325.0,2343.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,2559.0,2577.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,2863.0,2865.0,pe,pe_doc
+66090,66090_89.txt,3049.0,3051.0,pe,pe_doc
+66090,66090_89.txt,2752.0,2769.0,pulmonary embolus,pe_doc
+66090,66090_89.txt,3808.0,3824.0,pulmonary emboli,pe_doc
+66090,66090_89.txt,3935.0,3951.0,pulmonary emboli,pe_doc
+66090,66090_89.txt,4722.0,4738.0,pulmonary emboli,pe_doc
+66090,66090_89.txt,4919.0,4937.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,5147.0,5165.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,5511.0,5529.0,pulmonary embolism,pe_doc
+66090,66090_89.txt,5601.0,5619.0,pulmonary embolism,pe_doc
+2809,2809_194.txt,123.0,125.0,pe,no_pe
+2809,2809_194.txt,328.0,346.0,pulmonary embolism,no_pe
+2809,2809_194.txt,459.0,477.0,pulmonary embolism,no_pe
+41308,41308_113.txt,17.0,35.0,pulmonary embolism,pe_doc
+41308,41308_113.txt,446.0,462.0,pulmonary emboli,pe_doc
+41308,41308_113.txt,509.0,518.0, embolism,pe_doc
+17393,17393_40.txt,18.0,36.0,pulmonary embolism,no_pe
+17393,17393_40.txt,127.0,145.0,pulmonary embolism,no_pe
+17393,17393_40.txt,287.0,305.0,pulmonary embolism,no_pe
+73695,73695_111.txt,133.0,135.0,pe,no_pe
+73695,73695_111.txt,401.0,419.0,pulmonary embolism,no_pe
+15733,15733_178.txt,183.0,185.0,pe,pe_doc
+15733,15733_178.txt,538.0,540.0,pe,pe_doc
+15733,15733_178.txt,591.0,607.0,pulmonary emboli,pe_doc
+15733,15733_178.txt,630.0,646.0,pulmonary emboli,pe_doc
+15733,15733_178.txt,1343.0,1345.0,pe,pe_doc
+15733,15733_178.txt,1550.0,1566.0,pulmonary emboli,pe_doc
+15733,15733_178.txt,1684.0,1697.0,septic emboli,pe_doc
+11404,11404_214.txt,150.0,152.0,pe,no_pe
+11404,11404_214.txt,469.0,471.0,pe,no_pe
+11404,11404_214.txt,769.0,771.0,pe,no_pe
+11404,11404_214.txt,804.0,822.0,pulmonary embolism,no_pe
+11404,11404_214.txt,1065.0,1083.0,pulmonary embolism,no_pe
+11404,11404_214.txt,1350.0,1352.0,pe,no_pe
+58514,58514_67.txt,151.0,159.0, embolus,pe_doc
+58514,58514_67.txt,182.0,190.0, embolus,pe_doc
+58514,58514_67.txt,432.0,449.0,pulmonary embolus,pe_doc
+58514,58514_67.txt,743.0,760.0,pulmonary embolus,pe_doc
+58514,58514_67.txt,2282.0,2284.0,pe,pe_doc
+58514,58514_67.txt,1035.0,1043.0, embolus,pe_doc
+58514,58514_67.txt,2562.0,2564.0,pe,pe_doc
+58514,58514_67.txt,2715.0,2717.0,pe,pe_doc
+58514,58514_67.txt,4233.0,4235.0,pe,pe_doc
+58514,58514_67.txt,2515.0,2533.0,pulmonary embolism,pe_doc
+58514,58514_67.txt,4666.0,4668.0,pe,pe_doc
+58514,58514_67.txt,4685.0,4687.0,pe,pe_doc
+58514,58514_67.txt,4987.0,4989.0,pe,pe_doc
+58514,58514_67.txt,5207.0,5225.0,pulmonary embolism,pe_doc
+58514,58514_67.txt,5619.0,5637.0,pulmonary embolism,pe_doc
+58514,58514_67.txt,5851.0,5869.0,pulmonary embolism,pe_doc
+58514,58514_67.txt,6285.0,6303.0,pulmonary embolism,pe_doc
+90559,90559_132.txt,236.0,238.0,pe,no_pe
+90559,90559_132.txt,1940.0,1956.0,pulmonary emboli,no_pe
+90559,90559_132.txt,2040.0,2042.0,pe,no_pe
+90559,90559_132.txt,2555.0,2573.0,pulmonary embolism,no_pe
+27486,27486_199.txt,133.0,135.0,pe,no_pe
+27486,27486_199.txt,385.0,387.0,pe,no_pe
+27486,27486_199.txt,551.0,569.0,pulmonary embolism,no_pe
+27486,27486_199.txt,748.0,766.0,pulmonary embolism,no_pe
+27486,27486_199.txt,808.0,824.0,pulmonary emboli,no_pe
+27486,27486_199.txt,1152.0,1154.0,pe,no_pe
+27486,27486_199.txt,992.0,1010.0,pulmonary embolism,no_pe
+29284,29284_253.txt,131.0,133.0,pe,no_pe
+29284,29284_253.txt,180.0,182.0,pe,no_pe
+29284,29284_253.txt,218.0,236.0,pulmonary embolism,no_pe
+29284,29284_253.txt,652.0,670.0,pulmonary embolism,no_pe
+29284,29284_253.txt,1009.0,1011.0,pe,no_pe
+62841,62841_326.txt,119.0,121.0,pe,no_pe
+62841,62841_326.txt,372.0,374.0,pe,no_pe
+62841,62841_326.txt,423.0,425.0,pe,no_pe
+62841,62841_326.txt,764.0,766.0,pe,no_pe
+62841,62841_326.txt,1122.0,1140.0,pulmonary embolism,no_pe
+62841,62841_326.txt,1973.0,1975.0,pe,no_pe
+62841,62841_326.txt,2174.0,2192.0,pulmonary embolism,no_pe
+94329,94329_331.txt,131.0,149.0,pulmonary embolism,no_pe
+94329,94329_331.txt,410.0,428.0,pulmonary embolism,no_pe
+94329,94329_331.txt,607.0,625.0,pulmonary embolism,no_pe
+94329,94329_331.txt,827.0,845.0,pulmonary embolism,no_pe
+94329,94329_331.txt,899.0,917.0,pulmonary embolism,no_pe
+94329,94329_331.txt,1232.0,1250.0,pulmonary embolism,no_pe
+94329,94329_331.txt,1336.0,1354.0,pulmonary embolism,no_pe
+25844,25844_38.txt,108.0,126.0,pulmonary embolism,no_pe
+25844,25844_38.txt,515.0,528.0,septic emboli,no_pe
+25844,25844_38.txt,536.0,554.0,pulmonary embolism,no_pe
+54930,54930_99.txt,31.0,47.0,pulmonary emboli,pe_doc
+54930,54930_99.txt,232.0,248.0,pulmonary emboli,pe_doc
+54930,54930_99.txt,395.0,397.0,pe,pe_doc
+54930,54930_99.txt,347.0,363.0,pulmonary emboli,pe_doc
+54930,54930_99.txt,490.0,506.0,pulmonary emboli,pe_doc
+10412,10412_23.txt,0.0,2.0,pe,no_pe
+10412,10412_23.txt,45.0,63.0,pulmonary embolism,no_pe
+10412,10412_23.txt,182.0,184.0,pe,no_pe
+51660,51660_4.txt,346.0,348.0,pe,pe_doc
+51660,51660_4.txt,453.0,471.0,pulmonary embolism,pe_doc
+8668,8668_239.txt,150.0,152.0,pe,no_pe
+8668,8668_239.txt,374.0,376.0,pe,no_pe
+8668,8668_239.txt,609.0,627.0,pulmonary embolism,no_pe
+8668,8668_239.txt,687.0,705.0,pulmonary embolism,no_pe
+8668,8668_239.txt,737.0,755.0,pulmonary embolism,no_pe
+12152,12152_192.txt,137.0,139.0,pe,no_pe
+12152,12152_192.txt,367.0,369.0,pe,no_pe
+12152,12152_192.txt,420.0,438.0,pulmonary embolism,no_pe
+12152,12152_192.txt,471.0,487.0,pulmonary emboli,no_pe
+12152,12152_192.txt,586.0,604.0,pulmonary embolism,no_pe
+12152,12152_192.txt,880.0,898.0,pulmonary embolism,no_pe
+12152,12152_192.txt,1377.0,1379.0,pe,no_pe
+12152,12152_192.txt,1040.0,1056.0,pulmonary emboli,no_pe
+85050,85050_284.txt,163.0,165.0,pe,pe_doc
+85050,85050_284.txt,417.0,419.0,pe,pe_doc
+85050,85050_284.txt,593.0,595.0,pe,pe_doc
+85050,85050_284.txt,744.0,760.0,pulmonary emboli,pe_doc
+85050,85050_284.txt,1547.0,1549.0,pe,pe_doc
+85050,85050_284.txt,1602.0,1620.0,pulmonary embolism,pe_doc
+58515,58515_157.txt,2818.0,2820.0,pe,pe_doc
+58515,58515_157.txt,3113.0,3115.0,pe,pe_doc
+58515,58515_157.txt,2798.0,2816.0,pulmonary embolism,pe_doc
+58515,58515_157.txt,3093.0,3111.0,pulmonary embolism,pe_doc
+58515,58515_157.txt,3663.0,3665.0,pe,pe_doc
+58515,58515_157.txt,3737.0,3739.0,pe,pe_doc
+58515,58515_157.txt,3950.0,3952.0,pe,pe_doc
+58515,58515_157.txt,3968.0,3986.0,pulmonary embolism,pe_doc
+82393,82393_168.txt,217.0,219.0,pe,pe_doc
+82393,82393_168.txt,814.0,832.0,pulmonary embolism,pe_doc
+29231,29231_254.txt,132.0,134.0,pe,no_pe
+29231,29231_254.txt,337.0,339.0,pe,no_pe
+29231,29231_254.txt,531.0,549.0,pulmonary embolism,no_pe
+29231,29231_254.txt,693.0,711.0,pulmonary embolism,no_pe
+29231,29231_254.txt,1457.0,1459.0,pe,no_pe
+29231,29231_254.txt,1298.0,1316.0,pulmonary embolism,no_pe
+58515,58515_160.txt,562.0,564.0,pe,pe_doc
+58515,58515_160.txt,636.0,638.0,pe,pe_doc
+58515,58515_160.txt,1806.0,1808.0,pe,pe_doc
+58515,58515_160.txt,931.0,949.0,pulmonary embolism,pe_doc
+58515,58515_160.txt,1786.0,1804.0,pulmonary embolism,pe_doc
+75752,75752_65.txt,265.0,283.0,pulmonary embolism,pe_doc
+15899,15899_33.txt,526.0,528.0,pe,no_pe
+15899,15899_33.txt,1079.0,1081.0,pe,no_pe
+15899,15899_33.txt,1298.0,1300.0,pe,no_pe
+15899,15899_33.txt,1902.0,1920.0,pulmonary embolism,no_pe
+98347,98347_166.txt,94.0,112.0,pulmonary embolism,no_pe
+83596,83596_0.txt,53.0,55.0,pe,no_pe
+83596,83596_0.txt,130.0,132.0,pe,no_pe
+83596,83596_0.txt,59.0,77.0,pulmonary embolism,no_pe
+83596,83596_0.txt,342.0,360.0,pulmonary embolism,no_pe
+83596,83596_0.txt,569.0,587.0,pulmonary embolism,no_pe
+28034,28034_49.txt,151.0,153.0,pe,pe_doc
+28034,28034_49.txt,119.0,127.0, embolus,pe_doc
+28034,28034_49.txt,491.0,509.0,pulmonary embolism,pe_doc
+28034,28034_49.txt,659.0,667.0, embolus,pe_doc
+28034,28034_49.txt,1184.0,1186.0,pe,pe_doc
+28034,28034_49.txt,880.0,888.0, embolus,pe_doc
+28034,28034_49.txt,2265.0,2283.0,pulmonary embolism,pe_doc
+28034,28034_49.txt,2382.0,2400.0,pulmonary embolism,pe_doc
+28034,28034_49.txt,2561.0,2579.0,pulmonary embolism,pe_doc
+73859,73859_317.txt,119.0,121.0,pe,no_pe
+73859,73859_317.txt,355.0,357.0,pe,no_pe
+73859,73859_317.txt,539.0,556.0,pulmonary embolus,no_pe
+73859,73859_317.txt,931.0,948.0,pulmonary embolus,no_pe
+73859,73859_317.txt,1506.0,1508.0,pe,no_pe
+73859,73859_317.txt,1204.0,1222.0,pulmonary embolism,no_pe
+81847,81847_90.txt,0.0,17.0,pulmonary embolus,pe_doc
+81847,81847_90.txt,534.0,536.0,pe,pe_doc
+81847,81847_90.txt,673.0,675.0,pe,pe_doc
+81847,81847_90.txt,688.0,704.0,pulmonary emboli,pe_doc
+81847,81847_90.txt,909.0,925.0,pulmonary emboli,pe_doc
+81847,81847_90.txt,935.0,953.0,pulmonary embolism,pe_doc
+81847,81847_90.txt,974.0,991.0,pulmonary embolus,pe_doc
+81847,81847_90.txt,2047.0,2065.0,pulmonary embolism,pe_doc
+82326,82326_145.txt,606.0,622.0,pulmonary emboli,no_pe
+3369,3369_215.txt,38.0,56.0,pulmonary embolism,pe_doc
+3369,3369_215.txt,672.0,690.0,pulmonary embolism,pe_doc
+54162,54162_273.txt,123.0,125.0,pe,no_pe
+54162,54162_273.txt,380.0,382.0,pe,no_pe
+54162,54162_273.txt,440.0,442.0,pe,no_pe
+54162,54162_273.txt,454.0,456.0,pe,no_pe
+54162,54162_273.txt,694.0,712.0,pulmonary embolism,no_pe
+54162,54162_273.txt,1365.0,1367.0,pe,no_pe
+54162,54162_273.txt,1165.0,1183.0,pulmonary embolism,no_pe
+54162,54162_273.txt,1197.0,1214.0,pulmonary embolus,no_pe
+49188,49188_128.txt,3223.0,3241.0,pulmonary embolism,no_pe
+87438,87438_86.txt,80.0,82.0,pe,no_pe
+87438,87438_86.txt,319.0,321.0,pe,no_pe
+87438,87438_86.txt,362.0,378.0,pulmonary emboli,no_pe
+87438,87438_86.txt,942.0,944.0,pe,no_pe
+87438,87438_86.txt,1217.0,1219.0,pe,no_pe
+87438,87438_86.txt,1045.0,1063.0,pulmonary embolism,no_pe
+87438,87438_86.txt,1255.0,1273.0,pulmonary embolism,no_pe
+87438,87438_86.txt,1372.0,1389.0,pulmonary embolus,no_pe
+54623,54623_285.txt,118.0,120.0,pe,pe_doc
+54623,54623_285.txt,525.0,527.0,pe,pe_doc
+54623,54623_285.txt,1168.0,1170.0,pe,pe_doc
+20643,20643_281.txt,116.0,118.0,pe,no_pe
+20643,20643_281.txt,332.0,334.0,pe,no_pe
+20643,20643_281.txt,390.0,392.0,pe,no_pe
+20643,20643_281.txt,450.0,468.0,pulmonary embolism,no_pe
+20643,20643_281.txt,918.0,920.0,pe,no_pe
+20643,20643_281.txt,1128.0,1146.0,pulmonary embolism,no_pe
+31779,31779_50.txt,0.0,17.0,pulmonary embolus,pe_doc
+31779,31779_50.txt,725.0,727.0,pe,pe_doc
+31779,31779_50.txt,1128.0,1130.0,pe,pe_doc
+31779,31779_50.txt,1191.0,1207.0,pulmonary emboli,pe_doc
+31779,31779_50.txt,1375.0,1391.0,pulmonary emboli,pe_doc
+31779,31779_50.txt,2013.0,2015.0,pe,pe_doc
+31779,31779_50.txt,1945.0,1963.0,pulmonary embolism,pe_doc
+31779,31779_50.txt,2075.0,2077.0,pe,pe_doc
+31779,31779_50.txt,2268.0,2286.0,pulmonary embolism,pe_doc
+31779,31779_50.txt,2531.0,2549.0,pulmonary embolism,pe_doc
+90559,90559_29.txt,147.0,149.0,pe,pe_doc
+90559,90559_29.txt,349.0,365.0,pulmonary emboli,pe_doc
+90559,90559_29.txt,595.0,611.0,pulmonary emboli,pe_doc
+90559,90559_29.txt,841.0,843.0,pe,pe_doc
+90559,90559_29.txt,1321.0,1339.0,pulmonary embolism,pe_doc
+90559,90559_29.txt,1342.0,1344.0,pe,pe_doc
+90559,90559_29.txt,2042.0,2060.0,pulmonary embolism,pe_doc
+22802,22802_195.txt,148.0,166.0,pulmonary embolism,no_pe
+22802,22802_195.txt,607.0,625.0,pulmonary embolism,no_pe
+22802,22802_195.txt,716.0,734.0,pulmonary embolism,no_pe
+22802,22802_195.txt,1219.0,1237.0,pulmonary embolism,no_pe
+22802,22802_195.txt,1548.0,1566.0,pulmonary embolism,no_pe
+10820,10820_222.txt,208.0,210.0,pe,pe_doc
+10820,10820_222.txt,308.0,310.0,pe,pe_doc
+10820,10820_222.txt,354.0,356.0,pe,pe_doc
+10820,10820_222.txt,377.0,393.0,pulmonary emboli,pe_doc
+10820,10820_222.txt,689.0,714.0,pulmonary artery embolism,pe_doc
+10820,10820_222.txt,891.0,909.0,pulmonary embolism,pe_doc
+90552,90552_125.txt,156.0,158.0,pe,pe_doc
+90552,90552_125.txt,136.0,154.0,pulmonary embolism,pe_doc
+90552,90552_125.txt,974.0,992.0,pulmonary embolism,pe_doc
+90552,90552_125.txt,1050.0,1068.0,pulmonary embolism,pe_doc
+10721,10721_190.txt,133.0,150.0,pulmonary embolus,no_pe
+10721,10721_190.txt,644.0,646.0,pe,no_pe
+10721,10721_190.txt,464.0,481.0,pulmonary embolus,no_pe
+10721,10721_190.txt,1024.0,1042.0,pulmonary embolism,no_pe
+10721,10721_190.txt,1271.0,1288.0,pulmonary embolus,no_pe
+10721,10721_190.txt,1346.0,1364.0,pulmonary embolism,no_pe
+10721,10721_190.txt,1583.0,1600.0,pulmonary embolus,no_pe
+30733,30733_256.txt,143.0,145.0,pe,no_pe
+30733,30733_256.txt,422.0,424.0,pe,no_pe
+30733,30733_256.txt,599.0,617.0,pulmonary embolism,no_pe
+30733,30733_256.txt,632.0,650.0,pulmonary embolism,no_pe
+30733,30733_256.txt,710.0,728.0,pulmonary embolism,no_pe
+30733,30733_256.txt,760.0,778.0,pulmonary embolism,no_pe
+18982,18982_229.txt,168.0,170.0,pe,no_pe
+18982,18982_229.txt,368.0,370.0,pe,no_pe
+18982,18982_229.txt,429.0,431.0,pe,no_pe
+18982,18982_229.txt,486.0,488.0,pe,no_pe
+18982,18982_229.txt,745.0,763.0,pulmonary embolism,no_pe
+18982,18982_229.txt,904.0,922.0,pulmonary embolism,no_pe
+18982,18982_229.txt,954.0,972.0,pulmonary embolism,no_pe
+18982,18982_229.txt,1366.0,1368.0,pe,no_pe
+63932,63932_333.txt,124.0,126.0,pe,no_pe
+63932,63932_333.txt,380.0,382.0,pe,no_pe
+63932,63932_333.txt,597.0,615.0,pulmonary embolism,no_pe
+63932,63932_333.txt,1065.0,1067.0,pe,no_pe
+63932,63932_333.txt,849.0,867.0,pulmonary embolism,no_pe
+29688,29688_28.txt,97.0,99.0,pe,no_pe
+29688,29688_28.txt,727.0,729.0,pe,no_pe
+29688,29688_28.txt,996.0,998.0,pe,no_pe
+29688,29688_28.txt,1173.0,1175.0,pe,no_pe
+29688,29688_28.txt,1295.0,1312.0,pulmonary embolus,no_pe
+29688,29688_28.txt,1403.0,1419.0,pulmonary emboli,no_pe
+29688,29688_28.txt,1493.0,1509.0,pulmonary emboli,no_pe
+29688,29688_28.txt,1532.0,1548.0,pulmonary emboli,no_pe
+29688,29688_28.txt,1698.0,1700.0,pe,no_pe
+29688,29688_28.txt,1840.0,1842.0,pe,no_pe
+29688,29688_28.txt,2398.0,2400.0,pe,no_pe
+29688,29688_28.txt,2533.0,2535.0,pe,no_pe
+29688,29688_28.txt,2124.0,2142.0,pulmonary embolism,no_pe
+29688,29688_28.txt,3354.0,3372.0,pulmonary embolism,no_pe
+29688,29688_28.txt,3423.0,3439.0,pulmonary emboli,no_pe
+29688,29688_28.txt,3690.0,3706.0,pulmonary emboli,no_pe
+11624,11624_212.txt,140.0,142.0,pe,no_pe
+11624,11624_212.txt,466.0,468.0,pe,no_pe
+11624,11624_212.txt,723.0,725.0,pe,no_pe
+11624,11624_212.txt,927.0,945.0,pulmonary embolism,no_pe
+98347,98347_136.txt,94.0,112.0,pulmonary embolism,no_pe
+26012,26012_274.txt,136.0,138.0,pe,pe_doc
+26012,26012_274.txt,453.0,455.0,pe,pe_doc
+26012,26012_274.txt,1111.0,1113.0,pe,pe_doc
+26012,26012_274.txt,2028.0,2030.0,pe,pe_doc
+26012,26012_274.txt,2411.0,2413.0,pe,pe_doc
+26012,26012_274.txt,2695.0,2713.0,pulmonary embolism,pe_doc
+96260,96260_276.txt,129.0,131.0,pe,no_pe
+96260,96260_276.txt,393.0,395.0,pe,no_pe
+96260,96260_276.txt,567.0,569.0,pe,no_pe
+96260,96260_276.txt,671.0,689.0,pulmonary embolism,no_pe
+96260,96260_276.txt,828.0,846.0,pulmonary embolism,no_pe
+96260,96260_276.txt,1235.0,1253.0,pulmonary embolism,no_pe
+96260,96260_276.txt,1518.0,1520.0,pe,no_pe
+20478,20478_80.txt,238.0,240.0,pe,no_pe
+20478,20478_80.txt,259.0,261.0,pe,no_pe
+20478,20478_80.txt,443.0,461.0,pulmonary embolism,no_pe
+1999,1999_180.txt,33.0,49.0,pulmonary emboli,pe_doc
+1999,1999_180.txt,757.0,773.0,pulmonary emboli,pe_doc
+1999,1999_180.txt,793.0,809.0,pulmonary emboli,pe_doc
+73695,73695_138.txt,141.0,143.0,pe,no_pe
+73695,73695_138.txt,484.0,502.0,pulmonary embolism,no_pe
+73695,73695_138.txt,771.0,784.0,septic emboli,no_pe
+9723,9723_27.txt,68.0,75.0, emboli,pe_doc
+9723,9723_27.txt,289.0,291.0,pe,pe_doc
+9723,9723_27.txt,1059.0,1061.0,pe,pe_doc
+9723,9723_27.txt,2152.0,2154.0,pe,pe_doc
+9723,9723_27.txt,2082.0,2100.0,pulmonary embolism,pe_doc
+9723,9723_27.txt,2580.0,2597.0,pulmonary embolus,pe_doc
+9723,9723_27.txt,2758.0,2775.0,pulmonary embolus,pe_doc
+83034,83034_61.txt,482.0,484.0,pe,no_pe
+83034,83034_61.txt,755.0,773.0,pulmonary embolism,no_pe
+83034,83034_61.txt,887.0,903.0,pulmonary emboli,no_pe
+83034,83034_61.txt,1719.0,1735.0,pulmonary emboli,no_pe
+83034,83034_61.txt,2296.0,2312.0,pulmonary emboli,no_pe
+83034,83034_61.txt,2810.0,2828.0,pulmonary embolism,no_pe
+83034,83034_61.txt,2935.0,2953.0,pulmonary embolism,no_pe
+83034,83034_61.txt,3184.0,3202.0,pulmonary embolism,no_pe
+58515,58515_121.txt,241.0,243.0,pe,pe_doc
+58515,58515_121.txt,1002.0,1004.0,pe,pe_doc
+58515,58515_121.txt,950.0,968.0,pulmonary embolism,pe_doc
+21795,21795_228.txt,165.0,167.0,pe,no_pe
+21795,21795_228.txt,437.0,439.0,pe,no_pe
+21795,21795_228.txt,604.0,606.0,pe,no_pe
+21795,21795_228.txt,948.0,966.0,pulmonary embolism,no_pe
+21795,21795_228.txt,1145.0,1163.0,pulmonary embolism,no_pe
+21795,21795_228.txt,1915.0,1917.0,pe,no_pe
+21795,21795_228.txt,2169.0,2187.0,pulmonary embolism,no_pe
+7084,7084_179.txt,134.0,136.0,pe,no_pe
+7084,7084_179.txt,382.0,384.0,pe,no_pe
+7084,7084_179.txt,569.0,571.0,pe,no_pe
+7084,7084_179.txt,775.0,793.0,pulmonary embolism,no_pe
+7084,7084_179.txt,1390.0,1408.0,pulmonary embolism,no_pe
+7084,7084_179.txt,1695.0,1697.0,pe,no_pe
+15375,15375_211.txt,130.0,132.0,pe,no_pe
+15375,15375_211.txt,365.0,367.0,pe,no_pe
+15375,15375_211.txt,637.0,639.0,pe,no_pe
+15375,15375_211.txt,675.0,693.0,pulmonary embolism,no_pe
+15375,15375_211.txt,1003.0,1021.0,pulmonary embolism,no_pe
+15375,15375_211.txt,1453.0,1455.0,pe,no_pe
+50041,50041_298.txt,135.0,137.0,pe,no_pe
+50041,50041_298.txt,445.0,447.0,pe,no_pe
+50041,50041_298.txt,641.0,643.0,pe,no_pe
+50041,50041_298.txt,1202.0,1220.0,pulmonary embolism,no_pe
+50041,50041_298.txt,1406.0,1408.0,pe,no_pe
+50041,50041_298.txt,1611.0,1629.0,pulmonary embolism,no_pe
+50041,50041_298.txt,2229.0,2247.0,pulmonary embolism,no_pe
+50041,50041_298.txt,3015.0,3017.0,pe,no_pe
+4696,4696_227.txt,377.0,379.0,pe,no_pe
+4696,4696_227.txt,674.0,692.0,pulmonary embolism,no_pe
+4696,4696_227.txt,850.0,868.0,pulmonary embolism,no_pe
+80237,80237_56.txt,15.0,17.0,pe,no_pe
+80237,80237_56.txt,1053.0,1055.0,pe,no_pe
+80237,80237_56.txt,1376.0,1378.0,pe,no_pe
+80237,80237_56.txt,1382.0,1384.0,pe,no_pe
+80237,80237_56.txt,1886.0,1904.0,pulmonary embolism,no_pe
+80237,80237_56.txt,2124.0,2142.0,pulmonary embolism,no_pe
+80237,80237_56.txt,2619.0,2637.0,pulmonary embolism,no_pe
+80237,80237_56.txt,2857.0,2875.0,pulmonary embolism,no_pe
+80237,80237_56.txt,3352.0,3370.0,pulmonary embolism,no_pe
+80237,80237_56.txt,3590.0,3608.0,pulmonary embolism,no_pe
+9545,9545_2.txt,248.0,250.0,pe,no_pe
+31029,31029_101.txt,4.0,21.0,pulmonary embolus,no_pe
+31029,31029_101.txt,51.0,69.0,pulmonary embolism,no_pe
+31029,31029_101.txt,162.0,164.0,pe,no_pe
+6898,6898_100.txt,0.0,2.0,pe,no_pe
+6898,6898_100.txt,35.0,53.0,pulmonary embolism,no_pe
+6898,6898_100.txt,270.0,288.0,pulmonary embolism,no_pe
+6898,6898_100.txt,487.0,489.0,pe,no_pe
+105,105_237.txt,172.0,174.0,pe,no_pe
+105,105_237.txt,512.0,514.0,pe,no_pe
+105,105_237.txt,585.0,587.0,pe,no_pe
+105,105_237.txt,565.0,583.0,pulmonary embolism,no_pe
+105,105_237.txt,666.0,684.0,pulmonary embolism,no_pe
+105,105_237.txt,713.0,731.0,pulmonary embolism,no_pe
+13382,13382_242.txt,114.0,116.0,pe,no_pe
+13382,13382_242.txt,319.0,321.0,pe,no_pe
+13382,13382_242.txt,748.0,766.0,pulmonary embolism,no_pe
+13382,13382_242.txt,1087.0,1089.0,pe,no_pe
+83865,83865_71.txt,43.0,45.0,pe,pe_doc
+83865,83865_71.txt,86.0,111.0,pulmonary artery embolism,pe_doc
+83865,83865_71.txt,324.0,326.0,pe,pe_doc
+83865,83865_71.txt,623.0,625.0,pe,pe_doc
+83865,83865_71.txt,682.0,684.0,pe,pe_doc
+83865,83865_71.txt,889.0,891.0,pe,pe_doc
+83865,83865_71.txt,1069.0,1071.0,pe,pe_doc
+83865,83865_71.txt,1422.0,1424.0,pe,pe_doc
+83865,83865_71.txt,1618.0,1620.0,pe,pe_doc
+83865,83865_71.txt,1824.0,1826.0,pe,pe_doc
+83865,83865_71.txt,1865.0,1881.0,pulmonary emboli,pe_doc
+83865,83865_71.txt,2211.0,2227.0,pulmonary emboli,pe_doc
+83865,83865_71.txt,2562.0,2578.0,pulmonary emboli,pe_doc
+15228,15228_187.txt,135.0,137.0,pe,no_pe
+15228,15228_187.txt,416.0,418.0,pe,no_pe
+15228,15228_187.txt,582.0,584.0,pe,no_pe
+15228,15228_187.txt,1017.0,1035.0,pulmonary embolism,no_pe
+15228,15228_187.txt,1236.0,1254.0,pulmonary embolism,no_pe
+15228,15228_187.txt,1274.0,1292.0,pulmonary embolism,no_pe
+97799,97799_8.txt,41.0,59.0,pulmonary embolism,no_pe
+73126,73126_282.txt,115.0,117.0,pe,no_pe
+73126,73126_282.txt,362.0,364.0,pe,no_pe
+73126,73126_282.txt,414.0,432.0,pulmonary embolism,no_pe
+73126,73126_282.txt,509.0,525.0,pulmonary emboli,no_pe
+73126,73126_282.txt,1089.0,1091.0,pe,no_pe
+24887,24887_223.txt,128.0,130.0,pe,no_pe
+24887,24887_223.txt,405.0,407.0,pe,no_pe
+24887,24887_223.txt,658.0,676.0,pulmonary embolism,no_pe
+24887,24887_223.txt,829.0,847.0,pulmonary embolism,no_pe
+83034,83034_130.txt,24.0,26.0,pe,pe_doc
+83034,83034_130.txt,1160.0,1162.0,pe,pe_doc
+83034,83034_130.txt,1570.0,1586.0,pulmonary emboli,pe_doc
+86919,86919_22.txt,518.0,534.0,pulmonary emboli,pe_doc
+86919,86919_22.txt,835.0,853.0,pulmonary embolism,pe_doc
+86919,86919_22.txt,1412.0,1428.0,pulmonary emboli,pe_doc
+86919,86919_22.txt,1849.0,1865.0,pulmonary emboli,pe_doc
+86919,86919_143.txt,93.0,109.0,pulmonary emboli,pe_doc
+86919,86919_143.txt,2933.0,2949.0,pulmonary emboli,pe_doc
+86919,86919_143.txt,3307.0,3323.0,pulmonary emboli,pe_doc
+86919,86919_143.txt,3344.0,3362.0,pulmonary embolism,pe_doc
+86919,86919_143.txt,3384.0,3402.0,pulmonary embolism,pe_doc
+86919,86919_143.txt,3586.0,3604.0,pulmonary embolism,pe_doc
+86919,86919_143.txt,4019.0,4037.0,pulmonary embolism,pe_doc
+86919,86919_143.txt,4433.0,4451.0,pulmonary embolism,pe_doc
+55273,55273_17.txt,607.0,609.0,pe,no_pe
+55273,55273_17.txt,666.0,684.0,pulmonary embolism,no_pe
+55273,55273_17.txt,1219.0,1221.0,pe,no_pe
+55273,55273_17.txt,1261.0,1268.0, emboli,no_pe
+55273,55273_17.txt,1511.0,1513.0,pe,no_pe
+55273,55273_17.txt,1597.0,1614.0,pulmonary embolus,no_pe
+55273,55273_17.txt,1650.0,1667.0,pulmonary embolus,no_pe
+63079,63079_172.txt,211.0,213.0,pe,no_pe
+63079,63079_172.txt,168.0,184.0,pulmonary emboli,no_pe
+63079,63079_172.txt,597.0,599.0,pe,no_pe
+63079,63079_172.txt,963.0,965.0,pe,no_pe
+63079,63079_172.txt,1351.0,1353.0,pe,no_pe
+63079,63079_172.txt,1391.0,1393.0,pe,no_pe
+63079,63079_172.txt,1499.0,1501.0,pe,no_pe
+5786,5786_220.txt,143.0,145.0,pe,no_pe
+5786,5786_220.txt,387.0,389.0,pe,no_pe
+5786,5786_220.txt,702.0,720.0,pulmonary embolism,no_pe
+5786,5786_220.txt,963.0,981.0,pulmonary embolism,no_pe
+5786,5786_220.txt,1452.0,1470.0,pulmonary embolism,no_pe
+6700,6700_198.txt,139.0,141.0,pe,no_pe
+6700,6700_198.txt,332.0,334.0,pe,no_pe
+6700,6700_198.txt,497.0,515.0,pulmonary embolism,no_pe
+6700,6700_198.txt,694.0,712.0,pulmonary embolism,no_pe
+6700,6700_198.txt,754.0,770.0,pulmonary emboli,no_pe
+6700,6700_198.txt,932.0,950.0,pulmonary embolism,no_pe
+6700,6700_198.txt,1156.0,1158.0,pe,no_pe
+73055,73055_311.txt,769.0,787.0,pulmonary embolism,no_pe
+73055,73055_311.txt,801.0,819.0,pulmonary embolism,no_pe
+73055,73055_311.txt,1503.0,1521.0,pulmonary embolism,no_pe
+22442,22442_310.txt,125.0,127.0,pe,no_pe
+22442,22442_310.txt,158.0,160.0,pe,no_pe
+22442,22442_310.txt,335.0,337.0,pe,no_pe
+22442,22442_310.txt,378.0,380.0,pe,no_pe
+22442,22442_310.txt,411.0,413.0,pe,no_pe
+22442,22442_310.txt,604.0,606.0,pe,no_pe
+22442,22442_310.txt,793.0,795.0,pe,no_pe
+22442,22442_310.txt,744.0,762.0,pulmonary embolism,no_pe
+22442,22442_310.txt,839.0,857.0,pulmonary embolism,no_pe
+22442,22442_310.txt,1477.0,1479.0,pe,no_pe
+22442,22442_310.txt,1510.0,1512.0,pe,no_pe
+22442,22442_310.txt,1679.0,1697.0,pulmonary embolism,no_pe
+53081,53081_72.txt,497.0,499.0,pe,pe_doc
+53081,53081_72.txt,831.0,833.0,pe,pe_doc
+53081,53081_72.txt,1096.0,1112.0,pulmonary emboli,pe_doc
+53081,53081_72.txt,1197.0,1213.0,pulmonary emboli,pe_doc
+53081,53081_72.txt,1310.0,1326.0,pulmonary emboli,pe_doc
+53081,53081_72.txt,1445.0,1463.0,pulmonary embolism,pe_doc
+6287,6287_234.txt,102.0,104.0,pe,no_pe
+6287,6287_234.txt,339.0,341.0,pe,no_pe
+6287,6287_234.txt,392.0,410.0,pulmonary embolism,no_pe
+6287,6287_234.txt,452.0,468.0,pulmonary emboli,no_pe
+6287,6287_234.txt,879.0,881.0,pe,no_pe
+6287,6287_234.txt,1056.0,1074.0,pulmonary embolism,no_pe
+11720,11720_32.txt,18.0,36.0,pulmonary embolism,no_pe
+65759,65759_320.txt,126.0,144.0,pulmonary embolism,no_pe
+65759,65759_320.txt,756.0,758.0,pe,no_pe
+65759,65759_320.txt,516.0,534.0,pulmonary embolism,no_pe
+65759,65759_320.txt,923.0,941.0,pulmonary embolism,no_pe
+65759,65759_320.txt,1116.0,1133.0,pulmonary embolus,no_pe
+65759,65759_320.txt,1353.0,1371.0,pulmonary embolism,no_pe
+65759,65759_320.txt,1553.0,1571.0,pulmonary embolism,no_pe
+45962,45962_309.txt,115.0,117.0,pe,no_pe
+45962,45962_309.txt,327.0,329.0,pe,no_pe
+45962,45962_309.txt,611.0,629.0,pulmonary embolism,no_pe
+45962,45962_309.txt,642.0,660.0,pulmonary embolism,no_pe
+45962,45962_309.txt,674.0,692.0,pulmonary embolism,no_pe
+45962,45962_309.txt,1044.0,1046.0,pe,no_pe
+45962,45962_309.txt,1175.0,1193.0,pulmonary embolism,no_pe
+58515,58515_120.txt,339.0,341.0,pe,pe_doc
+58515,58515_120.txt,287.0,305.0,pulmonary embolism,pe_doc
+30927,30927_255.txt,610.0,612.0,pe,no_pe
+30927,30927_255.txt,119.0,137.0,pulmonary embolism,no_pe
+30927,30927_255.txt,429.0,447.0,pulmonary embolism,no_pe
+30927,30927_255.txt,855.0,857.0,pe,no_pe
+30927,30927_255.txt,871.0,888.0,pulmonary embolus,no_pe
+30927,30927_255.txt,1475.0,1477.0,pe,no_pe
+30927,30927_255.txt,1253.0,1271.0,pulmonary embolism,no_pe
+32113,32113_110.txt,253.0,255.0,pe,no_pe
+32113,32113_110.txt,265.0,267.0,pe,no_pe
+32113,32113_110.txt,387.0,396.0, embolism,no_pe
+32113,32113_110.txt,650.0,668.0,pulmonary embolism,no_pe
+32113,32113_110.txt,1436.0,1438.0,pe,no_pe
+63079,63079_170.txt,211.0,213.0,pe,no_pe
+63079,63079_170.txt,168.0,184.0,pulmonary emboli,no_pe
+63079,63079_170.txt,597.0,599.0,pe,no_pe
+63079,63079_170.txt,963.0,965.0,pe,no_pe
+63079,63079_170.txt,1351.0,1353.0,pe,no_pe
+63079,63079_170.txt,1391.0,1393.0,pe,no_pe
+63079,63079_170.txt,1499.0,1501.0,pe,no_pe
+60762,60762_264.txt,116.0,118.0,pe,no_pe
+60762,60762_264.txt,363.0,365.0,pe,no_pe
+60762,60762_264.txt,528.0,546.0,pulmonary embolism,no_pe
+60762,60762_264.txt,723.0,741.0,pulmonary embolism,no_pe
+54301,54301_148.txt,9.0,22.0,septic emboli,pe_doc
+54301,54301_148.txt,100.0,116.0,pulmonary emboli,pe_doc
+54301,54301_148.txt,808.0,810.0,pe,pe_doc
+54301,54301_148.txt,890.0,892.0,pe,pe_doc
+47853,47853_278.txt,133.0,135.0,pe,no_pe
+47853,47853_278.txt,368.0,370.0,pe,no_pe
+47853,47853_278.txt,518.0,536.0,pulmonary embolism,no_pe
+47853,47853_278.txt,770.0,788.0,pulmonary embolism,no_pe
+47853,47853_278.txt,893.0,911.0,pulmonary embolism,no_pe
+47853,47853_278.txt,1824.0,1826.0,pe,no_pe
+47853,47853_278.txt,1545.0,1563.0,pulmonary embolism,no_pe
+73695,73695_137.txt,17.0,19.0,pe,no_pe
+73695,73695_137.txt,249.0,267.0,pulmonary embolism,no_pe
+14936,14936_240.txt,119.0,121.0,pe,no_pe
+14936,14936_240.txt,336.0,338.0,pe,no_pe
+14936,14936_240.txt,1022.0,1024.0,pe,no_pe
+14936,14936_240.txt,596.0,614.0,pulmonary embolism,no_pe
+4926,4926_185.txt,144.0,146.0,pe,no_pe
+4926,4926_185.txt,429.0,431.0,pe,no_pe
+4926,4926_185.txt,724.0,742.0,pulmonary embolism,no_pe
+4926,4926_185.txt,1383.0,1401.0,pulmonary embolism,no_pe
+4926,4926_185.txt,1458.0,1476.0,pulmonary embolism,no_pe
+10207,10207_16.txt,34.0,36.0,pe,pe_doc
+10207,10207_16.txt,382.0,391.0, embolism,pe_doc
+10207,10207_16.txt,587.0,595.0, embolus,pe_doc
+10207,10207_16.txt,635.0,637.0,pe,pe_doc
+10207,10207_16.txt,1028.0,1046.0,pulmonary embolism,pe_doc
+46093,46093_105.txt,10.0,28.0,pulmonary embolism,pe_doc
+46093,46093_105.txt,246.0,262.0,pulmonary emboli,pe_doc
+46093,46093_105.txt,264.0,282.0,pulmonary embolism,pe_doc
+32605,32605_53.txt,188.0,190.0,pe,pe_doc
+32605,32605_53.txt,362.0,380.0,pulmonary embolism,pe_doc
+15179,15179_188.txt,195.0,197.0,pe,no_pe
+15179,15179_188.txt,668.0,670.0,pe,no_pe
+15179,15179_188.txt,487.0,505.0,pulmonary embolism,no_pe
+15179,15179_188.txt,957.0,975.0,pulmonary embolism,no_pe
+15179,15179_188.txt,1021.0,1039.0,pulmonary embolism,no_pe
+15179,15179_188.txt,1070.0,1088.0,pulmonary embolism,no_pe
+97670,97670_308.txt,160,176,elevated d-dimer,high_ddimer
+97670,97670_308.txt,385,401,elevated d-dimer,high_ddimer
+97670,97670_308.txt,695,711,elevated d-dimer,high_ddimer
+97670,97670_308.txt,3184,3200,elevated d-dimer,high_ddimer
+49188,49188_129.txt,4686,4703,d-dimer: 5975    ,high_ddimer
+68882,68882_275.txt,403,419,elevated d-dimer,high_ddimer
+68882,68882_275.txt,1199,1215,elevated d-dimer,high_ddimer
+27416,27416_263.txt,289,304,elevated ddimer,high_ddimer
+27416,27416_263.txt,540,556,elevated d-dimer,high_ddimer
+68251,68251_124.txt,1208,1222,ddimer > 1063 ,high_ddimer
+68251,68251_124.txt,5567,5584,d-dimer 1063    .,high_ddimer
+68251,68251_124.txt,1199,1214,elevated ddimer,high_ddimer
+15247,15247_97.txt,901,914,d-dimer 2.77.,low_ddimer
+50190,50190_324.txt,330,346,elevated d-dimer,high_ddimer
+50190,50190_324.txt,886,902,elevated d-dimer,high_ddimer
+6061,6061_44.txt,3953,3966,d-dimer-1651*,high_ddimer
+41308,41308_142.txt,823,841,d-dimer was 7000. ,high_ddimer
+72116,72116_95.txt,2151,2185,d-dimer, elevated creatinine 1.4, ,low_ddimer
+72116,72116_95.txt,2150,2158,+d-dimer,high_ddimer
+53081,53081_303.txt,319,335,elevated d-dimer,high_ddimer
+53081,53081_303.txt,1159,1175,elevated d-dimer,high_ddimer
+25860,25860_294.txt,356,365,+ d dimer,high_ddimer
+25860,25860_294.txt,826,842,positive d-dimer,high_ddimer
+32605,32605_297.txt,382,398,elevated d-dimer,high_ddimer
+32605,32605_297.txt,980,996,elevated d-dimer,high_ddimer
+56179,56179_280.txt,311,319,+d-dimer,high_ddimer
+56179,56179_280.txt,865,881,positive d-dimer,high_ddimer
+91150,91150_104.txt,3971,3990,d-dimer-[**2850**]*,high_ddimer
+7752,7752_191.txt,327,336,+ d dimer,high_ddimer
+7752,7752_191.txt,743,759,positive d-dimer,high_ddimer
+58515,58515_153.txt,4601,4644,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+59318,59318_316.txt,346,362,elevated d-dimer,high_ddimer
+59318,59318_316.txt,1501,1517,elevated d-dimer,high_ddimer
+58515,58515_118.txt,4590,4633,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+90552,90552_59.txt,4905,4919,d-dimer-<150 .,low_ddimer
+85050,85050_7.txt,4979,4993,d-dimer- 2382*,high_ddimer
+30399,30399_248.txt,452,468,elevated d-dimer,high_ddimer
+30399,30399_248.txt,724,740,elevated d-dimer,high_ddimer
+64983,64983_21.txt,2766,2782,positive d-dimer,high_ddimer
+16492,16492_286.txt,323,339,positive d dimer,high_ddimer
+16492,16492_286.txt,901,917,positive d-dimer,high_ddimer
+81846,81846_301.txt,425,440,d-dimer 7000.  ,high_ddimer
+81846,81846_301.txt,1578,1594,elevated d-dimer,high_ddimer
+82326,82326_146.txt,5210,5228,d-dimer:3509 ng/ml,high_ddimer
+15853,15853_34.txt,3256,3269,d-dimer-5727*,high_ddimer
+15853,15853_34.txt,8781,8812,d-dimer was found to be 5727.  ,high_ddimer
+58515,58515_151.txt,6702,6745,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+10820,10820_233.txt,345,361,elevated d-dimer,high_ddimer
+87284,87284_270.txt,1243,1259,positive d-dimer,high_ddimer
+58264,58264_323.txt,331,347,positive d-dimer,high_ddimer
+58264,58264_323.txt,896,912,positive d-dimer,high_ddimer
+46904,46904_45.txt,2388,2422,d-dimer slightly elevated at 630. ,high_ddimer
+46904,46904_45.txt,6868,6880,d-dimer-630*,high_ddimer
+49188,49188_164.txt,4385,4402,d-dimer: 5975    ,high_ddimer
+49853,49853_70.txt,4673,4686,d-dimer-8882*,high_ddimer
+97830,97830_62.txt,1525,1541,elevated d-dimer,high_ddimer
+22119,22119_35.txt,3964,3977,d-dimer-202  ,low_ddimer
+78842,78842_103.txt,4701,4713,d-dimer-756*,high_ddimer
+30579,30579_54.txt,1415,1431,d-dimer of 3050,,high_ddimer
+9555,9555_11.txt,4984,4997,d-dimer-8337*,high_ddimer
+49188,49188_163.txt,4656,4673,d-dimer: 5975    ,high_ddimer
+95000,95000_25.txt,7168,7181,d-dimer-4272*,high_ddimer
+24573,24573_246.txt,292,308,positive d-dimer,high_ddimer
+24573,24573_246.txt,855,871,positive d-dimer,high_ddimer
+90609,90609_60.txt,1727,1757,d-dimer was positive at 2120, ,high_ddimer
+90609,90609_60.txt,1727,1747,d-dimer was positive,high_ddimer
+81270,81270_75.txt,3872,3887,d-dimer ([**11-,low_ddimer
+86919,86919_114.txt,1839,1868,d-dimer was elevated at 1143 ,high_ddimer
+86919,86919_114.txt,5957,5973,d-dimer:1143    ,high_ddimer
+69758,69758_295.txt,390,399,+ d-dimer,high_ddimer
+90446,90446_291.txt,351,367,positive d-dimer,high_ddimer
+90446,90446_291.txt,1257,1273,positive d-dimer,high_ddimer
+32113,32113_139.txt,3937,3955,d-dimer:1427 ng/ml,high_ddimer
+71194,71194_328.txt,315,331,positive d-dimer,high_ddimer
+71194,71194_328.txt,941,957,positive d-dimer,high_ddimer
+20552,20552_183.txt,928,944,positive d-dimer,high_ddimer
+77586,77586_82.txt,4116,4129,d-dimer-3415*,high_ddimer
+10569,10569_208.txt,936,952,elevated d-dimer,high_ddimer
+32061,32061_259.txt,399,407,+d dimer,high_ddimer
+32061,32061_259.txt,670,686,positive d-dimer,high_ddimer
+82326,82326_147.txt,4767,4785,d-dimer:3509 ng/ml,high_ddimer
+31462,31462_48.txt,5871,5884,d-dimer-4878*,high_ddimer
+31462,31462_48.txt,6137,6150,d-dimer-4878*,high_ddimer
+31462,31462_48.txt,17641,17658,d-dimer at 4878. ,high_ddimer
+31462,31462_48.txt,17632,17648,elevated d-dimer,high_ddimer
+55273,55273_162.txt,4744,4787,d-dimer:[**numeric identifier 4907**] ng/ml,high_ddimer
+7299,7299_193.txt,370,379,+ d-dimer,high_ddimer
+7299,7299_193.txt,820,836,positive d-dimer,high_ddimer
+49106,49106_57.txt,6992,7011,d-dimer-[**2936**]*,high_ddimer
+32090,32090_79.txt,2800,2813,d-dimer-1136*,high_ddimer
+58515,58515_115.txt,5003,5046,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+58515,58515_154.txt,6944,6987,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+12274,12274_257.txt,334,350,elevated d dimer,high_ddimer
+12274,12274_257.txt,855,871,elevated d-dimer,high_ddimer
+66213,66213_83.txt,3808,3821,d-dimer-3053*,high_ddimer
+66213,66213_83.txt,1774,1790,elevated d-dimer,high_ddimer
+7676,7676_238.txt,919,935,elevated d-dimer,high_ddimer
+9594,9594_26.txt,7599,7615,d-dimer was 500 ,high_ddimer
+9594,9594_26.txt,12917,12933,d-dimer was 500 ,high_ddimer
+1257,1257_267.txt,416,432,positive d-dimer,high_ddimer
+1257,1257_267.txt,1116,1132,positive d-dimer,high_ddimer
+6417,6417_24.txt,783,799,positive d-dimer,high_ddimer
+31462,31462_252.txt,361,370,+ d-dimer,high_ddimer
+30336,30336_47.txt,1926,1962,d-dimer was mildly elevated at 524. ,high_ddimer
+58515,58515_117.txt,4590,4633,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+43501,43501_81.txt,6685,6698,d-dimer-5451*,high_ddimer
+27089,27089_260.txt,287,303,elevated d-dimer,high_ddimer
+27089,27089_260.txt,820,836,elevated d-dimer,high_ddimer
+5772,5772_92.txt,4078,4092,d-dimer-4006 .,high_ddimer
+20858,20858_91.txt,5469,5482,d-dimer-3006*,high_ddimer
+82326,82326_144.txt,5210,5228,d-dimer:3509 ng/ml,high_ddimer
+22043,22043_231.txt,150,158,+d-dimer,high_ddimer
+22043,22043_231.txt,316,324,+d-dimer,high_ddimer
+22043,22043_231.txt,849,865,positive d-dimer,high_ddimer
+22043,22043_231.txt,3003,3011,+d-dimer,high_ddimer
+32113,32113_140.txt,3937,3955,d-dimer:1427 ng/ml,high_ddimer
+91583,91583_315.txt,466,482,elevated d-dimer,high_ddimer
+10355,10355_226.txt,339,362,ddimer yesterday 4000  ,high_ddimer
+10355,10355_226.txt,146,153,+ddimer,high_ddimer
+10355,10355_226.txt,338,345,+ddimer,high_ddimer
+10355,10355_226.txt,1152,1168,positive d-dimer,high_ddimer
+10355,10355_226.txt,2942,2949,+ddimer,high_ddimer
+11762,11762_236.txt,146,162,positive d-dimer,high_ddimer
+11762,11762_236.txt,342,349,+ddimer,high_ddimer
+11762,11762_236.txt,863,879,positive d-dimer,high_ddimer
+11762,11762_236.txt,2895,2911,positive d-dimer,high_ddimer
+21830,21830_3.txt,3109,3125,positive d-dimer,high_ddimer
+48928,48928_272.txt,372,387,positive ddimer,high_ddimer
+48928,48928_272.txt,833,849,positive d-dimer,high_ddimer
+54703,54703_322.txt,909,925,elevated d-dimer,high_ddimer
+58515,58515_152.txt,6702,6745,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+64673,64673_289.txt,365,381,positive d dimer,high_ddimer
+64673,64673_289.txt,1024,1040,positive d-dimer,high_ddimer
+80490,80490_319.txt,305,321,elevated d-dimer,high_ddimer
+80490,80490_319.txt,1068,1084,elevated d-dimer,high_ddimer
+13903,13903_204.txt,363,373,ddimer 700,high_ddimer
+13903,13903_204.txt,824,840,elevated d-dimer,high_ddimer
+6805,6805_216.txt,365,372,+ddimer,high_ddimer
+6805,6805_216.txt,745,761,positive d-dimer,high_ddimer
+20308,20308_202.txt,140,156,elevated d-dimer,high_ddimer
+20308,20308_202.txt,363,379,elevated d-dimer,high_ddimer
+20308,20308_202.txt,932,948,elevated d-dimer,high_ddimer
+20308,20308_202.txt,3127,3143,elevated d-dimer,high_ddimer
+60645,60645_58.txt,945,961,positive d-dimer,high_ddimer
+82393,82393_167.txt,7987,8004,d-dimer ([**3433-,high_ddimer
+17581,17581_196.txt,492,520,d-dimer sent and was 2100.  ,high_ddimer
+17581,17581_196.txt,871,887,positive d-dimer,high_ddimer
+69251,69251_288.txt,425,433,+d-dimer,high_ddimer
+69251,69251_288.txt,1491,1507,positive d-dimer,high_ddimer
+28375,28375_249.txt,1216,1232,elevated d-dimer,high_ddimer
+28375,28375_249.txt,1565,1581,elevated d-dimer,high_ddimer
+20230,20230_210.txt,403,419,elevated d-dimer,high_ddimer
+75156,75156_41.txt,6291,6303,d-dimer-897*,high_ddimer
+13327,13327_15.txt,1804,1817,d-dimer-1177*,high_ddimer
+13327,13327_15.txt,5590,5608,d-dimer was 1177. ,high_ddimer
+60645,60645_126.txt,631,647,positive d-dimer,high_ddimer
+72488,72488_290.txt,423,439,d-dimer positive,high_ddimer
+72488,72488_290.txt,1049,1065,d-dimer positive,high_ddimer
+50207,50207_87.txt,826,839,d-dimer 488, ,low_ddimer
+50207,50207_87.txt,3406,3420,d-dimer: 488 .,low_ddimer
+32113,32113_108.txt,5659,5677,d-dimer:1427 ng/ml,high_ddimer
+18626,18626_181.txt,163,179,elevated d-dimer,high_ddimer
+18626,18626_181.txt,450,466,elevated d-dimer,high_ddimer
+18626,18626_181.txt,712,728,elevated d-dimer,high_ddimer
+13214,13214_314.txt,132,148,elevated d-dimer,high_ddimer
+13214,13214_314.txt,488,504,elevated d-dimer,high_ddimer
+26012,26012_243.txt,394,408,d-dimer 1500  ,high_ddimer
+26012,26012_243.txt,923,939,elevated d-dimer,high_ddimer
+21021,21021_39.txt,2552,2563,d-dimer pos,high_ddimer
+79931,79931_9.txt,4751,4764,d-dimer-1086*,high_ddimer
+79931,79931_9.txt,11640,11656,positive d-dimer,high_ddimer
+79931,79931_9.txt,13881,13897,positive d-dimer,high_ddimer
+13327,13327_207.txt,433,449,elevated d dimer,high_ddimer
+13327,13327_207.txt,698,714,elevated d-dimer,high_ddimer
+68251,68251_5.txt,1112,1126,ddimer > 1063 ,high_ddimer
+68251,68251_5.txt,4471,4484,d-dimer-1063*,high_ddimer
+68251,68251_5.txt,1103,1118,elevated ddimer,high_ddimer
+83031,83031_271.txt,474,490,elevated d-dimer,high_ddimer
+83031,83031_271.txt,850,866,positive d-dimer,high_ddimer
+22450,22450_13.txt,4937,4949,d-dimer-792*,high_ddimer
+6944,6944_30.txt,1211,1241,d-dimer of greater than 1000. ,high_ddimer
+71677,71677_66.txt,4199,4212,d-dimer-1403*,high_ddimer
+30178,30178_10.txt,3806,3819,d-dimer-1731*,high_ddimer
+5592,5592_221.txt,156,172,positive d-dimer,high_ddimer
+5592,5592_221.txt,407,423,positive d-dimer,high_ddimer
+5592,5592_221.txt,918,934,elevated d-dimer,high_ddimer
+5592,5592_221.txt,2623,2639,positive d-dimer,high_ddimer
+8422,8422_177.txt,383,399,elevated d-dimer,high_ddimer
+8422,8422_177.txt,631,647,elevated d-dimer,high_ddimer
+69758,69758_69.txt,1546,1562,positive d-dimer,high_ddimer
+82326,82326_112.txt,4767,4785,d-dimer:3509 ng/ml,high_ddimer
+55273,55273_122.txt,6877,6920,d-dimer:[**numeric identifier 4907**] ng/ml,high_ddimer
+71677,71677_318.txt,417,426,+ d dimer,high_ddimer
+71677,71677_318.txt,1070,1086,positive d-dimer,high_ddimer
+11851,11851_42.txt,1879,1895,positive d-dimer,high_ddimer
+4199,4199_203.txt,393,403,pos ddimer,high_ddimer
+4199,4199_203.txt,860,876,positive d-dimer,high_ddimer
+74932,74932_174.txt,981,996,d-dimer in 2400,high_ddimer
+30575,30575_283.txt,338,354,positive d-dimer,high_ddimer
+30575,30575_283.txt,848,864,positive d-dimer,high_ddimer
+77729,77729_85.txt,5761,5774,d-dimer-1268*,high_ddimer
+77729,77729_85.txt,7560,7590,d-dimer elevated to over 1200;,high_ddimer
+747,747_217.txt,150,166,elevated d-dimer,high_ddimer
+747,747_217.txt,417,433,elevated d-dimer,high_ddimer
+747,747_217.txt,2946,2962,elevated d-dimer,high_ddimer
+98931,98931_302.txt,344,351,+ddimer,high_ddimer
+98931,98931_302.txt,908,924,positive d-dimer,high_ddimer
+43367,43367_213.txt,356,364,+d-dimer,high_ddimer
+60645,60645_127.txt,631,647,positive d-dimer,high_ddimer
+58947,58947_269.txt,746,762,positive d-dimer,high_ddimer
+6612,6612_218.txt,357,373,elevated d-dimer,high_ddimer
+6612,6612_218.txt,816,832,elevated d-dimer,high_ddimer
+10132,10132_31.txt,1808,1824,d-dimer > 8000, ,high_ddimer
+10132,10132_31.txt,6944,6957,d-dimer-8789*,high_ddimer
+10132,10132_31.txt,8739,8755,elevated d-dimer,high_ddimer
+63079,63079_171.txt,491,507,d-dimer positive,high_ddimer
+29519,29519_261.txt,152,168,positive d dimer,high_ddimer
+29519,29519_261.txt,412,428,positive d-dimer,high_ddimer
+29519,29519_261.txt,848,864,positive d-dimer,high_ddimer
+29519,29519_261.txt,2760,2776,positive d dimer,high_ddimer
+90403,90403_321.txt,342,363,ddimer to [**3254**].,high_ddimer
+90403,90403_321.txt,333,348,elevated ddimer,high_ddimer
+90403,90403_321.txt,770,786,elevated d-dimer,high_ddimer
+46399,46399_304.txt,397,413,elevated d-dimer,high_ddimer
+30805,30805_251.txt,420,436,elevated d-dimer,high_ddimer
+30805,30805_251.txt,931,947,elevated d-dimer,high_ddimer
+2989,2989_209.txt,361,377,elevated d-dimer,high_ddimer
+2989,2989_209.txt,833,849,elevated d-dimer,high_ddimer
+1331,1331_88.txt,3009,3022,d-dimer-8768*,high_ddimer
+11711,11711_244.txt,332,340,+d-dimer,high_ddimer
+11711,11711_244.txt,826,842,positive d-dimer,high_ddimer
+74932,74932_135.txt,981,996,d-dimer in 2400,high_ddimer
+67481,67481_173.txt,1019,1034,d-dimer of 3.4 ,low_ddimer
+67481,67481_173.txt,1010,1026,elevated d-dimer,high_ddimer
+19216,19216_149.txt,4030,4048,d-dimer:2067 ng/ml,high_ddimer
+27643,27643_245.txt,413,429,positive d-dimer,high_ddimer
+27643,27643_245.txt,729,745,positive d-dimer,high_ddimer
+81384,81384_334.txt,334,350,positive d dimer,high_ddimer
+81384,81384_334.txt,844,860,positive d-dimer,high_ddimer
+13794,13794_262.txt,290,305,elevated ddimer,high_ddimer
+13794,13794_262.txt,730,746,elevated d-dimer,high_ddimer
+16680,16680_241.txt,164,180,elevated d-dimer,high_ddimer
+16680,16680_241.txt,887,903,elevated d-dimer,high_ddimer
+16680,16680_241.txt,3171,3187,elevated d-dimer,high_ddimer
+98982,98982_296.txt,395,410,elevated ddimer,high_ddimer
+98982,98982_296.txt,1082,1098,elevated d-dimer,high_ddimer
+92995,92995_329.txt,330,346,elevated d dimer,high_ddimer
+92995,92995_329.txt,663,680,elevated  d-dimer,high_ddimer
+58515,58515_156.txt,5763,5806,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+7107,7107_200.txt,150,161,pos d dimer,high_ddimer
+7107,7107_200.txt,483,494,pos d dimer,high_ddimer
+7107,7107_200.txt,686,694,+d-dimer,high_ddimer
+7107,7107_200.txt,2603,2614,pos d dimer,high_ddimer
+11961,11961_247.txt,811,827,elevated d-dimer,high_ddimer
+124,124_189.txt,331,347,elevated d-dimer,high_ddimer
+7589,7589_258.txt,351,367,elevated d-dimer,high_ddimer
+7589,7589_258.txt,751,767,elevated d-dimer,high_ddimer
+43943,43943_330.txt,318,334,elevated d-dimer,high_ddimer
+43943,43943_330.txt,934,950,elevated d-dimer,high_ddimer
+50140,50140_77.txt,15005,15039,d-dimer-[**numeric identifier 1753,high_ddimer
+76760,76760_300.txt,369,385,elevated d dimer,high_ddimer
+76760,76760_300.txt,1242,1258,elevated d-dimer,high_ddimer
+73125,73125_265.txt,403,419,elevated d-dimer,high_ddimer
+73125,73125_265.txt,1552,1568,elevated d-dimer,high_ddimer
+68870,68870_1.txt,7107,7120,d-dimer-2523*,high_ddimer
+98266,98266_96.txt,633,649,positive d-dimer,high_ddimer
+15841,15841_219.txt,311,321,pos ddimer,high_ddimer
+15841,15841_219.txt,940,956,elevated d-dimer,high_ddimer
+58515,58515_158.txt,4199,4242,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+74932,74932_175.txt,981,996,d-dimer in 2400,high_ddimer
+58515,58515_176.txt,4892,4935,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+86628,86628_74.txt,1601,1635,d-dimer [**numeric identifier 1722,high_ddimer
+86628,86628_74.txt,5777,5811,d-dimer-[**numeric identifier 1722,high_ddimer
+86628,86628_74.txt,9184,9200,elevated d-dimer,high_ddimer
+63218,63218_327.txt,361,377,elevated d dimer,high_ddimer
+63218,63218_327.txt,1026,1042,elevated d-dimer,high_ddimer
+58515,58515_116.txt,3930,3973,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+90198,90198_78.txt,4423,4438,d-dimer-152 [**,low_ddimer
+31545,31545_51.txt,3679,3698,d-dimer-[**2962**]*,high_ddimer
+28375,28375_46.txt,1293,1307,d-dimer 1050, ,high_ddimer
+28375,28375_46.txt,4676,4692,elevated d-dimer,high_ddimer
+28375,28375_46.txt,7200,7216,elevated d-dimer,high_ddimer
+11762,11762_230.txt,154,162,+d-dimer,high_ddimer
+11762,11762_230.txt,384,392,+d-dimer,high_ddimer
+11762,11762_230.txt,722,738,positive d-dimer,high_ddimer
+11762,11762_230.txt,2708,2716,+d-dimer,high_ddimer
+16492,16492_313.txt,374,390,elevated d-dimer,high_ddimer
+16492,16492_313.txt,1127,1143,elevated d-dimer,high_ddimer
+75156,75156_287.txt,324,334,pos ddimer,high_ddimer
+75156,75156_287.txt,836,852,positive d-dimer,high_ddimer
+961,961_37.txt,1240,1256,elevated d-dimer,high_ddimer
+54494,54494_299.txt,357,373,elevated d-dimer,high_ddimer
+54494,54494_299.txt,1143,1159,elevated d-dimer,high_ddimer
+30084,30084_52.txt,6486,6498,d-dimer-582*,high_ddimer
+56849,56849_325.txt,387,403,elevated d-dimer,high_ddimer
+56849,56849_325.txt,1165,1181,elevated d-dimer,high_ddimer
+66090,66090_89.txt,2064,2102,d-dimer [**numeric identifier 5450**],,high_ddimer
+66090,66090_89.txt,5834,5872,d-dimer-[**numeric identifier 5450**]*,high_ddimer
+2809,2809_194.txt,818,834,positive d-dimer,high_ddimer
+41308,41308_113.txt,823,841,d-dimer was 7000. ,high_ddimer
+17393,17393_40.txt,1440,1456,elevated d-dimer,high_ddimer
+73695,73695_111.txt,7952,7970,d-dimer:5093 ng/ml,high_ddimer
+15733,15733_178.txt,508,523,elevated ddimer,high_ddimer
+15733,15733_178.txt,851,867,elevated d-dimer,high_ddimer
+11404,11404_214.txt,403,415,d-dimer 628,,high_ddimer
+11404,11404_214.txt,969,982,d-dimer [**6-,high_ddimer
+58514,58514_67.txt,3609,3622,d-dimer-4616*,high_ddimer
+90559,90559_132.txt,1899,1915,elevated d-dimer,high_ddimer
+27486,27486_199.txt,354,371,d-dimer of 1100  ,high_ddimer
+27486,27486_199.txt,778,794,elevated d-dimer,high_ddimer
+29284,29284_253.txt,383,398,elevated ddimer,high_ddimer
+29284,29284_253.txt,958,975,elevated  d-dimer,high_ddimer
+62841,62841_326.txt,361,373,ddimer 850  ,high_ddimer
+62841,62841_326.txt,1425,1441,positive d-dimer,high_ddimer
+94329,94329_331.txt,339,355,elevated d dimer,high_ddimer
+94329,94329_331.txt,1142,1158,elevated d-dimer,high_ddimer
+25844,25844_38.txt,4096,4108,d-dimer-676*,high_ddimer
+54930,54930_99.txt,1564,1578,d-dimer 3669, ,high_ddimer
+54930,54930_99.txt,3895,3908,d-dimer-3669*,high_ddimer
+10412,10412_23.txt,2742,2755,d-dimer:593 .,high_ddimer
+51660,51660_4.txt,6225,6238,d-dimer-1011*,high_ddimer
+51660,51660_4.txt,2001,2017,elevated d-dimer,high_ddimer
+8668,8668_239.txt,141,157,elevated d-dimer,high_ddimer
+8668,8668_239.txt,1024,1040,elevated d-dimer,high_ddimer
+12152,12152_192.txt,334,345,pos d-dimer,high_ddimer
+12152,12152_192.txt,568,584,positive d-dimer,high_ddimer
+85050,85050_284.txt,1340,1356,elevated d-dimer,high_ddimer
+58515,58515_157.txt,4199,4242,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+29231,29231_254.txt,428,444,elevated d-dimer,high_ddimer
+29231,29231_254.txt,1047,1063,elevated d-dimer,high_ddimer
+58515,58515_160.txt,4590,4633,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+75752,75752_65.txt,4279,4292,d-dimer-6615*,high_ddimer
+15899,15899_33.txt,2419,2432,d-dimer-3607*,high_ddimer
+98347,98347_166.txt,8529,8544,d-dimer 288    ,low_ddimer
+83596,83596_0.txt,1947,1961,d-dimer 5515, ,high_ddimer
+83596,83596_0.txt,4847,4860,d-dimer-5515*,high_ddimer
+73859,73859_317.txt,1076,1093,positive  d-dimer,high_ddimer
+81847,81847_90.txt,1324,1363,d-dimer [**numeric identifier 9437**], ,high_ddimer
+81847,81847_90.txt,4334,4372,d-dimer-[**numeric identifier 9437**]*,high_ddimer
+82326,82326_145.txt,4810,4828,d-dimer:3509 ng/ml,high_ddimer
+3369,3369_215.txt,165,180,positive ddimer,high_ddimer
+3369,3369_215.txt,576,591,positive ddimer,high_ddimer
+3369,3369_215.txt,942,958,positive d-dimer,high_ddimer
+3369,3369_215.txt,2809,2824,positive ddimer,high_ddimer
+54162,54162_273.txt,357,373,positive d dimer,high_ddimer
+54162,54162_273.txt,1170,1187,positive  d-dimer,high_ddimer
+49188,49188_128.txt,4656,4673,d-dimer: 5975    ,high_ddimer
+87438,87438_86.txt,1371,1397,d-dimer elevated at 6496. ,high_ddimer
+87438,87438_86.txt,7017,7030,d-dimer-6496*,high_ddimer
+54623,54623_285.txt,149,168,d-dimer [**3477**]),high_ddimer
+54623,54623_285.txt,502,531,d-dimer elevated >[**3477**] ,high_ddimer
+54623,54623_285.txt,696,715,d-dimer [**3477**]),high_ddimer
+54623,54623_285.txt,3354,3373,d-dimer [**3477**]),high_ddimer
+54623,54623_285.txt,1649,1665,elevated d-dimer,high_ddimer
+20643,20643_281.txt,309,317,+d-dimer,high_ddimer
+20643,20643_281.txt,905,921,positive d-dimer,high_ddimer
+31779,31779_50.txt,5466,5479,d-dimer-1116*,high_ddimer
+90559,90559_29.txt,4641,4675,d-dimer-[**numeric identifier 3073,high_ddimer
+90559,90559_29.txt,2164,2180,elevated d-dimer,high_ddimer
+10820,10820_222.txt,485,499,d-dimer 800.  ,high_ddimer
+90552,90552_125.txt,7908,7922,d-dimer:<150, ,low_ddimer
+10721,10721_190.txt,430,446,elevated d-dimer,high_ddimer
+10721,10721_190.txt,978,994,elevated d-dimer,high_ddimer
+30733,30733_256.txt,157,166,+ d dimer,high_ddimer
+30733,30733_256.txt,402,411,+ d-dimer,high_ddimer
+30733,30733_256.txt,1011,1027,positive d-dimer,high_ddimer
+18982,18982_229.txt,147,163,positive d-dimer,high_ddimer
+18982,18982_229.txt,427,435,+d-dimer,high_ddimer
+18982,18982_229.txt,2932,2948,positive d-dimer,high_ddimer
+63932,63932_333.txt,360,375,elevated ddimer,high_ddimer
+63932,63932_333.txt,882,898,elevated d-dimer,high_ddimer
+29688,29688_28.txt,3517,3533,d-dimer  2956 - ,high_ddimer
+11624,11624_212.txt,429,445,elevated d-dimer,high_ddimer
+98347,98347_136.txt,8529,8544,d-dimer 288    ,low_ddimer
+26012,26012_274.txt,344,351,+ddimer,high_ddimer
+26012,26012_274.txt,1538,1554,elevated d-dimer,high_ddimer
+96260,96260_276.txt,902,918,positive d-dimer,high_ddimer
+20478,20478_80.txt,4043,4055,d-dimer-776*,high_ddimer
+20478,20478_80.txt,1691,1719,elevated, as was her d-dimer,high_ddimer
+73695,73695_138.txt,8423,8441,d-dimer:5093 ng/ml,high_ddimer
+9723,9723_27.txt,10606,10622,elevated d-dimer,high_ddimer
+83034,83034_61.txt,798,814,positive d-dimer,high_ddimer
+83034,83034_61.txt,5178,5194,positive d-dimer,high_ddimer
+58515,58515_121.txt,6702,6745,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+21795,21795_228.txt,147,156,+ d-dimer,high_ddimer
+21795,21795_228.txt,410,426,elevated d-dimer,high_ddimer
+21795,21795_228.txt,3301,3310,+ d-dimer,high_ddimer
+7084,7084_179.txt,355,364,+) ddimer,high_ddimer
+7084,7084_179.txt,767,783,positive d-dimer,high_ddimer
+15375,15375_211.txt,340,351,pos d dimer,high_ddimer
+15375,15375_211.txt,1018,1034,positive d-dimer,high_ddimer
+50041,50041_298.txt,377,393,elevated d-dimer,high_ddimer
+50041,50041_298.txt,1349,1365,elevated d-dimer,high_ddimer
+4696,4696_227.txt,917,933,elevated d-dimer,high_ddimer
+80237,80237_56.txt,5611,5624,d-dimer-1436*,high_ddimer
+80237,80237_56.txt,10214,10230,elevated d-dimer,high_ddimer
+31029,31029_101.txt,4409,4422,d-dimer-2605*,high_ddimer
+6898,6898_100.txt,2861,2900,d-dimer->[**numeric identifier 1502**]*,high_ddimer
+105,105_237.txt,173,188,elevated ddimer,high_ddimer
+105,105_237.txt,476,492,elevated d-dimer,high_ddimer
+105,105_237.txt,807,823,elevated d-dimer,high_ddimer
+13382,13382_242.txt,314,321,+ddimer,high_ddimer
+13382,13382_242.txt,928,944,positive d-dimer,high_ddimer
+83865,83865_71.txt,5907,5926,d-dimer-[**3278**]*,high_ddimer
+15228,15228_187.txt,383,399,positive d-dimer,high_ddimer
+15228,15228_187.txt,792,808,positive d-dimer,high_ddimer
+73126,73126_282.txt,310,326,elevated d-dimer,high_ddimer
+73126,73126_282.txt,824,840,elevated d-dimer,high_ddimer
+24887,24887_223.txt,627,643,positive d-dimer,high_ddimer
+24887,24887_223.txt,373,391,ddimer is positive,high_ddimer
+83034,83034_130.txt,3504,3520,positive d-dimer,high_ddimer
+86919,86919_22.txt,2043,2072,d-dimer was elevated at 1143 ,high_ddimer
+86919,86919_22.txt,4719,4732,d-dimer-1143*,high_ddimer
+86919,86919_143.txt,1839,1868,d-dimer was elevated at 1143 ,high_ddimer
+86919,86919_143.txt,5957,5973,d-dimer:1143    ,high_ddimer
+63079,63079_172.txt,491,507,d-dimer positive,high_ddimer
+5786,5786_220.txt,345,361,elevated d dimer,high_ddimer
+5786,5786_220.txt,880,896,elevated d-dimer,high_ddimer
+6700,6700_198.txt,292,308,elevated d-dimer,high_ddimer
+6700,6700_198.txt,723,739,elevated d-dimer,high_ddimer
+73055,73055_311.txt,143,159,positive d-dimer,high_ddimer
+73055,73055_311.txt,470,486,positive d-dimer,high_ddimer
+73055,73055_311.txt,1021,1037,positive d-dimer,high_ddimer
+73055,73055_311.txt,3260,3276,positive d-dimer,high_ddimer
+22442,22442_310.txt,1184,1200,d-dimer positive,high_ddimer
+53081,53081_72.txt,8101,8135,d-dimer-[**numeric identifier 1565,high_ddimer
+53081,53081_72.txt,13205,13239,d-dimer-[**numeric identifier 1565,high_ddimer
+6287,6287_234.txt,632,648,elevated d-dimer,high_ddimer
+11720,11720_32.txt,3314,3327,d-dimer-5710*,high_ddimer
+65759,65759_320.txt,1164,1180,elevated d-dimer,high_ddimer
+45962,45962_309.txt,315,330,elevated ddimer,high_ddimer
+45962,45962_309.txt,1009,1026,elevated  d-dimer,high_ddimer
+58515,58515_120.txt,4892,4935,d-dimer:[**numeric identifier 5409**] ng/ml,high_ddimer
+30927,30927_255.txt,412,428,elevated d-dimer,high_ddimer
+32113,32113_110.txt,7324,7342,d-dimer:1427 ng/ml,high_ddimer
+63079,63079_170.txt,491,507,d-dimer positive,high_ddimer
+60762,60762_264.txt,347,363,positive d-dimer,high_ddimer
+54301,54301_148.txt,6180,6223,d-dimer:[**numeric identifier 1764**] ng/ml,high_ddimer
+47853,47853_278.txt,335,351,elevated d-dimer,high_ddimer
+47853,47853_278.txt,926,942,elevated d-dimer,high_ddimer
+73695,73695_137.txt,9305,9323,d-dimer:5093 ng/ml,high_ddimer
+14936,14936_240.txt,319,335,positive d dimer,high_ddimer
+14936,14936_240.txt,601,617,positive d-dimer,high_ddimer
+4926,4926_185.txt,386,402,elevated d dimer,high_ddimer
+4926,4926_185.txt,657,673,elevated d-dimer,high_ddimer
+10207,10207_16.txt,2009,2028,d-dimer-as of [**1-,low_ddimer
+10207,10207_16.txt,2256,2268,d-dimer-962*,high_ddimer
+46093,46093_105.txt,1928,1941,d-dimer-3821*,high_ddimer
+32605,32605_53.txt,2854,2868,d-dimer: 512  ,high_ddimer
+15179,15179_188.txt,177,193,positive d-dimer,high_ddimer
+15179,15179_188.txt,441,457,positive d-dimer,high_ddimer
+15179,15179_188.txt,947,963,positive d-dimer,high_ddimer

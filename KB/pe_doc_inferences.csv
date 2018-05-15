@@ -1,0 +1,4 @@
+# Conclusion Type at document level, Evidence type at mention level
+PE_DOC,PE
+# Default document type
+NO_PE

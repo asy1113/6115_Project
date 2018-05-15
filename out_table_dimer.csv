@@ -1,0 +1,572 @@
+record_id,subject_id,note_id,annotation_type,span_start,span_end,PAD_snippet,neg_flag
+83596_0_1,83596,83596_0,high_ddimer,1947,1961,"D-Dimer 5515, ",0
+83596_0_2,83596,83596_0,high_ddimer,4847,4860,D-DIMER-5515*,0
+68870_1_1,68870,68870_1,high_ddimer,7107,7120,D-DIMER-2523*,0
+21830_3_1,21830,21830_3,high_ddimer,3109,3125,"positive
+D-dimer",0
+51660_4_1,51660,51660_4,high_ddimer,6225,6238,D-Dimer-1011*,0
+51660_4_2,51660,51660_4,high_ddimer,2001,2017,elevated D-dimer,0
+68251_5_1,68251,68251_5,high_ddimer,1112,1126,DDimer > 1063 ,0
+68251_5_2,68251,68251_5,high_ddimer,4471,4484,D-DIMER-1063*,0
+68251_5_3,68251,68251_5,high_ddimer,1103,1118,elevated DDimer,0
+81846_6_1,81846,81846_6,high_ddimer,6973,6986,D-Dimer-7827*,0
+81846_6_2,81846,81846_6,high_ddimer,1899,1924,D-dimer returned positive,0
+85050_7_1,85050,85050_7,high_ddimer,4979,4993,D-Dimer- 2382*,0
+79931_9_1,79931,79931_9,high_ddimer,4751,4764,D-Dimer-1086*,0
+79931_9_2,79931,79931_9,high_ddimer,11640,11656,positive d-dimer,0
+79931_9_3,79931,79931_9,high_ddimer,13881,13897,positive d-dimer,0
+30178_10_1,30178,30178_10,high_ddimer,3806,3819,D-Dimer-1731*,0
+9555_11_1,9555,9555_11,high_ddimer,4984,4997,D-DIMER-8337*,0
+16680_12_1,16680,16680_12,high_ddimer,4718,4731,D-DIMER-1224*,0
+22450_13_1,22450,22450_13,high_ddimer,4937,4949,D-Dimer-792*,0
+820_14_1,820,820_14,high_ddimer,3527,3557,D-dimer sent which was >5000. ,0
+820_14_2,820,820_14,high_ddimer,6907,6920,D-DIMER-5943*,0
+13327_15_1,13327,13327_15,high_ddimer,1804,1817,D-Dimer-1177*,0
+13327_15_2,13327,13327_15,high_ddimer,5590,5608,D-dimer was 1177. ,0
+10207_16_1,10207,10207_16,low_ddimer,2009,2028,D-Dimer-As of [**1-,1
+10207_16_2,10207,10207_16,high_ddimer,2256,2268,D-Dimer-962*,0
+82024_19_1,82024,82024_19,high_ddimer,525,554,elevated troponin and d-dimer,0
+10568_20_1,10568,10568_20,high_ddimer,3788,3801,D-DIMER-3827*,0
+10568_20_2,10568,10568_20,high_ddimer,4920,4933,D-DIMER-3449*,0
+64983_21_1,64983,64983_21,high_ddimer,2766,2782,positive d-dimer,0
+86919_22_1,86919,86919_22,high_ddimer,2043,2072,d-dimer was elevated at 1143 ,0
+86919_22_2,86919,86919_22,high_ddimer,4719,4732,D-DIMER-1143*,0
+10412_23_1,10412,10412_23,high_ddimer,2742,2755,"D-dimer:593
+.",0
+6417_24_1,6417,6417_24,high_ddimer,783,799,positive D-dimer,0
+95000_25_1,95000,95000_25,high_ddimer,7168,7181,D-Dimer-4272*,0
+9594_26_1,9594,9594_26,high_ddimer,7599,7615,D-dimer was 500 ,0
+9594_26_2,9594,9594_26,high_ddimer,12917,12933,D-dimer was 500 ,0
+9723_27_1,9723,9723_27,high_ddimer,10606,10622,elevated d-dimer,0
+29688_28_1,29688,29688_28,high_ddimer,3517,3533,D-DIMER  2956 - ,0
+90559_29_1,90559,90559_29,high_ddimer,4641,4675,D-DIMER-[**Numeric Identifier 3073,0
+90559_29_2,90559,90559_29,high_ddimer,2164,2180,elevated d-dimer,0
+6944_30_1,6944,6944_30,high_ddimer,1211,1241,"D-Dimer of greater than 1000.
+",0
+10132_31_1,10132,10132_31,high_ddimer,1808,1824,"D-dimer > 8000, ",0
+10132_31_2,10132,10132_31,high_ddimer,6944,6957,D-Dimer-8789*,0
+10132_31_3,10132,10132_31,high_ddimer,8739,8755,"elevated
+D-dimer",0
+11720_32_1,11720,11720_32,high_ddimer,3314,3327,D-Dimer-5710*,0
+15899_33_1,15899,15899_33,high_ddimer,2419,2432,D-Dimer-3607*,0
+15853_34_1,15853,15853_34,high_ddimer,3256,3269,D-DIMER-5727*,0
+15853_34_2,15853,15853_34,high_ddimer,8781,8812,D-dimer was found to be 5727.  ,0
+22119_35_1,22119,22119_35,low_ddimer,3964,3977,"D-DIMER-202
+
+",1
+961_37_1,961,961_37,high_ddimer,1240,1256,"elevated
+D-dimer",0
+25844_38_1,25844,25844_38,high_ddimer,4096,4108,D-DIMER-676*,0
+21021_39_1,21021,21021_39,high_ddimer,2552,2563,D-dimer pos,0
+17393_40_1,17393,17393_40,high_ddimer,1440,1456,elevated d-dimer,0
+75156_41_1,75156,75156_41,high_ddimer,6291,6303,D-Dimer-897*,0
+11851_42_1,11851,11851_42,high_ddimer,1879,1895,positive D-dimer,0
+70886_43_1,70886,70886_43,high_ddimer,2419,2432,d-dimer 910. ,0
+70886_43_2,70886,70886_43,high_ddimer,5565,5577,D-Dimer-910*,0
+6061_44_1,6061,6061_44,high_ddimer,3953,3966,D-Dimer-1651*,0
+46904_45_1,46904,46904_45,high_ddimer,2388,2422,D-dimer slightly elevated at 630. ,0
+46904_45_2,46904,46904_45,high_ddimer,6868,6880,D-Dimer-630*,0
+28375_46_1,28375,28375_46,high_ddimer,1293,1307,"D-dimer 1050, ",0
+28375_46_2,28375,28375_46,high_ddimer,4676,4692,elevated D-dimer,0
+28375_46_3,28375,28375_46,high_ddimer,7200,7216,elevated D-dimer,0
+30336_47_1,30336,30336_47,high_ddimer,1926,1962,D-dimer was mildly elevated at 524. ,0
+31462_48_1,31462,31462_48,high_ddimer,5871,5884,D-Dimer-4878*,0
+31462_48_2,31462,31462_48,high_ddimer,6137,6150,D-DIMER-4878*,0
+31462_48_3,31462,31462_48,high_ddimer,17641,17658,"D-dimer at 4878.
+",0
+31462_48_4,31462,31462_48,high_ddimer,17632,17648,elevated D-dimer,0
+31779_50_1,31779,31779_50,high_ddimer,5466,5479,D-DIMER-1116*,0
+31545_51_1,31545,31545_51,high_ddimer,3679,3698,D-Dimer-[**2962**]*,0
+30084_52_1,30084,30084_52,high_ddimer,6486,6498,D-Dimer-582*,0
+32605_53_1,32605,32605_53,high_ddimer,2854,2868,"D-Dimer: 512
+
+",0
+30579_54_1,30579,30579_54,high_ddimer,1415,1431,"d-dimer of 3050,",0
+82326_55_1,82326,82326_55,high_ddimer,3983,3996,D-DIMER-3509*,0
+80237_56_1,80237,80237_56,high_ddimer,5611,5624,D-Dimer-1436*,0
+80237_56_2,80237,80237_56,high_ddimer,10214,10230,elevated d-dimer,0
+49106_57_1,49106,49106_57,high_ddimer,6992,7011,D-Dimer-[**2936**]*,0
+60645_58_1,60645,60645_58,high_ddimer,945,961,positive d-dimer,0
+90552_59_1,90552,90552_59,low_ddimer,4905,4919,"D-DIMER-<150
+.",1
+90609_60_1,90609,90609_60,high_ddimer,1727,1757,"d-dimer was positive at 2120, ",0
+90609_60_2,90609,90609_60,high_ddimer,1727,1747,d-dimer was positive,0
+83034_61_1,83034,83034_61,high_ddimer,798,814,positive d-dimer,0
+83034_61_2,83034,83034_61,high_ddimer,5178,5194,positive D-dimer,0
+97830_62_1,97830,97830_62,high_ddimer,1525,1541,elevated D-dimer,0
+48640_63_1,48640,48640_63,low_ddimer,4302,4317,"D-Dimer-417
+[**",1
+65675_64_1,65675,65675_64,high_ddimer,6236,6274,D-Dimer-[**Numeric Identifier 5683**]*,0
+75752_65_1,75752,75752_65,high_ddimer,4279,4292,D-Dimer-6615*,0
+71677_66_1,71677,71677_66,high_ddimer,4199,4212,D-Dimer-1403*,0
+58514_67_1,58514,58514_67,high_ddimer,3609,3622,D-Dimer-4616*,0
+49079_68_1,49079,49079_68,high_ddimer,4314,4327,D-Dimer-6229*,0
+69758_69_1,69758,69758_69,high_ddimer,1546,1562,positive d-dimer,0
+49853_70_1,49853,49853_70,high_ddimer,4673,4686,D-Dimer-8882*,0
+83865_71_1,83865,83865_71,high_ddimer,5907,5926,D-Dimer-[**3278**]*,0
+53081_72_1,53081,53081_72,high_ddimer,8101,8135,D-DIMER-[**Numeric Identifier 1565,0
+53081_72_2,53081,53081_72,high_ddimer,13205,13239,D-Dimer-[**Numeric Identifier 1565,0
+61180_73_1,61180,61180_73,high_ddimer,1612,1631,d-dimer was 1410.  ,0
+61180_73_2,61180,61180_73,high_ddimer,4673,4686,D-DIMER-1410*,0
+86628_74_1,86628,86628_74,high_ddimer,1601,1635,D-dimer [**Numeric Identifier 1722,0
+86628_74_2,86628,86628_74,high_ddimer,5777,5811,D-Dimer-[**Numeric Identifier 1722,0
+86628_74_3,86628,86628_74,high_ddimer,9184,9200,elevated D-dimer,0
+81270_75_1,81270,81270_75,low_ddimer,3872,3887,D-Dimer ([**11-,1
+80430_76_1,80430,80430_76,high_ddimer,1207,1224,"D-dimer was 981, ",0
+50140_77_1,50140,50140_77,high_ddimer,15005,15039,D-Dimer-[**Numeric Identifier 1753,0
+90198_78_1,90198,90198_78,low_ddimer,4423,4438,"D-Dimer-152
+[**",1
+32090_79_1,32090,32090_79,high_ddimer,2800,2813,D-DIMER-1136*,0
+20478_80_1,20478,20478_80,high_ddimer,4043,4055,D-DIMER-776*,0
+20478_80_2,20478,20478_80,high_ddimer,1691,1719,"elevated, as was her D-dimer",0
+43501_81_1,43501,43501_81,high_ddimer,6685,6698,D-Dimer-5451*,0
+77586_82_1,77586,77586_82,high_ddimer,4116,4129,D-DIMER-3415*,0
+66213_83_1,66213,66213_83,high_ddimer,3808,3821,D-DIMER-3053*,0
+66213_83_2,66213,66213_83,high_ddimer,1774,1790,elevated d-dimer,0
+870_84_1,870,870_84,high_ddimer,4272,4285,D-DIMER-8945*,0
+77729_85_1,77729,77729_85,high_ddimer,5761,5774,D-Dimer-1268*,0
+77729_85_2,77729,77729_85,high_ddimer,7560,7590,D-dimer elevated to over 1200;,0
+87438_86_1,87438,87438_86,high_ddimer,1371,1397,D-dimer elevated at 6496. ,0
+87438_86_2,87438,87438_86,high_ddimer,7017,7030,D-Dimer-6496*,0
+50207_87_1,50207,50207_87,low_ddimer,826,839,"D-dimer 488, ",1
+50207_87_2,50207,50207_87,low_ddimer,3406,3420,"D-Dimer: 488
+.",1
+1331_88_1,1331,1331_88,high_ddimer,3009,3022,D-Dimer-8768*,0
+66090_89_1,66090,66090_89,high_ddimer,2064,2102,"D-dimer [**Numeric Identifier 5450**],",0
+66090_89_2,66090,66090_89,high_ddimer,5834,5872,D-DIMER-[**Numeric Identifier 5450**]*,0
+81847_90_1,81847,81847_90,high_ddimer,1324,1363,"D-dimer [**Numeric Identifier 9437**], ",0
+81847_90_2,81847,81847_90,high_ddimer,4334,4372,D-Dimer-[**Numeric Identifier 9437**]*,0
+20858_91_1,20858,20858_91,high_ddimer,5469,5482,D-Dimer-3006*,0
+5772_92_1,5772,5772_92,high_ddimer,4078,4092,"D-DIMER-4006
+.",0
+31755_93_1,31755,31755_93,high_ddimer,2438,2451,D-Dimer-3084*,0
+7323_94_1,7323,7323_94,high_ddimer,3761,3774,D-Dimer-2576*,0
+72116_95_1,72116,72116_95,low_ddimer,2151,2185,"d-dimer, elevated Creatinine 1.4, ",1
+72116_95_2,72116,72116_95,high_ddimer,2150,2158,+d-dimer,0
+98266_96_1,98266,98266_96,high_ddimer,633,649,positive d-dimer,0
+15247_97_1,15247,15247_97,low_ddimer,901,914,D-dimer 2.77.,1
+54930_99_1,54930,54930_99,high_ddimer,1564,1578,"D-dimer 3669, ",0
+54930_99_2,54930,54930_99,high_ddimer,3895,3908,D-DIMER-3669*,0
+6898_100_1,6898,6898_100,high_ddimer,2861,2900,D-Dimer->[**Numeric Identifier 1502**]*,0
+31029_101_1,31029,31029_101,high_ddimer,4409,4422,D-Dimer-2605*,0
+46399_102_1,46399,46399_102,high_ddimer,5105,5118,D-Dimer-2923*,0
+78842_103_1,78842,78842_103,high_ddimer,4701,4713,D-Dimer-756*,0
+91150_104_1,91150,91150_104,high_ddimer,3971,3990,D-Dimer-[**2850**]*,0
+46093_105_1,46093,46093_105,high_ddimer,1928,1941,D-DIMER-3821*,0
+83838_106_1,83838,83838_106,high_ddimer,4046,4058,D-Dimer-533*,0
+83838_106_2,83838,83838_106,high_ddimer,6730,6744,d-dimer (530) ,0
+83838_106_3,83838,83838_106,high_ddimer,946,962,positive d-dimer,0
+83838_106_4,83838,83838_106,high_ddimer,6013,6029,positive d-dimer,0
+83838_106_5,83838,83838_106,high_ddimer,6721,6737,"elevated
+d-dimer",0
+60037_107_1,60037,60037_107,high_ddimer,3844,3857,D-Dimer-3678*,0
+60037_107_2,60037,60037_107,high_ddimer,8297,8313,d-dimer to 3678 ,0
+60037_107_3,60037,60037_107,high_ddimer,8288,8304,elevated d-dimer,0
+32113_108_1,32113,32113_108,high_ddimer,5659,5677,D-dimer:1427 ng/mL,0
+32113_109_1,32113,32113_109,high_ddimer,5659,5677,D-dimer:1427 ng/mL,0
+32113_110_1,32113,32113_110,high_ddimer,7324,7342,D-dimer:1427 ng/mL,0
+73695_111_1,73695,73695_111,high_ddimer,7952,7970,D-dimer:5093 ng/mL,0
+82326_112_1,82326,82326_112,high_ddimer,4767,4785,D-dimer:3509 ng/mL,0
+41308_113_1,41308,41308_113,high_ddimer,823,841,D-Dimer was 7000. ,0
+86919_114_1,86919,86919_114,high_ddimer,1839,1868,d-dimer was elevated at 1143 ,0
+86919_114_2,86919,86919_114,high_ddimer,5957,5973,"D-dimer:1143
+   ",0
+58515_115_1,58515,58515_115,high_ddimer,5003,5046,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_116_1,58515,58515_116,high_ddimer,3930,3973,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_117_1,58515,58515_117,high_ddimer,4590,4633,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_118_1,58515,58515_118,high_ddimer,4590,4633,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_119_1,58515,58515_119,high_ddimer,4892,4935,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_120_1,58515,58515_120,high_ddimer,4892,4935,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_121_1,58515,58515_121,high_ddimer,6702,6745,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+55273_122_1,55273,55273_122,high_ddimer,6877,6920,D-dimer:[**Numeric Identifier 4907**] ng/mL,0
+86087_123_1,86087,86087_123,high_ddimer,6811,6829,D-dimer:2574 ng/mL,0
+68251_124_1,68251,68251_124,high_ddimer,1208,1222,DDimer > 1063 ,0
+68251_124_2,68251,68251_124,high_ddimer,5567,5584,"D-dimer 1063
+   .",0
+68251_124_3,68251,68251_124,high_ddimer,1199,1214,elevated DDimer,0
+90552_125_1,90552,90552_125,low_ddimer,7908,7922,"D-dimer:<150, ",1
+60645_126_1,60645,60645_126,high_ddimer,631,647,positive d-dimer,0
+60645_127_1,60645,60645_127,high_ddimer,631,647,positive d-dimer,0
+49188_128_1,49188,49188_128,high_ddimer,4656,4673,"D-Dimer: 5975
+   ",0
+49188_129_1,49188,49188_129,high_ddimer,4686,4703,"D-Dimer: 5975
+   ",0
+83034_130_1,83034,83034_130,high_ddimer,3504,3520,positive D-dimer,0
+83034_131_1,83034,83034_131,high_ddimer,583,599,positive d-dimer,0
+83034_131_2,83034,83034_131,high_ddimer,6657,6673,positive D-dimer,0
+90559_132_1,90559,90559_132,high_ddimer,1899,1915,elevated d-dimer,0
+74932_135_1,74932,74932_135,high_ddimer,981,996,D-dimer in 2400,0
+98347_136_1,98347,98347_136,low_ddimer,8529,8544,"D-dimer 288
+   ",1
+73695_137_1,73695,73695_137,high_ddimer,9305,9323,D-dimer:5093 ng/mL,0
+73695_138_1,73695,73695_138,high_ddimer,8423,8441,D-dimer:5093 ng/mL,0
+32113_139_1,32113,32113_139,high_ddimer,3937,3955,D-dimer:1427 ng/mL,0
+32113_140_1,32113,32113_140,high_ddimer,3937,3955,D-dimer:1427 ng/mL,0
+32113_141_1,32113,32113_141,high_ddimer,9144,9162,D-dimer:1427 ng/mL,0
+41308_142_1,41308,41308_142,high_ddimer,823,841,D-Dimer was 7000. ,0
+86919_143_1,86919,86919_143,high_ddimer,1839,1868,d-dimer was elevated at 1143 ,0
+86919_143_2,86919,86919_143,high_ddimer,5957,5973,"D-dimer:1143
+   ",0
+82326_144_1,82326,82326_144,high_ddimer,5210,5228,D-dimer:3509 ng/mL,0
+82326_145_1,82326,82326_145,high_ddimer,4810,4828,D-dimer:3509 ng/mL,0
+82326_146_1,82326,82326_146,high_ddimer,5210,5228,D-dimer:3509 ng/mL,0
+82326_147_1,82326,82326_147,high_ddimer,4767,4785,D-dimer:3509 ng/mL,0
+54301_148_1,54301,54301_148,high_ddimer,6180,6223,D-dimer:[**Numeric Identifier 1764**] ng/mL,0
+19216_149_1,19216,19216_149,high_ddimer,4030,4048,D-dimer:2067 ng/mL,0
+58515_150_1,58515,58515_150,high_ddimer,4892,4935,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_151_1,58515,58515_151,high_ddimer,6702,6745,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_152_1,58515,58515_152,high_ddimer,6702,6745,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_153_1,58515,58515_153,high_ddimer,4601,4644,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_154_1,58515,58515_154,high_ddimer,6944,6987,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_155_1,58515,58515_155,high_ddimer,5763,5806,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_156_1,58515,58515_156,high_ddimer,5763,5806,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_157_1,58515,58515_157,high_ddimer,4199,4242,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_158_1,58515,58515_158,high_ddimer,4199,4242,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_159_1,58515,58515_159,high_ddimer,5003,5046,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_160_1,58515,58515_160,high_ddimer,4590,4633,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+58515_161_1,58515,58515_161,high_ddimer,5003,5046,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+55273_162_1,55273,55273_162,high_ddimer,4744,4787,D-dimer:[**Numeric Identifier 4907**] ng/mL,0
+49188_163_1,49188,49188_163,high_ddimer,4656,4673,"D-Dimer: 5975
+   ",0
+49188_164_1,49188,49188_164,high_ddimer,4385,4402,"D-Dimer: 5975
+   ",0
+83034_165_1,83034,83034_165,high_ddimer,583,599,positive d-dimer,0
+83034_165_2,83034,83034_165,high_ddimer,6729,6745,positive D-dimer,0
+98347_166_1,98347,98347_166,low_ddimer,8529,8544,"D-dimer 288
+   ",1
+82393_167_1,82393,82393_167,high_ddimer,7987,8004,D-Dimer ([**3433-,0
+63079_170_1,63079,63079_170,high_ddimer,491,507,D-dimer positive,0
+63079_171_1,63079,63079_171,high_ddimer,491,507,D-dimer positive,0
+63079_172_1,63079,63079_172,high_ddimer,491,507,D-dimer positive,0
+67481_173_1,67481,67481_173,low_ddimer,1019,1034,d-dimer of 3.4 ,1
+67481_173_2,67481,67481_173,high_ddimer,1010,1026,elevated d-dimer,0
+74932_174_1,74932,74932_174,high_ddimer,981,996,D-dimer in 2400,0
+74932_175_1,74932,74932_175,high_ddimer,981,996,D-dimer in 2400,0
+58515_176_1,58515,58515_176,high_ddimer,4892,4935,D-dimer:[**Numeric Identifier 5409**] ng/mL,0
+8422_177_1,8422,8422_177,high_ddimer,383,399,elevated D-Dimer,0
+8422_177_2,8422,8422_177,high_ddimer,631,647,elevated D-dimer,0
+15733_178_1,15733,15733_178,high_ddimer,508,523,elevated DDimer,0
+15733_178_2,15733,15733_178,high_ddimer,851,867,elevated D-dimer,0
+7084_179_1,7084,7084_179,high_ddimer,355,364,+) ddimer,0
+7084_179_2,7084,7084_179,high_ddimer,767,783,positive D-DIMER,0
+18626_181_1,18626,18626_181,high_ddimer,163,179,ELEVATED D-DIMER,0
+18626_181_2,18626,18626_181,high_ddimer,450,466,elevated d-dimer,0
+18626_181_3,18626,18626_181,high_ddimer,712,728,elevated d-dimer,0
+15899_182_1,15899,15899_182,high_ddimer,342,358,positive d-dimer,0
+15899_182_2,15899,15899_182,high_ddimer,1085,1101,positive D-dimer,0
+20552_183_1,20552,20552_183,high_ddimer,928,944,positive D-DIMER,0
+23803_184_1,23803,23803_184,high_ddimer,362,374,high d-dimer,0
+23803_184_2,23803,23803_184,high_ddimer,767,783,elevated D-dimer,0
+4926_185_1,4926,4926_185,high_ddimer,386,402,elevated D dimer,0
+4926_185_2,4926,4926_185,high_ddimer,657,673,elevated D-dimer,0
+9146_186_1,9146,9146_186,high_ddimer,145,161,POSITIVE D-DIMER,0
+9146_186_2,9146,9146_186,high_ddimer,323,331,+ ddimer,0
+9146_186_3,9146,9146_186,high_ddimer,778,794,Positive D-dimer,0
+9146_186_4,9146,9146_186,high_ddimer,2492,2508,POSITIVE D-DIMER,0
+15228_187_1,15228,15228_187,high_ddimer,383,399,positive d-dimer,0
+15228_187_2,15228,15228_187,high_ddimer,792,808,positive D-dimer,0
+15179_188_1,15179,15179_188,high_ddimer,177,193,POSITIVE D-DIMER,0
+15179_188_2,15179,15179_188,high_ddimer,441,457,Positive d-dimer,0
+15179_188_3,15179,15179_188,high_ddimer,947,963,positive D-dimer,0
+124_189_1,124,124_189,high_ddimer,331,347,elevated d-dimer,0
+10721_190_1,10721,10721_190,high_ddimer,430,446,elevated d-dimer,0
+10721_190_2,10721,10721_190,high_ddimer,978,994,Elevated D-dimer,0
+7752_191_1,7752,7752_191,high_ddimer,327,336,+ d dimer,0
+7752_191_2,7752,7752_191,high_ddimer,743,759,positive d-dimer,0
+12152_192_1,12152,12152_192,high_ddimer,334,345,pos d-dimer,0
+12152_192_2,12152,12152_192,high_ddimer,568,584,Positive D-dimer,0
+7299_193_1,7299,7299_193,high_ddimer,370,379,+ d-dimer,0
+7299_193_2,7299,7299_193,high_ddimer,820,836,Positive D-dimer,0
+2809_194_1,2809,2809_194,high_ddimer,818,834,Positive D-dimer,0
+17581_196_1,17581,17581_196,high_ddimer,492,520,"D-dimer sent and was 2100.
+ ",0
+17581_196_2,17581,17581_196,high_ddimer,871,887,Positive D-dimer,0
+22110_197_1,22110,22110_197,high_ddimer,388,397,+ D-dimer,0
+22110_197_2,22110,22110_197,high_ddimer,1068,1084,positive D-dimer,0
+6700_198_1,6700,6700_198,high_ddimer,292,308,elevated d-dimer,0
+6700_198_2,6700,6700_198,high_ddimer,723,739,elevated D-dimer,0
+27486_199_1,27486,27486_199,high_ddimer,354,371,"d-dimer of 1100
+ ",0
+27486_199_2,27486,27486_199,high_ddimer,778,794,elevated D-dimer,0
+7107_200_1,7107,7107_200,high_ddimer,150,161,pos d dimer,0
+7107_200_2,7107,7107_200,high_ddimer,483,494,pos d dimer,0
+7107_200_3,7107,7107_200,high_ddimer,686,694,+D-dimer,0
+7107_200_4,7107,7107_200,high_ddimer,2603,2614,pos d dimer,0
+19833_201_1,19833,19833_201,high_ddimer,333,349,elevated d-dimer,0
+20308_202_1,20308,20308_202,high_ddimer,140,156,ELEVATED D-DIMER,0
+20308_202_2,20308,20308_202,high_ddimer,363,379,elevated D-dimer,0
+20308_202_3,20308,20308_202,high_ddimer,932,948,Elevated D-dimer,0
+20308_202_4,20308,20308_202,high_ddimer,3127,3143,ELEVATED D-DIMER,0
+4199_203_1,4199,4199_203,high_ddimer,393,403,pos ddimer,0
+4199_203_2,4199,4199_203,high_ddimer,860,876,positive D-dimer,0
+13903_204_1,13903,13903_204,high_ddimer,363,373,ddimer 700,0
+13903_204_2,13903,13903_204,high_ddimer,824,840,elevated D-dimer,0
+14507_205_1,14507,14507_205,high_ddimer,154,161,+DDIMER,0
+14507_205_2,14507,14507_205,high_ddimer,360,368,+d-dimer,0
+14507_205_3,14507,14507_205,high_ddimer,2838,2845,+DDIMER,0
+9413_206_1,9413,9413_206,high_ddimer,371,382,pos d-dimer,0
+13327_207_1,13327,13327_207,high_ddimer,433,449,elevated D DImer,0
+13327_207_2,13327,13327_207,high_ddimer,698,714,elevated D-dimer,0
+10569_208_1,10569,10569_208,high_ddimer,936,952,Elevated D-dimer,0
+2989_209_1,2989,2989_209,high_ddimer,361,377,elevated d-dimer,0
+2989_209_2,2989,2989_209,high_ddimer,833,849,elevated d-dimer,0
+20230_210_1,20230,20230_210,high_ddimer,403,419,elevated D-dimer,0
+15375_211_1,15375,15375_211,high_ddimer,340,351,pos d dimer,0
+15375_211_2,15375,15375_211,high_ddimer,1018,1034,positive D-dimer,0
+11624_212_1,11624,11624_212,high_ddimer,429,445,elevated D-dimer,0
+43367_213_1,43367,43367_213,high_ddimer,356,364,+d-dimer,0
+11404_214_1,11404,11404_214,high_ddimer,403,415,"D-Dimer 628,",0
+11404_214_2,11404,11404_214,low_ddimer,969,982,D-dimer [**6-,1
+3369_215_1,3369,3369_215,high_ddimer,165,180,positive DDimer,0
+3369_215_2,3369,3369_215,high_ddimer,576,591,positive DDimer,0
+3369_215_3,3369,3369_215,high_ddimer,942,958,Positive D-dimer,0
+3369_215_4,3369,3369_215,high_ddimer,2809,2824,positive DDimer,0
+6805_216_1,6805,6805_216,high_ddimer,365,372,+ddimer,0
+6805_216_2,6805,6805_216,high_ddimer,745,761,positive D-dimer,0
+747_217_1,747,747_217,high_ddimer,150,166,ELEVATED D-DIMER,0
+747_217_2,747,747_217,high_ddimer,417,433,elevated d-dimer,0
+747_217_3,747,747_217,high_ddimer,2946,2962,ELEVATED D-DIMER,0
+6612_218_1,6612,6612_218,high_ddimer,357,373,elevated d-dimer,0
+6612_218_2,6612,6612_218,high_ddimer,816,832,elevated D-dimer,0
+15841_219_1,15841,15841_219,high_ddimer,311,321,pos ddimer,0
+15841_219_2,15841,15841_219,high_ddimer,940,956,Elevated D-dimer,0
+5786_220_1,5786,5786_220,high_ddimer,345,361,elevated d dimer,0
+5786_220_2,5786,5786_220,high_ddimer,880,896,elevated D-dimer,0
+5592_221_1,5592,5592_221,high_ddimer,156,172,positive d-dimer,0
+5592_221_2,5592,5592_221,high_ddimer,407,423,positive d-dimer,0
+5592_221_3,5592,5592_221,high_ddimer,918,934,elevated D-dimer,0
+5592_221_4,5592,5592_221,high_ddimer,2623,2639,positive d-dimer,0
+10820_222_1,10820,10820_222,high_ddimer,485,499,"d-dimer 800.
+ ",0
+24887_223_1,24887,24887_223,high_ddimer,627,643,positive D-dimer,0
+24887_223_2,24887,24887_223,high_ddimer,373,391,ddimer is positive,0
+16961_224_1,16961,16961_224,high_ddimer,152,168,ELEVATED D-DIMER,0
+16961_224_2,16961,16961_224,high_ddimer,380,395,elevated ddimer,0
+16961_224_3,16961,16961_224,high_ddimer,867,883,elevated D-dimer,0
+16961_224_4,16961,16961_224,high_ddimer,2786,2802,ELEVATED D-DIMER,0
+1498_225_1,1498,1498_225,high_ddimer,340,356,elevated d-dimer,0
+1498_225_2,1498,1498_225,high_ddimer,798,814,elevated D-dimer,0
+10355_226_1,10355,10355_226,high_ddimer,339,362,"ddimer yesterday 4000
+ ",0
+10355_226_2,10355,10355_226,high_ddimer,146,153,+DDIMER,0
+10355_226_3,10355,10355_226,high_ddimer,338,345,+ddimer,0
+10355_226_4,10355,10355_226,high_ddimer,1152,1168,positive D-dimer,0
+10355_226_5,10355,10355_226,high_ddimer,2942,2949,+DDIMER,0
+4696_227_1,4696,4696_227,high_ddimer,917,933,elevated D-dimer,0
+21795_228_1,21795,21795_228,high_ddimer,147,156,+ D-DIMER,0
+21795_228_2,21795,21795_228,high_ddimer,410,426,elevated d-dimer,0
+21795_228_3,21795,21795_228,high_ddimer,3301,3310,+ D-DIMER,0
+18982_229_1,18982,18982_229,high_ddimer,147,163,POSITIVE D-DIMER,0
+18982_229_2,18982,18982_229,high_ddimer,427,435,+d-dimer,0
+18982_229_3,18982,18982_229,high_ddimer,2932,2948,POSITIVE D-DIMER,0
+11762_230_1,11762,11762_230,high_ddimer,154,162,+D-DIMER,0
+11762_230_2,11762,11762_230,high_ddimer,384,392,+D-dimer,0
+11762_230_3,11762,11762_230,high_ddimer,722,738,positive D-dimer,0
+11762_230_4,11762,11762_230,high_ddimer,2708,2716,+D-DIMER,0
+22043_231_1,22043,22043_231,high_ddimer,150,158,+D-DIMER,0
+22043_231_2,22043,22043_231,high_ddimer,316,324,+d-dimer,0
+22043_231_3,22043,22043_231,high_ddimer,849,865,positive D-dimer,0
+22043_231_4,22043,22043_231,high_ddimer,3003,3011,+D-DIMER,0
+25844_232_1,25844,25844_232,high_ddimer,368,378,pos ddimer,0
+25844_232_2,25844,25844_232,high_ddimer,950,966,positive D-dimer,0
+10820_233_1,10820,10820_233,high_ddimer,345,361,elevated d-dimer,0
+6287_234_1,6287,6287_234,high_ddimer,632,648,elevated D-dimer,0
+3892_235_1,3892,3892_235,high_ddimer,339,355,elevated d-dimer,0
+3892_235_2,3892,3892_235,high_ddimer,825,841,elevated D-dimer,0
+11762_236_1,11762,11762_236,high_ddimer,146,162,POSITIVE D-DIMER,0
+11762_236_2,11762,11762_236,high_ddimer,342,349,+Ddimer,0
+11762_236_3,11762,11762_236,high_ddimer,863,879,positive D-dimer,0
+11762_236_4,11762,11762_236,high_ddimer,2895,2911,POSITIVE D-DIMER,0
+105_237_1,105,105_237,high_ddimer,173,188,ELEVATED DDIMER,0
+105_237_2,105,105_237,high_ddimer,476,492,elevated d-dimer,0
+105_237_3,105,105_237,high_ddimer,807,823,elevated D-dimer,0
+7676_238_1,7676,7676_238,high_ddimer,919,935,elevated d-dimer,0
+8668_239_1,8668,8668_239,high_ddimer,141,157,ELEVATED D-DIMER,0
+8668_239_2,8668,8668_239,high_ddimer,1024,1040,elevated D-dimer,0
+14936_240_1,14936,14936_240,high_ddimer,319,335,positive D dimer,0
+14936_240_2,14936,14936_240,high_ddimer,601,617,positive D-dimer,0
+16680_241_1,16680,16680_241,high_ddimer,164,180,ELEVATED D-DIMER,0
+16680_241_2,16680,16680_241,high_ddimer,887,903,elevated D-dimer,0
+16680_241_3,16680,16680_241,high_ddimer,3171,3187,ELEVATED D-DIMER,0
+13382_242_1,13382,13382_242,high_ddimer,314,321,+ddimer,0
+13382_242_2,13382,13382_242,high_ddimer,928,944,positive D-dimer,0
+26012_243_1,26012,26012_243,high_ddimer,394,408,"D-dimer 1500
+ ",0
+26012_243_2,26012,26012_243,high_ddimer,923,939,elevated D-dimer,0
+11711_244_1,11711,11711_244,high_ddimer,332,340,+D-dimer,0
+11711_244_2,11711,11711_244,high_ddimer,826,842,positive D-dimer,0
+27643_245_1,27643,27643_245,high_ddimer,413,429,positive D-Dimer,0
+27643_245_2,27643,27643_245,high_ddimer,729,745,positive d-dimer,0
+24573_246_1,24573,24573_246,high_ddimer,292,308,positive d-dimer,0
+24573_246_2,24573,24573_246,high_ddimer,855,871,positive D-dimer,0
+11961_247_1,11961,11961_247,high_ddimer,811,827,Elevated D-dimer,0
+30399_248_1,30399,30399_248,high_ddimer,452,468,elevated D-dimer,0
+30399_248_2,30399,30399_248,high_ddimer,724,740,elevated D-dimer,0
+28375_249_1,28375,28375_249,high_ddimer,1216,1232,elevated d-dimer,0
+28375_249_2,28375,28375_249,high_ddimer,1565,1581,elevated D-dimer,0
+30805_251_1,30805,30805_251,high_ddimer,420,436,elevated d-dimer,0
+30805_251_2,30805,30805_251,high_ddimer,931,947,Elevated D-dimer,0
+31462_252_1,31462,31462_252,high_ddimer,361,370,+ D-dimer,0
+29284_253_1,29284,29284_253,high_ddimer,383,398,elevated Ddimer,0
+29284_253_2,29284,29284_253,high_ddimer,958,975,"Elevated
+ D-dimer",0
+29231_254_1,29231,29231_254,high_ddimer,428,444,Elevated D-dimer,0
+29231_254_2,29231,29231_254,high_ddimer,1047,1063,Elevated d-dimer,0
+30927_255_1,30927,30927_255,high_ddimer,412,428,elevated d-dimer,0
+30733_256_1,30733,30733_256,high_ddimer,157,166,+ D DIMER,0
+30733_256_2,30733,30733_256,high_ddimer,402,411,+ d-dimer,0
+30733_256_3,30733,30733_256,high_ddimer,1011,1027,positive D-dimer,0
+12274_257_1,12274,12274_257,high_ddimer,334,350,elevated d dimer,0
+12274_257_2,12274,12274_257,high_ddimer,855,871,elevated D-dimer,0
+7589_258_1,7589,7589_258,high_ddimer,351,367,elevated d-dimer,0
+7589_258_2,7589,7589_258,high_ddimer,751,767,elevated D-dimer,0
+32061_259_1,32061,32061_259,high_ddimer,399,407,+d dimer,0
+32061_259_2,32061,32061_259,high_ddimer,670,686,positive D-dimer,0
+27089_260_1,27089,27089_260,high_ddimer,287,303,elevated d-dimer,0
+27089_260_2,27089,27089_260,high_ddimer,820,836,elevated D-dimer,0
+29519_261_1,29519,29519_261,high_ddimer,152,168,POSITIVE D DIMER,0
+29519_261_2,29519,29519_261,high_ddimer,412,428,positive d-dimer,0
+29519_261_3,29519,29519_261,high_ddimer,848,864,positive D-dimer,0
+29519_261_4,29519,29519_261,high_ddimer,2760,2776,POSITIVE D DIMER,0
+13794_262_1,13794,13794_262,high_ddimer,290,305,elevated ddimer,0
+13794_262_2,13794,13794_262,high_ddimer,730,746,elevated D-Dimer,0
+27416_263_1,27416,27416_263,high_ddimer,289,304,elevated Ddimer,0
+27416_263_2,27416,27416_263,high_ddimer,540,556,elevated D-dimer,0
+60762_264_1,60762,60762_264,high_ddimer,347,363,positive d-dimer,0
+73125_265_1,73125,73125_265,high_ddimer,403,419,elevated d-dimer,0
+73125_265_2,73125,73125_265,high_ddimer,1552,1568,elevated D-dimer,0
+13867_266_1,13867,13867_266,high_ddimer,419,435,D-Dimer of 3013 ,0
+1257_267_1,1257,1257_267,high_ddimer,416,432,positive d-dimer,0
+1257_267_2,1257,1257_267,high_ddimer,1116,1132,positive D-dimer,0
+25764_268_1,25764,25764_268,high_ddimer,301,310,+ d-dimer,0
+58947_269_1,58947,58947_269,high_ddimer,746,762,positive D-dimer,0
+87284_270_1,87284,87284_270,high_ddimer,1243,1259,positive D-dimer,0
+83031_271_1,83031,83031_271,high_ddimer,474,490,elevated D-dimer,0
+83031_271_2,83031,83031_271,high_ddimer,850,866,positive D-dimer,0
+48928_272_1,48928,48928_272,high_ddimer,372,387,positive DDimer,0
+48928_272_2,48928,48928_272,high_ddimer,833,849,Positive D-dimer,0
+54162_273_1,54162,54162_273,high_ddimer,357,373,positive d dimer,0
+54162_273_2,54162,54162_273,high_ddimer,1170,1187,"positive
+ D-dimer",0
+26012_274_1,26012,26012_274,high_ddimer,344,351,+ddimer,0
+26012_274_2,26012,26012_274,high_ddimer,1538,1554,elevated D-dimer,0
+68882_275_1,68882,68882_275,high_ddimer,403,419,elevated D-Dimer,0
+68882_275_2,68882,68882_275,high_ddimer,1199,1215,elevated D-dimer,0
+96260_276_1,96260,96260_276,high_ddimer,902,918,Positive D-dimer,0
+4588_277_1,4588,4588_277,high_ddimer,376,392,elevated d-dimer,0
+47853_278_1,47853,47853_278,high_ddimer,335,351,elevated d-dimer,0
+47853_278_2,47853,47853_278,high_ddimer,926,942,Elevated D-dimer,0
+6878_279_1,6878,6878_279,high_ddimer,329,337,+d-dimer,0
+6878_279_2,6878,6878_279,high_ddimer,1181,1197,positive D-dimer,0
+56179_280_1,56179,56179_280,high_ddimer,311,319,+d-dimer,0
+56179_280_2,56179,56179_280,high_ddimer,865,881,Positive D-dimer,0
+20643_281_1,20643,20643_281,high_ddimer,309,317,+d-dimer,0
+20643_281_2,20643,20643_281,high_ddimer,905,921,positive D-dimer,0
+73126_282_1,73126,73126_282,high_ddimer,310,326,elevated d-dimer,0
+73126_282_2,73126,73126_282,high_ddimer,824,840,elevated D-dimer,0
+30575_283_1,30575,30575_283,high_ddimer,338,354,positive d-dimer,0
+30575_283_2,30575,30575_283,high_ddimer,848,864,Positive D-dimer,0
+85050_284_1,85050,85050_284,high_ddimer,1340,1356,elevated D-dimer,0
+54623_285_1,54623,54623_285,high_ddimer,149,168,D-dimer [**3477**]),0
+54623_285_2,54623,54623_285,high_ddimer,502,531,D-dimer elevated >[**3477**] ,0
+54623_285_3,54623,54623_285,high_ddimer,696,715,D-dimer [**3477**]),0
+54623_285_4,54623,54623_285,high_ddimer,3354,3373,D-dimer [**3477**]),0
+54623_285_5,54623,54623_285,high_ddimer,1649,1665,elevated D-dimer,0
+16492_286_1,16492,16492_286,high_ddimer,323,339,positive D dimer,0
+16492_286_2,16492,16492_286,high_ddimer,901,917,positive D-dimer,0
+75156_287_1,75156,75156_287,high_ddimer,324,334,Pos ddimer,0
+75156_287_2,75156,75156_287,high_ddimer,836,852,positive D-dimer,0
+69251_288_1,69251,69251_288,high_ddimer,425,433,+D-dimer,0
+69251_288_2,69251,69251_288,high_ddimer,1491,1507,positive D-dimer,0
+64673_289_1,64673,64673_289,high_ddimer,365,381,positive D dimer,0
+64673_289_2,64673,64673_289,high_ddimer,1024,1040,positive D-dimer,0
+72488_290_1,72488,72488_290,high_ddimer,423,439,D-Dimer positive,0
+72488_290_2,72488,72488_290,high_ddimer,1049,1065,d-dimer positive,0
+90446_291_1,90446,90446_291,high_ddimer,351,367,positive d-dimer,0
+90446_291_2,90446,90446_291,high_ddimer,1257,1273,positive D-dimer,0
+90688_292_1,90688,90688_292,high_ddimer,398,414,elevated D-dimer,0
+90688_292_2,90688,90688_292,high_ddimer,2023,2039,elevated D-dimer,0
+59381_293_1,59381,59381_293,high_ddimer,476,492,positive d-dimer,0
+25860_294_1,25860,25860_294,high_ddimer,356,365,+ D Dimer,0
+25860_294_2,25860,25860_294,high_ddimer,826,842,positive D-dimer,0
+69758_295_1,69758,69758_295,high_ddimer,390,399,+ d-dimer,0
+98982_296_1,98982,98982_296,high_ddimer,395,410,elevated DDimer,0
+98982_296_2,98982,98982_296,high_ddimer,1082,1098,elevated D-dimer,0
+32605_297_1,32605,32605_297,high_ddimer,382,398,elevated D-Dimer,0
+32605_297_2,32605,32605_297,high_ddimer,980,996,elevated D-dimer,0
+50041_298_1,50041,50041_298,high_ddimer,377,393,elevated D-dimer,0
+50041_298_2,50041,50041_298,high_ddimer,1349,1365,Elevated D-dimer,0
+54494_299_1,54494,54494_299,high_ddimer,357,373,elevated d-dimer,0
+54494_299_2,54494,54494_299,high_ddimer,1143,1159,elevated D-dimer,0
+76760_300_1,76760,76760_300,high_ddimer,369,385,elevated d dimer,0
+76760_300_2,76760,76760_300,high_ddimer,1242,1258,elevated D-dimer,0
+81846_301_1,81846,81846_301,high_ddimer,425,440,"d-dimer 7000.
+ ",0
+81846_301_2,81846,81846_301,high_ddimer,1578,1594,elevated D-dimer,0
+98931_302_1,98931,98931_302,high_ddimer,344,351,+DDIMER,0
+98931_302_2,98931,98931_302,high_ddimer,908,924,positive D-dimer,0
+53081_303_1,53081,53081_303,high_ddimer,319,335,elevated D-dimer,0
+53081_303_2,53081,53081_303,high_ddimer,1159,1175,Elevated D-dimer,0
+46399_304_1,46399,46399_304,high_ddimer,397,413,elevated d-dimer,0
+72554_306_1,72554,72554_306,high_ddimer,342,357,elevated ddimer,0
+72554_306_2,72554,72554_306,high_ddimer,1039,1055,Elevated D-dimer,0
+15679_307_1,15679,15679_307,high_ddimer,390,406,elevated D-dimer,0
+15679_307_2,15679,15679_307,high_ddimer,1152,1168,elevated D-dimer,0
+97670_308_1,97670,97670_308,high_ddimer,160,176,ELEVATED D-DIMER,0
+97670_308_2,97670,97670_308,high_ddimer,385,401,elevated d-dimer,0
+97670_308_3,97670,97670_308,high_ddimer,695,711,elevated D-dimer,0
+97670_308_4,97670,97670_308,high_ddimer,3184,3200,ELEVATED D-DIMER,0
+45962_309_1,45962,45962_309,high_ddimer,315,330,elevated ddimer,0
+45962_309_2,45962,45962_309,high_ddimer,1009,1026,"elevated
+ D-dimer",0
+22442_310_1,22442,22442_310,high_ddimer,1184,1200,D-dimer positive,0
+73055_311_1,73055,73055_311,high_ddimer,143,159,Positive d-dimer,0
+73055_311_2,73055,73055_311,high_ddimer,470,486,Positive d-dimer,0
+73055_311_3,73055,73055_311,high_ddimer,1021,1037,positive D-dimer,0
+73055_311_4,73055,73055_311,high_ddimer,3260,3276,Positive d-dimer,0
+95004_312_1,95004,95004_312,high_ddimer,839,856,"elevated
+ D-dimer",0
+16492_313_1,16492,16492_313,high_ddimer,374,390,elevated D-Dimer,0
+16492_313_2,16492,16492_313,high_ddimer,1127,1143,elevated D-dimer,0
+13214_314_1,13214,13214_314,high_ddimer,132,148,ELEVATED D-DIMER,0
+13214_314_2,13214,13214_314,high_ddimer,488,504,elevated D-dimer,0
+91583_315_1,91583,91583_315,high_ddimer,466,482,elevated d-dimer,0
+59318_316_1,59318,59318_316,high_ddimer,346,362,elevated D-dimer,0
+59318_316_2,59318,59318_316,high_ddimer,1501,1517,elevated D-dimer,0
+73859_317_1,73859,73859_317,high_ddimer,1076,1093,"positive
+ D-dimer",0
+71677_318_1,71677,71677_318,high_ddimer,417,426,+ d dimer,0
+71677_318_2,71677,71677_318,high_ddimer,1070,1086,positive D-dimer,0
+80490_319_1,80490,80490_319,high_ddimer,305,321,elevated d-dimer,0
+80490_319_2,80490,80490_319,high_ddimer,1068,1084,elevated D-dimer,0
+65759_320_1,65759,65759_320,high_ddimer,1164,1180,elevated D-dimer,0
+90403_321_1,90403,90403_321,high_ddimer,342,363,ddimer to [**3254**].,0
+90403_321_2,90403,90403_321,high_ddimer,333,348,elevated ddimer,0
+90403_321_3,90403,90403_321,high_ddimer,770,786,elevated D-dimer,0
+54703_322_1,54703,54703_322,high_ddimer,909,925,elevated D-dimer,0
+58264_323_1,58264,58264_323,high_ddimer,331,347,positive d-dimer,0
+58264_323_2,58264,58264_323,high_ddimer,896,912,positive D-dimer,0
+50190_324_1,50190,50190_324,high_ddimer,330,346,elevated D-dimer,0
+50190_324_2,50190,50190_324,high_ddimer,886,902,elevated D-dimer,0
+56849_325_1,56849,56849_325,high_ddimer,387,403,elevated D-dimer,0
+56849_325_2,56849,56849_325,high_ddimer,1165,1181,Elevated D-dimer,0
+62841_326_1,62841,62841_326,high_ddimer,361,373,"ddimer 850
+ ",0
+62841_326_2,62841,62841_326,high_ddimer,1425,1441,positive D-dimer,0
+63218_327_1,63218,63218_327,high_ddimer,361,377,elevated D dimer,0
+63218_327_2,63218,63218_327,high_ddimer,1026,1042,elevated D-dimer,0
+71194_328_1,71194,71194_328,high_ddimer,315,331,positive d-dimer,0
+71194_328_2,71194,71194_328,high_ddimer,941,957,positive D-dimer,0
+92995_329_1,92995,92995_329,high_ddimer,330,346,elevated D Dimer,0
+92995_329_2,92995,92995_329,high_ddimer,663,680,"elevated
+ D-dimer",0
+43943_330_1,43943,43943_330,high_ddimer,318,334,elevated D-dimer,0
+43943_330_2,43943,43943_330,high_ddimer,934,950,elevated D-dimer,0
+94329_331_1,94329,94329_331,high_ddimer,339,355,elevated D dimer,0
+94329_331_2,94329,94329_331,high_ddimer,1142,1158,Elevated D-dimer,0
+40133_332_1,40133,40133_332,high_ddimer,327,343,elevated d-dimer,0
+40133_332_2,40133,40133_332,high_ddimer,834,850,elevated D-dimer,0
+63932_333_1,63932,63932_333,high_ddimer,360,375,elevated ddimer,0
+63932_333_2,63932,63932_333,high_ddimer,882,898,elevated D-dimer,0
+81384_334_1,81384,81384_334,high_ddimer,334,350,positive D dimer,0
+81384_334_2,81384,81384_334,high_ddimer,844,860,positive D-dimer,0

@@ -1,0 +1,65 @@
+Comments: ''
+Direction: forward
+Lex: neg for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: negative for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no central
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no evidence of
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no filling defect
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: no pe
+Regex: \bno\s{1,10}(?=pe)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: no pe1
+Regex: \bno\s{1,10}(?=pulmonary embolism)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: no pe2
+Regex: \bno\s{1,10}(?=septic embolism)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: low likelihood
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: less likely
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: '2018'
+Direction: forward
+Lex: low suspicion for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE

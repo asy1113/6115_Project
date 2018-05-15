@@ -1,0 +1,65 @@
+[**1111-11-11**] 10:53 PM
+
+ ______________________________________________________________________________
+ UNDERLYING MEDICAL CONDITION:
+  99 year old man with +ddimer yesterday 4000
+ REASON FOR THIS EXAMINATION:
+  eval for PE
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ WET READ: BTCa SAT [**2565-8-17**] 12:46 AM
+  Massive bilateral pulmonary emboli involving the bilateral distal, lobar and
+  multiple proximal segmental pulmonary arteries.  Focal gound glass opacity in
+  the left upper lobe may represent focal infarction, although follow up films
+  are recommended to ensure resolution.
+ WET READ VERSION #1 BTCa FRI [**2565-8-16**] 11:35 PM
+  Massive bilateral pulmonary saddle emboli on prelim scan.  Scan still in
+  process....
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  39-year-old male with positive D-dimer.
+
+ COMPARISONS:  None.
+
+ TECHNIQUE:  MDCT axial images from the thoracic inlet through the upper
+ abdomen were obtained following administration of 150 cc of intravenous
+ Optiray contrast using a gated chest pain protocol.  Multiplanar
+ reconstructions were performed.
+
+ CT CHEST WITH IV CONTRAST:  There are large bilateral pulmonary arterial
+ filling defects consistent with pulmonary emboli.  These involve the distal
+ main left and right pulmonary arteries extending into multiple lobar,
+ segmental and subsegmental branches.  The aorta is normal in caliber and
+ contour without focal dissection.  Air is seen within several venous
+ structures likely secondary to the injection.  The heart, pericardium and
+ great vessels appear within normal limits.  Airways are patent to the
+ subsegmental level bilaterally.  There are no pathologically enlarged
+ mediastinal, hilar or axillary lymph nodes.  Lung windows demonstrate a focal
+ subpleural ground glass opacity in the left upper lobe best visualized on
+ series 3, image 53.  No pulmonary nodules or pleural effusions are identified.
+
+ In the visualized upper abdomen, the imaged portions of the liver dome,
+ stomach and spleen appear within normal limits.
+
+ BONE WINDOWS:  No fractures or osseous findings suspicious for malignancy are
+ identified.  There are moderate degenerative changes within the thoracic
+ spine.
+
+ IMPRESSION:
+ 1.  Extensive bilateral pulmonary emboli as described above.  No evidence of
+ aortic dissection.
+ 2.  Focal subpleural ground glass opacity in the left upper lobe.  This
+                                                             (Over)
+
+ [**2565-8-16**] 10:53 PM
+ CTA CHEST W&W/O C &RECONS           Clip # [**Clip Number (Radiology) 43580**]
+ Reason: SOB,+DDIMER.?PE
+ Field of view: 36 Contrast: OPTIRAY Amt: 150
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ (Cont)
+ finding may represent a focal pulmonary infarction.  However, the possibility
+ of an infectious etiology or bronchogenic alveolar carcinoma cannot be
+ entirely excluded, and followup imaging is recommended to ensure resolution.
+
+ Findings were discussed with Dr. 
